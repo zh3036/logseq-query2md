@@ -14,17 +14,14 @@ A minimalist ClojureScript tool for running DataScript queries against a Logseq 
 ```bash
 # Install dependencies
 npm install
-
-# Make the script executable
-chmod +x index.mjs
 ```
 
 ## Usage
 
-Run a query from an EDN file against your Logseq graph:
+Run a query from an EDN file against your Logseq graph using npm:
 
 ```bash
-./index.mjs GRAPH_NAME QUERY_FILE
+npm run query -- GRAPH_NAME QUERY_FILE
 ```
 
 Where:
@@ -37,8 +34,8 @@ Where:
 # List available graphs
 ls ~/.logseq/graphs
 
-# Run a query
-./index.mjs your-graph-name ./example_query.edn
+# Run the example query to find all TODO items
+npm run query -- yihan_main_LOGSEQ ./example_query.edn
 ```
 
 ## Example Queries

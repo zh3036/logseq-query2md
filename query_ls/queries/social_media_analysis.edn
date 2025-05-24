@@ -1,0 +1,8 @@
+[:find (pull ?b [*])
+ :where
+ [?b :block/content ?c]
+ (or [(clojure.string/includes? ?c "social media")]
+     [(clojure.string/includes? ?c "wechat")]
+     [(clojure.string/includes? ?c "微信")]
+     [(clojure.string/includes? ?c "moments")]
+     [(clojure.string/includes? ?c "朋友圈")])]

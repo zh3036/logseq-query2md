@@ -4,6 +4,9 @@
   "description": "Simple Logseq query runner",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "query": "nbb-logseq ./src/simple_query.cljs"
+  },
   "bin": {
     "lq-simple": "index.mjs"
   },

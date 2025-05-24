@@ -1,0 +1,1530 @@
+Trying to run query on graph: yihan_main_LOGSEQ
+Looking for graph path...
+Graph path: /Users/yihan/.logseq/graphs/logseq_local_++Users++yihan++LocalYihan++yihan_main_LOGSEQ.transit
+Successfully loaded graph database
+Found query file: ./queries/pyq_references.edn
+Query string: [:find (pull ?b [*])
+ :where
+ [?t :block/name "pyq"]  ; Find the page/tag with name "pyq"
+ [?b :block/refs ?t]]    ; Find blocks that reference it
+
+Parsed query: [:find (pull ?b [*]) :where [?t :block/name "pyq"] [?b :block/refs ?t]]
+Executing query...
+Query results:
+([{:block/uuid #uuid "668a36f0-b1da-479c-b888-fcd2c1dd6b91",
+   :block/left {:db/id 20524},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "我从语言和理性的边界来探索 非理性的地方\n而不是直接探索\n#pyq",
+   :db/id 20521,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20515}],
+   :block/parent {:db/id 20527},
+   :block/page {:db/id 20515}}]
+ [{:block/uuid #uuid "668a383c-8140-4307-9a68-468bee1a874a",
+   :block/left {:db/id 29649},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 60113,
+   :block/path-refs [{:db/id 26} {:db/id 29649}],
+   :block/parent {:db/id 29649},
+   :block/page {:db/id 29649}}]
+ [{:block/uuid #uuid "668e5a1f-7653-47a4-8014-eaac25fe49eb",
+   :block/left {:db/id 74814},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]] 讲一下 HAI",
+   :db/id 74792,
+   :block/path-refs [{:db/id 26} {:db/id 68531}],
+   :block/parent {:db/id 68531},
+   :block/page {:db/id 68531}}]
+ [{:block/uuid #uuid "668a36c9-0a68-4925-9d53-cbdeb0453a8e",
+   :block/left {:db/id 84097},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "#thoughts [[pyq]]",
+   :db/id 9393,
+   :block/path-refs [{:db/id 26} {:db/id 45} {:db/id 9361}],
+   :block/parent {:db/id 9361},
+   :block/page {:db/id 9361}}]
+ [{:block/uuid #uuid "67a804bc-6c21-4132-b4c2-6659696ff16c",
+   :block/left {:db/id 92985},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "#thoughts #pyq",
+   :db/id 93041,
+   :block/path-refs [{:db/id 26} {:db/id 45} {:db/id 68980}],
+   :block/parent {:db/id 92985},
+   :block/page {:db/id 68980}}]
+ [{:block/uuid #uuid "668a36cd-ac61-4237-b74a-8eeb4ac479a4",
+   :block/left {:db/id 10184},
+   :block/refs
+   [{:db/id 26} {:db/id 2267} {:db/id 7733} {:db/id 10139}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[stoooges]]  [[评估 vs 教育]] [[pyq/posted]]",
+   :db/id 10190,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 212}
+    {:db/id 220}
+    {:db/id 2267}
+    {:db/id 7733}
+    {:db/id 10139}
+    {:db/id 10142}],
+   :block/parent {:db/id 10180},
+   :block/page {:db/id 10142}}]
+ [{:block/uuid #uuid "668a36f1-239c-42a1-9892-ab56c2b08596",
+   :block/left {:db/id 20762},
+   :block/refs [{:db/id 26} {:db/id 7254}],
+   :block/format :markdown,
+   :block/content "#pyq #拜年 候选",
+   :db/id 20765,
+   :block/path-refs
+   [{:db/id 26} {:db/id 7254} {:db/id 14912} {:db/id 20758}],
+   :block/parent {:db/id 20762},
+   :block/page {:db/id 20758}}]
+ [{:block/uuid #uuid "668a36fb-3fb5-4b88-b413-eb79cd0f9015",
+   :block/left {:db/id 24479},
+   :block/refs [{:db/id 26} {:db/id 24481}],
+   :block/format :markdown,
+   :block/content "[[pyq/0]]",
+   :db/id 24490,
+   :block/path-refs [{:db/id 26} {:db/id 24479} {:db/id 24481}],
+   :block/parent {:db/id 24479},
+   :block/page {:db/id 24479}}]
+ [{:block/uuid #uuid "668a36cd-b69b-43dc-968b-02322fc4c430",
+   :block/left {:db/id 10308},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "发一个[[pyq]]",
+   :db/id 10327,
+   :block/path-refs
+   [{:db/id 26} {:db/id 220} {:db/id 1456} {:db/id 10270}],
+   :block/parent {:db/id 10287},
+   :block/page {:db/id 10270}}]
+ [{:block/uuid #uuid "668a36f1-1ed4-45c6-ba64-d42a16748fea",
+   :block/left {:db/id 20752},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "#pyq\n师傅\n太阳寿命\n地球至今46亿\n意识到了问题的严重性\n\n打车去影院，师傅问我一个人看啊? 我说朋友在了，看流浪地球2。师傅问啥内容，我说：好像是太阳寿命到了要毁灭了，地球得跑。\n师傅突然很认真的问，in 济宁话，「所以太阳真的有寿命拜？」\n八十亿年，我告诉他。\n「那地球到现在多大了?」\n四十六亿年，我告诉他。\n\n师傅沉默了一会儿，道「我好像意识到了问题的严重性。」",
+   :db/id 20753,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20750}],
+   :block/parent {:db/id 20752},
+   :block/page {:db/id 20750}}]
+ [{:block/uuid #uuid "668a36ee-ee54-41c0-b0f3-ce063055a121",
+   :block/left {:db/id 20026},
+   :block/refs [{:db/id 26} {:db/id 7337}],
+   :block/format :markdown,
+   :block/content "[[@max-王皓天]] [[pyq]]",
+   :db/id 20037,
+   :block/path-refs [{:db/id 26} {:db/id 7337} {:db/id 20002}],
+   :block/parent {:db/id 20002},
+   :block/page {:db/id 20002}}]
+ [{:block/uuid #uuid "66bf1a1e-2e34-430e-a259-bf60ac13d006",
+   :block/left {:db/id 78695},
+   :block/refs [{:db/id 26} {:db/id 78673}],
+   :block/format :markdown,
+   :block/content "#pyq [[一个人类仍然relavant的未来]]",
+   :db/id 78760,
+   :block/path-refs [{:db/id 26} {:db/id 46967} {:db/id 78673}],
+   :block/parent {:db/id 78695},
+   :block/page {:db/id 46967}}]
+ [{:block/uuid #uuid "68051a36-44c8-4b12-9580-3a922f23c3bf",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1745199864480,
+   :block/left {:db/id 97519},
+   :block/refs [{:db/id 26} {:db/id 45} {:db/id 47171}],
+   :block/created-at 1745199864480,
+   :block/journal-day 20250421,
+   :block/format :markdown,
+   :block/content "#thoughts [[note taking tools]] #pyq",
+   :db/id 97520,
+   :block/path-refs
+   [{:db/id 26} {:db/id 45} {:db/id 47171} {:db/id 97519}],
+   :block/parent {:db/id 97519},
+   :block/page {:db/id 97519}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a36f0-f2c6-410c-8c8f-7a2c90169705",
+   :block/properties {},
+   :block/left {:db/id 20533},
+   :block/refs [{:db/id 26} {:db/id 45} {:db/id 10013} {:db/id 20532}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "#pyq #thoughts [[DAO]] [[罗马]]\ncollapsed:: true",
+   :db/id 20547,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 45}
+    {:db/id 10013}
+    {:db/id 20532}
+    {:db/id 20533}],
+   :block/parent {:db/id 20533},
+   :block/page {:db/id 20533}}]
+ [{:block/uuid #uuid "668a36e7-3980-4afd-b311-27a6aaaa2b1b",
+   :block/left {:db/id 18317},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 18348,
+   :block/path-refs [{:db/id 26} {:db/id 18317}],
+   :block/parent {:db/id 18317},
+   :block/page {:db/id 18317}}]
+ [{:block/uuid #uuid "668a36e8-4b5d-470f-8a73-c92ca1e044c7",
+   :block/left {:db/id 18502},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "[[pyq]]  刚刚看到一个斯坦福本科的朋友 表达 自己缺乏 streetsmart，做事「依赖传统路径，对其他路径感到僵硬、不自在、不安全」。我突然有一个revelation：言情小说里 学习好的女高中生和班里成绩最差的男生，或者和小混混谈恋爱也许是为了shadow一个streetsmart person？ 也许「因为会觉得很amazed，怎么有人可以这么做人做事还做成某种自己无法做成事情」",
+   :db/id 18503,
+   :block/path-refs [{:db/id 26} {:db/id 18502}],
+   :block/parent {:db/id 18502},
+   :block/page {:db/id 18502}}]
+ [{:block/uuid #uuid "668a36c7-89db-4779-8c42-52b5de011369",
+   :block/left {:db/id 7747},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 6775} {:db/id 7733}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[paideia/股权]] [[pyq/posted]]",
+   :db/id 7749,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 6775} {:db/id 7732} {:db/id 7733}],
+   :block/parent {:db/id 7732},
+   :block/page {:db/id 7732}}]
+ [{:block/uuid #uuid "66d56576-50d5-47fd-a801-34faaf109058",
+   :block/left {:db/id 80238},
+   :block/refs [{:db/id 26} {:db/id 29821}],
+   :block/format :markdown,
+   :block/content "[[20220130]] [[pyq]]",
+   :db/id 80181,
+   :block/path-refs [{:db/id 26} {:db/id 29676} {:db/id 29821}],
+   :block/parent {:db/id 29676},
+   :block/page {:db/id 29676}}]
+ [{:block/uuid #uuid "668a36f5-1fd2-4384-944c-ecf884d288de",
+   :block/left {:db/id 21669},
+   :block/refs
+   [{:db/id 26} {:db/id 11728} {:db/id 21613} {:db/id 21634}],
+   :block/format :markdown,
+   :block/content "[[pdf]] 和 [[web2.5]]的类似 [[pyq]] \n[[web3]]",
+   :db/id 21665,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 11728}
+    {:db/id 21613}
+    {:db/id 21619}
+    {:db/id 21634}],
+   :block/parent {:db/id 21619},
+   :block/page {:db/id 21619}}]
+ [{:block/uuid #uuid "668e5a1e-468b-47d5-a0a7-ad0deb24d955",
+   :block/left {:db/id 73704},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "公司背后是真实的创业者 有真实的struggle [[pyq]]",
+   :db/id 73748,
+   :block/path-refs [{:db/id 26} {:db/id 1093} {:db/id 19142}],
+   :block/parent {:db/id 73673},
+   :block/page {:db/id 19142}}]
+ [{:block/properties-text-values
+   {:id "668a36ee-a820-4a2b-8bd1-d4d14330eb57"},
+   :block/uuid #uuid "668a36ee-a820-4a2b-8bd1-d4d14330eb57",
+   :block/properties {:id "668a36ee-a820-4a2b-8bd1-d4d14330eb57"},
+   :block/updated-at 1727610496329,
+   :block/left {:db/id 19775},
+   :block/refs
+   [{:db/id 26} {:db/id 215} {:db/id 14772} {:db/id 19776}],
+   :block/properties-order (:id),
+   :block/created-at 1727610496329,
+   :block/format :markdown,
+   :block/content
+   "[[内卷]] #pyq [[ToBe/Written]]\nid:: 668a36ee-a820-4a2b-8bd1-d4d14330eb57",
+   :db/id 19802,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 215}
+    {:db/id 14772}
+    {:db/id 19775}
+    {:db/id 19776}],
+   :block/parent {:db/id 19775},
+   :block/page {:db/id 19775}}]
+ [{:block/uuid #uuid "67e51001-2795-4c44-8af4-4ff5c1ba41a8",
+   :block/left {:db/id 96758},
+   :block/refs [{:db/id 26} {:db/id 7733}],
+   :block/format :markdown,
+   :block/content "[[pyq/posted]]",
+   :db/id 96760,
+   :block/path-refs [{:db/id 26} {:db/id 7733}],
+   :block/parent {:db/id 26},
+   :block/page {:db/id 26}}]
+ [{:block/uuid #uuid "6777c428-af3a-427a-a11c-fde36d861ee4",
+   :block/left {:db/id 90204},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "#thoughts #pyq",
+   :db/id 90219,
+   :block/path-refs [{:db/id 26} {:db/id 45} {:db/id 90134}],
+   :block/parent {:db/id 90134},
+   :block/page {:db/id 90134}}]
+ [{:block/uuid #uuid "6703b0d6-ff1e-4a8a-8790-e11fa921f174",
+   :block/left {:db/id 79398},
+   :block/refs [{:db/id 7} {:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "DONE 继续写 [[pyq]]\n:LOGBOOK:\nCLOCK: [2024-08-17 Sat 17:37:20]--[2024-10-06 Sun 19:57:53] =>  1202:20:33\n:END:",
+   :db/id 85125,
+   :block/path-refs [{:db/id 7} {:db/id 26} {:db/id 78903}],
+   :block/parent {:db/id 78903},
+   :block/page {:db/id 78903},
+   :block/marker "DONE"}]
+ [{:block/uuid #uuid "668a370c-10b9-4cd7-80da-77e4461d977b",
+   :block/left {:db/id 29826},
+   :block/refs [{:db/id 26} {:db/id 29822}],
+   :block/format :markdown,
+   :block/content "[[pyq/分不同的类别]]",
+   :db/id 29836,
+   :block/path-refs [{:db/id 26} {:db/id 29821} {:db/id 29822}],
+   :block/parent {:db/id 29821},
+   :block/page {:db/id 29821}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668e5a20-c150-4ad0-8c06-91e5d88922d2",
+   :block/properties {},
+   :block/left {:db/id 75345},
+   :block/refs [{:db/id 26}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "[[pyq]]\ncollapsed:: true",
+   :db/id 75373,
+   :block/path-refs [{:db/id 26} {:db/id 26337}],
+   :block/parent {:db/id 26337},
+   :block/page {:db/id 26337}}]
+ [{:block/uuid #uuid "668a37a9-519d-495a-b2e1-3b0cc296b026",
+   :block/left {:db/id 52456},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 52499,
+   :block/path-refs [{:db/id 26} {:db/id 52307}],
+   :block/parent {:db/id 52307},
+   :block/page {:db/id 52307}}]
+ [{:block/uuid #uuid "668a3786-c180-4e47-a3b1-11cd346493a4",
+   :block/left {:db/id 45783},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "#pyq",
+   :db/id 45738,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 215}
+    {:db/id 11728}
+    {:db/id 18623}
+    {:db/id 18925}
+    {:db/id 18966}
+    {:db/id 24525}
+    {:db/id 45721}],
+   :block/parent {:db/id 45783},
+   :block/page {:db/id 18966}}]
+ [{:block/uuid #uuid "67a804ab-b6ce-4273-915b-c936608910c1",
+   :block/left {:db/id 92578},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 92586,
+   :block/path-refs [{:db/id 26} {:db/id 92272}],
+   :block/parent {:db/id 92272},
+   :block/page {:db/id 92272}}]
+ [{:block/uuid #uuid "668a3711-2b56-4f7d-ab8b-4ec9531d80e3",
+   :block/left {:db/id 30280},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 30276,
+   :block/path-refs [{:db/id 26} {:db/id 30258}],
+   :block/parent {:db/id 30258},
+   :block/page {:db/id 30258}}]
+ [{:block/uuid #uuid "6805d59e-bc27-4a5d-b4eb-c62e31ef1782",
+   :block/left {:db/id 97882},
+   :block/refs [{:db/id 5} {:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "NOW #pyq 问一下 ai coding的问题 both 擅长的 和 不擅长的\n:LOGBOOK:\nCLOCK: [2025-01-03 Fri 13:21:13]\n:END:",
+   :db/id 97873,
+   :block/path-refs [{:db/id 5} {:db/id 26} {:db/id 90195}],
+   :block/parent {:db/id 90195},
+   :block/page {:db/id 90195},
+   :block/marker "NOW"}]
+ [{:block/uuid #uuid "668a36f6-c05e-4917-b2e5-682d06b666ef",
+   :block/left {:db/id 22289},
+   :block/refs [{:db/id 26} {:db/id 21095}],
+   :block/format :markdown,
+   :block/content "[[green pill 中文社区]] [[pyq]]",
+   :db/id 22351,
+   :block/path-refs [{:db/id 26} {:db/id 21095} {:db/id 22263}],
+   :block/parent {:db/id 22263},
+   :block/page {:db/id 22263}}]
+ [{:block/uuid #uuid "668a36f1-6f8a-46c9-9358-ca2c7b923ffd",
+   :block/left {:db/id 20836},
+   :block/refs [{:db/id 26} {:db/id 18623}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[network state]]",
+   :db/id 20843,
+   :block/path-refs [{:db/id 26} {:db/id 18623} {:db/id 20836}],
+   :block/parent {:db/id 20836},
+   :block/page {:db/id 20836}}]
+ [{:block/uuid #uuid "668a36f9-f4ec-4ba1-a557-28b98591868d",
+   :block/left {:db/id 22847},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "#pyq\n一些补充\n1 上海为好 北京也行 其他地方也可以创造机会\n2 标签仅供参考 2p都兴趣广泛 非常发散 啥都能聊\n3 如果有需要参考硬标签来做判断的朋友 同济 mit 华为 \n4 图二很帅 但不是我",
+   :db/id 22849,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 22844}],
+   :block/parent {:db/id 22853},
+   :block/page {:db/id 22844}}]
+ [{:block/uuid #uuid "67a804bc-f416-4c9d-aabd-c7791c40b661",
+   :block/left {:db/id 93027},
+   :block/refs
+   [{:db/id 26}
+    {:db/id 316}
+    {:db/id 402}
+    {:db/id 6681}
+    {:db/id 6683}
+    {:db/id 14073}],
+   :block/format :markdown,
+   :block/content
+   "#pyq #attention #zyh/创作 #thought [[两种 attention: public vs private]]",
+   :db/id 93122,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 316}
+    {:db/id 402}
+    {:db/id 6681}
+    {:db/id 6683}
+    {:db/id 14073}
+    {:db/id 68980}],
+   :block/parent {:db/id 93027},
+   :block/page {:db/id 68980}}]
+ [{:block/uuid #uuid "668a3705-c688-47a0-ac0b-ac39abf67c74",
+   :block/left {:db/id 27637},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "—pyq 版本 [[pyq]]",
+   :db/id 27679,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 12550}
+    {:db/id 12922}
+    {:db/id 19133}
+    {:db/id 25156}
+    {:db/id 27313}],
+   :block/parent {:db/id 27571},
+   :block/page {:db/id 27313}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a36e9-efff-4f58-91d1-695176db7840",
+   :block/properties {},
+   :block/left {:db/id 18963},
+   :block/refs [{:db/id 26} {:db/id 4813}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "#pyq #aigc\ncollapsed:: true",
+   :db/id 18957,
+   :block/path-refs [{:db/id 26} {:db/id 4813} {:db/id 18950}],
+   :block/parent {:db/id 18950},
+   :block/page {:db/id 18950}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668e5a1e-ab40-4ea3-b552-6ec142e61ce6",
+   :block/properties {},
+   :block/left {:db/id 20155},
+   :block/refs
+   [{:db/id 26} {:db/id 33} {:db/id 316} {:db/id 4813} {:db/id 9911}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content
+   "[[chatgpt]] [[aigc]] [[pyq]] #thought #Question\ncollapsed:: true",
+   :db/id 73429,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 33}
+    {:db/id 316}
+    {:db/id 4813}
+    {:db/id 9911}
+    {:db/id 20155}],
+   :block/parent {:db/id 20155},
+   :block/page {:db/id 20155}}]
+ [{:block/uuid #uuid "668e5a1f-d6d8-4403-ba70-74d92a5f6f49",
+   :block/left {:db/id 74820},
+   :block/refs
+   [{:db/id 6}
+    {:db/id 26}
+    {:db/id 35}
+    {:db/id 45}
+    {:db/id 215}
+    {:db/id 10930}],
+   :block/format :markdown,
+   :block/content
+   "LATER [[thoughts]] [[pyq]] [[AI]] [[tobe/gpted]] 一个人要模仿llm 反向图灵测试\n:LOGBOOK:\nCLOCK: [2024-07-08 Mon 15:12:26]--[2024-10-06 Sun 19:41:58] =>  2164:29:32\n:END:",
+   :db/id 74821,
+   :block/path-refs
+   [{:db/id 5}
+    {:db/id 6}
+    {:db/id 26}
+    {:db/id 35}
+    {:db/id 45}
+    {:db/id 215}
+    {:db/id 10929}
+    {:db/id 10930}],
+   :block/parent {:db/id 10929},
+   :block/page {:db/id 10929},
+   :block/marker "LATER"}]
+ [{:block/uuid #uuid "67e51001-30cd-46a5-93e2-d324718a97ee",
+   :block/left {:db/id 96715},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 96719,
+   :block/path-refs [{:db/id 26} {:db/id 96715}],
+   :block/parent {:db/id 96715},
+   :block/page {:db/id 96715}}]
+ [{:block/uuid #uuid "6828bb7d-cfc3-4d12-8876-f1eda09a6fa1",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1747499918815,
+   :block/left {:db/id 101087},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 214}],
+   :block/created-at 1747499918815,
+   :block/format :markdown,
+   :block/content "[[paideia/writing]] #pyq",
+   :db/id 101088,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 214} {:db/id 101086}],
+   :block/parent {:db/id 101086},
+   :block/page {:db/id 101086}}]
+ [{:block/uuid #uuid "6742f059-63e6-4bea-83e8-b68e73299b15",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1732440358490,
+   :block/left {:db/id 86831},
+   :block/refs [{:db/id 6} {:db/id 26}],
+   :block/created-at 1732440358490,
+   :block/format :markdown,
+   :block/content "LATER 可能平常还是可以蹦迪的 只是需要特定的场合 [[pyq]]",
+   :db/id 86834,
+   :block/path-refs
+   [{:db/id 6}
+    {:db/id 26}
+    {:db/id 13917}
+    {:db/id 86707}
+    {:db/id 86755}],
+   :block/parent {:db/id 86804},
+   :block/page {:db/id 86707},
+   :block/marker "LATER"}]
+ [{:block/uuid #uuid "668a36f1-00ad-4146-a6bc-73076a73cffe",
+   :block/left {:db/id 20721},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "有些学科是一个关于人类共识的学科 而非本体论的学科 典型比如语文 文学 会计\n我可能一直不太擅长去学习这类事情 去看全体人类 或者部分人类 如何慢慢获得共识 即使没有一个明确 客观 的本体论基础\n\n#pyq",
+   :db/id 20710,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20706}],
+   :block/parent {:db/id 20721},
+   :block/page {:db/id 20706}}]
+ [{:block/uuid #uuid "668a36d5-3b42-4db0-8d29-fbd12cb2046e",
+   :block/priority "A",
+   :block/left {:db/id 12412},
+   :block/refs
+   [{:db/id 5}
+    {:db/id 15}
+    {:db/id 22}
+    {:db/id 26}
+    {:db/id 214}
+    {:db/id 316}],
+   :block/format :markdown,
+   :block/content
+   "NOW [#A] [[paideia/writing]]  标签 一些可以写的东西 开始初步写写列列 #thought #pyq\n:LOGBOOK:\nCLOCK: [2023-10-19 Thu 04:05:25]\nCLOCK: [2023-10-19 Thu 04:05:29]\n:END:",
+   :db/id 12414,
+   :block/path-refs
+   [{:db/id 5}
+    {:db/id 15}
+    {:db/id 22}
+    {:db/id 26}
+    {:db/id 214}
+    {:db/id 316}
+    {:db/id 12375}],
+   :block/parent {:db/id 12375},
+   :block/page {:db/id 12375},
+   :block/marker "NOW"}]
+ [{:block/uuid #uuid "668a36d5-9d2b-4a8e-85f1-02b35d2dfc31",
+   :block/left {:db/id 12427},
+   :block/refs
+   [{:db/id 26}
+    {:db/id 316}
+    {:db/id 6682}
+    {:db/id 12372}
+    {:db/id 12373}],
+   :block/format :markdown,
+   :block/content
+   "[[硬通货]] [[文化资本]] #thought [[pyq]] [[钱 attention reputation 的 转化]]",
+   :db/id 12398,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 316}
+    {:db/id 6682}
+    {:db/id 12372}
+    {:db/id 12373}
+    {:db/id 12375}],
+   :block/parent {:db/id 12375},
+   :block/page {:db/id 12375}}]
+ [{:block/uuid #uuid "668a36e8-8e3c-4604-a5c4-097db0d8513c",
+   :block/left {:db/id 18512},
+   :block/refs
+   [{:db/id 26}
+    {:db/id 4020}
+    {:db/id 4813}
+    {:db/id 7733}
+    {:db/id 9911}],
+   :block/format :markdown,
+   :block/content
+   "[[chatgpt]] [[LLM]] [[aigc]] [[pyq]] [[pyq/posted]]",
+   :db/id 18521,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 4020}
+    {:db/id 4813}
+    {:db/id 7733}
+    {:db/id 9911}
+    {:db/id 18512}],
+   :block/parent {:db/id 18512},
+   :block/page {:db/id 18512}}]
+ [{:block/uuid #uuid "67a5bcb1-dc36-40c0-bdf0-b7cd9c3e6d94",
+   :block/left {:db/id 92305},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 92379,
+   :block/path-refs [{:db/id 26} {:db/id 92305}],
+   :block/parent {:db/id 92305},
+   :block/page {:db/id 92305}}]
+ [{:block/uuid #uuid "675badd7-b60d-4007-bba1-de8b92808bb5",
+   :block/left {:db/id 87759},
+   :block/refs
+   [{:db/id 22} {:db/id 26} {:db/id 45} {:db/id 565} {:db/id 14769}],
+   :block/format :markdown,
+   :block/content "[[note]] #thoughts [[paideia/pivot]] [[pyq]]",
+   :db/id 87758,
+   :block/path-refs
+   [{:db/id 22}
+    {:db/id 26}
+    {:db/id 45}
+    {:db/id 565}
+    {:db/id 14769}
+    {:db/id 87611}],
+   :block/parent {:db/id 87611},
+   :block/page {:db/id 87611}}]
+ [{:block/uuid #uuid "668a36f1-835d-4429-9642-6ef6b749592c",
+   :block/left {:db/id 20782},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "#pyq\nweak 朋友 ， weak is not nece bad， fact we  focusing on differenr comm and info working on different realm\nmay our  path cross in  the future\nstrong , honor has been mine. factually de weaken is ok  tie is always there, strong weak 非常看工作内荣\n\n5 weak tie并不意味着关系",
+   :db/id 20831,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20776}],
+   :block/parent {:db/id 20782},
+   :block/page {:db/id 20776}}]
+ [{:block/uuid #uuid "668a3851-0a06-43ba-8b83-b4489c7bdcfd",
+   :block/left {:db/id 65480},
+   :block/refs [{:db/id 26} {:db/id 61491}],
+   :block/format :markdown,
+   :block/content "[[关于 干涉别国内政 vs 女权]] #pyq",
+   :db/id 65491,
+   :block/path-refs [{:db/id 26} {:db/id 12550} {:db/id 61491}],
+   :block/parent {:db/id 12550},
+   :block/page {:db/id 12550}}]
+ [{:block/uuid #uuid "668a36c3-91a9-495a-a610-e2d22245c9b0",
+   :block/left {:db/id 6692},
+   :block/refs [{:db/id 26} {:db/id 6681} {:db/id 6682} {:db/id 6683}],
+   :block/format :markdown,
+   :block/content
+   "[[attention]] [[pyq]] [[钱 attention reputation 的 转化]] [[两种 attention: public vs private]]",
+   :db/id 6695,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 6679}
+    {:db/id 6681}
+    {:db/id 6682}
+    {:db/id 6683}],
+   :block/parent {:db/id 6679},
+   :block/page {:db/id 6679}}]
+ [{:block/uuid #uuid "668a36d6-a965-4ab2-9ad9-8e4858ebe73d",
+   :block/left {:db/id 13018},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 12998,
+   :block/path-refs
+   [{:db/id 26} {:db/id 402} {:db/id 12982} {:db/id 12986}],
+   :block/parent {:db/id 13018},
+   :block/page {:db/id 12982}}]
+ [{:block/uuid #uuid "668a370c-26b9-43ee-b5d5-3be0d4662e6a",
+   :block/left {:db/id 29817},
+   :block/refs [{:db/id 26} {:db/id 29816}],
+   :block/format :markdown,
+   :block/content "[[pyq/2022春节]]",
+   :db/id 29818,
+   :block/path-refs [{:db/id 26} {:db/id 29815} {:db/id 29816}],
+   :block/parent {:db/id 29815},
+   :block/page {:db/id 29815}}]
+ [{:block/uuid #uuid "6828b463-cc5b-45fa-9961-6d1fd56b4bb6",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1747500175369,
+   :block/left {:db/id 101086},
+   :block/refs [{:db/id 26}],
+   :block/created-at 1747500175369,
+   :block/journal-day 20250518,
+   :block/format :markdown,
+   :block/content "#pyq",
+   :db/id 101087,
+   :block/path-refs [{:db/id 26} {:db/id 101086}],
+   :block/parent {:db/id 101086},
+   :block/page {:db/id 101086}}]
+ [{:block/properties-text-values
+   {:id "669b1fb9-b9c6-477f-9fe1-74e844765f1a"},
+   :block/uuid #uuid "669b1fb9-b9c6-477f-9fe1-74e844765f1a",
+   :block/properties {:id "669b1fb9-b9c6-477f-9fe1-74e844765f1a"},
+   :block/left {:db/id 76734},
+   :block/refs [{:db/id 26} {:db/id 76894}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "[[pyq]] [[拉普拉斯妖]] 和 合成文本\nid:: 669b1fb9-b9c6-477f-9fe1-74e844765f1a",
+   :db/id 76735,
+   :block/path-refs [{:db/id 26} {:db/id 76505} {:db/id 76894}],
+   :block/parent {:db/id 76505},
+   :block/page {:db/id 76505}}]
+ [{:block/uuid #uuid "668a36f5-1878-466f-badf-8a168ad7a284",
+   :block/left {:db/id 21562},
+   :block/refs
+   [{:db/id 26} {:db/id 12550} {:db/id 21560} {:db/id 21561}],
+   :block/format :markdown,
+   :block/content
+   "[[足球]] [[世界杯]] 精彩的原因之一 也是 国家队没得选 [[灵感想法]] [[pyq]]\n:LOGBOOK:\nCLOCK: [2022-12-14 Wed 12:16:48]--[2022-12-14 Wed 12:16:52] =>  00:00:04\n:END:",
+   :db/id 21576,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 12550}
+    {:db/id 21560}
+    {:db/id 21561}
+    {:db/id 21562}],
+   :block/parent {:db/id 21562},
+   :block/page {:db/id 21562}}]
+ [{:block/uuid #uuid "67e18fa5-ec8b-4718-9497-5197c98fc2ae",
+   :block/left {:db/id 96521},
+   :block/refs [{:db/id 19} {:db/id 26} {:db/id 33} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "[[课代表立正]] #question #thoughts #pyq",
+   :db/id 96578,
+   :block/path-refs
+   [{:db/id 19} {:db/id 26} {:db/id 30} {:db/id 33} {:db/id 45}],
+   :block/parent {:db/id 30},
+   :block/page {:db/id 30}}]
+ [{:block/uuid #uuid "67a804bc-57e7-4656-9905-ae6cd4efd623",
+   :block/left {:db/id 93271},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "#pyq",
+   :db/id 93221,
+   :block/path-refs [{:db/id 26} {:db/id 68980}],
+   :block/parent {:db/id 93271},
+   :block/page {:db/id 68980}}]
+ [{:block/uuid #uuid "668a36c7-b88e-46b9-935e-5fbe098bef2a",
+   :block/left {:db/id 7456},
+   :block/refs [{:db/id 26} {:db/id 6681} {:db/id 7478}],
+   :block/format :markdown,
+   :block/content
+   "[[pyq]] ((6506badf-2e0b-4a98-9037-35ab1c364e02)) [[两种 attention: public vs private]]",
+   :db/id 7498,
+   :block/path-refs [{:db/id 26} {:db/id 6681} {:db/id 7434}],
+   :block/parent {:db/id 7434},
+   :block/page {:db/id 7434}}]
+ [{:block/uuid #uuid "67e18fa4-327f-4daf-b670-8c500bc8bd3a",
+   :block/left {:db/id 1854},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 1274} {:db/id 1286}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[paideia]] [[奇绩创坛/demo day]]",
+   :db/id 96300,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 1274} {:db/id 1286} {:db/id 1854}],
+   :block/parent {:db/id 1854},
+   :block/page {:db/id 1854}}]
+ [{:block/properties-text-values
+   {:id "66e68682-f7a8-4949-8423-abcb3b1cd415"},
+   :block/uuid #uuid "66e68682-f7a8-4949-8423-abcb3b1cd415",
+   :block/properties {:id "66e68682-f7a8-4949-8423-abcb3b1cd415"},
+   :block/journal? true,
+   :block/updated-at 1730984677374,
+   :block/left {:db/id 86088},
+   :block/refs
+   [{:db/id 5} {:db/id 26} {:db/id 212} {:db/id 220} {:db/id 86484}],
+   :block/properties-order (:id),
+   :block/created-at 1730984677374,
+   :block/format :markdown,
+   :block/content
+   "NOW [[pyq]] [[plan/今日]] [[20241107]]\nid:: 66e68682-f7a8-4949-8423-abcb3b1cd415\n:LOGBOOK:\nCLOCK: [2024-09-15 Sun 15:02:29]\nCLOCK: [2024-09-15 Sun 15:02:31]--[2024-09-16 Mon 12:30:11] =>  21:27:40\nCLOCK: [2024-11-07 Thu 21:02:15]\n:END:",
+   :db/id 81146,
+   :block/path-refs
+   [{:db/id 5}
+    {:db/id 26}
+    {:db/id 212}
+    {:db/id 220}
+    {:db/id 81099}
+    {:db/id 86484}],
+   :block/parent {:db/id 81099},
+   :block/page {:db/id 81099},
+   :block/marker "NOW"}]
+ [{:block/uuid #uuid "677e6a7a-3a1e-4acf-aeea-7c9c0822e280",
+   :block/left {:db/id 91656},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 91623,
+   :block/path-refs [{:db/id 26} {:db/id 87677} {:db/id 87825}],
+   :block/parent {:db/id 87827},
+   :block/page {:db/id 87825}}]
+ [{:block/properties-text-values
+   {:id "6506badc-e823-4479-b876-8299c56c0d72"},
+   :block/uuid #uuid "6506badc-e823-4479-b876-8299c56c0d72",
+   :block/properties {:id "6506badc-e823-4479-b876-8299c56c0d72"},
+   :block/left {:db/id 14339},
+   :block/refs [{:db/id 7} {:db/id 26}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "DONE 发布一下为什么文书不是个好的筛选方式 [[pyq]]\nid:: 6506badc-e823-4479-b876-8299c56c0d72\n:LOGBOOK:\nCLOCK: [2023-09-04 Mon 13:41:59]--[2024-01-29 Mon 23:50:38] =>  3538:08:39\n:END:",
+   :db/id 12396,
+   :block/path-refs [{:db/id 7} {:db/id 26} {:db/id 14201}],
+   :block/parent {:db/id 14201},
+   :block/page {:db/id 14201},
+   :block/marker "DONE"}]
+ [{:block/uuid #uuid "668a36b8-9e0b-4794-9df5-50fffa42f3f4",
+   :block/left {:db/id 1273},
+   :block/refs [{:db/id 26} {:db/id 1274}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[奇绩创坛]]",
+   :db/id 1281,
+   :block/path-refs [{:db/id 26} {:db/id 1273} {:db/id 1274}],
+   :block/parent {:db/id 1273},
+   :block/page {:db/id 1273}}]
+ [{:block/uuid #uuid "668a370a-3006-4e38-988c-4ba4e23d3ee1",
+   :block/left {:db/id 29557},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 29559,
+   :block/path-refs [{:db/id 26} {:db/id 29557}],
+   :block/parent {:db/id 29557},
+   :block/page {:db/id 29557}}]
+ [{:block/uuid #uuid "668a36bd-1b42-44f2-a450-eb97651b63af",
+   :block/left {:db/id 5140},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 565} {:db/id 5335}],
+   :block/format :markdown,
+   :block/content "[[paideia/pivot]] #pyq [[paideia/blog]]",
+   :db/id 5376,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 565} {:db/id 5335} {:db/id 5338}],
+   :block/parent {:db/id 5338},
+   :block/page {:db/id 5338}}]
+ [{:block/properties-text-values
+   {:id "6506badf-2e0b-4a98-9037-35ab1c364e02"},
+   :block/uuid #uuid "6506badf-2e0b-4a98-9037-35ab1c364e02",
+   :block/properties {:id "6506badf-2e0b-4a98-9037-35ab1c364e02"},
+   :block/left {:db/id 17855},
+   :block/refs [{:db/id 7} {:db/id 26} {:db/id 14034}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "DONE [[pyq]] [[jike]] attention，AI，社交 两种attention，personal的和公共trust \nid:: 6506badf-2e0b-4a98-9037-35ab1c364e02\n:LOGBOOK:\nCLOCK: [2023-04-25 Tue 19:13:43]--[2024-07-03 Wed 15:16:05] =>  10436:02:22\n:END:",
+   :db/id 7478,
+   :block/path-refs
+   [{:db/id 7} {:db/id 26} {:db/id 14034} {:db/id 17825}],
+   :block/parent {:db/id 17825},
+   :block/page {:db/id 17825},
+   :block/marker "DONE"}]
+ [{:block/uuid #uuid "668e5a1f-acb2-4c7e-b209-82f7b48d8ba9",
+   :block/left {:db/id 74746},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]] synthetic data 的信息量在于哪里",
+   :db/id 74780,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 214} {:db/id 68531}],
+   :block/parent {:db/id 74754},
+   :block/page {:db/id 68531}}]
+ [{:block/uuid #uuid "66bf1a1e-c1b1-4e86-ba23-1cb10a45370a",
+   :block/left {:db/id 78745},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 316} {:db/id 78673}],
+   :block/format :markdown,
+   :block/content "#pyq #thought [[paideia]] [[一个人类仍然relavant的未来]]",
+   :db/id 78726,
+   :block/path-refs
+   [{:db/id 22}
+    {:db/id 26}
+    {:db/id 316}
+    {:db/id 46967}
+    {:db/id 78673}],
+   :block/parent {:db/id 78671},
+   :block/page {:db/id 46967}}]
+ [{:block/uuid #uuid "668a37c2-d852-4846-b200-2fa5c2b10781",
+   :block/left {:db/id 31208},
+   :block/refs
+   [{:db/id 26} {:db/id 12550} {:db/id 20383} {:db/id 57575}],
+   :block/format :markdown,
+   :block/content "[[灵感想法]] [[生活感慨]] [[恋爱]] [[pyq]]",
+   :db/id 57576,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 12550}
+    {:db/id 20383}
+    {:db/id 31208}
+    {:db/id 57575}],
+   :block/parent {:db/id 31208},
+   :block/page {:db/id 31208}}]
+ [{:block/uuid #uuid "67df8d18-937a-4cd0-b2c0-cfb4d9ee8382",
+   :block/left {:db/id 96064},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]] 提问",
+   :db/id 96052,
+   :block/path-refs [{:db/id 26} {:db/id 96049}],
+   :block/parent {:db/id 96049},
+   :block/page {:db/id 96049}}]
+ [{:block/properties-text-values
+   {:id "6141cde6-5acd-4451-90ef-c37b727a8493"},
+   :block/uuid #uuid "6141cde6-5acd-4451-90ef-c37b727a8493",
+   :block/properties {:id "6141cde6-5acd-4451-90ef-c37b727a8493"},
+   :block/left {:db/id 31426},
+   :block/refs [{:db/id 26} {:db/id 30389}],
+   :block/properties-order [:id],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content
+   "#pyq [[两种虚拟未来 以及 潜在的混合方式]]\ncollapsed:: true\nid:: 6141cde6-5acd-4451-90ef-c37b727a8493",
+   :db/id 31464,
+   :block/path-refs [{:db/id 26} {:db/id 30389} {:db/id 31426}],
+   :block/parent {:db/id 31426},
+   :block/page {:db/id 31426}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668e5a1f-d0fb-46ba-ae22-59bbd8cc46d9",
+   :block/properties {},
+   :block/left {:db/id 74595},
+   :block/refs [{:db/id 26} {:db/id 12881}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "[[女权]] #pyq\ncollapsed:: true",
+   :db/id 74601,
+   :block/path-refs [{:db/id 26} {:db/id 12881} {:db/id 31061}],
+   :block/parent {:db/id 31061},
+   :block/page {:db/id 31061}}]
+ [{:block/uuid #uuid "668a36f1-1904-46f6-a8b1-4b226742ad51",
+   :block/left {:db/id 20773},
+   :block/refs [{:db/id 26} {:db/id 7254}],
+   :block/format :markdown,
+   :block/content "#pyq #拜年 候选",
+   :db/id 20764,
+   :block/path-refs
+   [{:db/id 26} {:db/id 7254} {:db/id 14912} {:db/id 20758}],
+   :block/parent {:db/id 20762},
+   :block/page {:db/id 20758}}]
+ [{:block/uuid #uuid "668a36b8-e9f6-48b8-b313-7e66a28d129b",
+   :block/left {:db/id 1154},
+   :block/refs [{:db/id 26} {:db/id 44} {:db/id 45} {:db/id 1139}],
+   :block/format :markdown,
+   :block/content
+   "#thoughts #pyq [[AI时代的组织]] ((f9cc9ecf-a182-479e-b31f-123781db73a4))",
+   :db/id 1155,
+   :block/path-refs
+   [{:db/id 26} {:db/id 44} {:db/id 45} {:db/id 1131}],
+   :block/parent {:db/id 1131},
+   :block/page {:db/id 1131}}]
+ [{:block/uuid #uuid "668a36f1-376b-41b9-bef5-8cbb3d023f36",
+   :block/left {:db/id 20782},
+   :block/refs [{:db/id 26} {:db/id 20779} {:db/id 20781}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[春节]] [[pyq/2023春节]]",
+   :db/id 20827,
+   :block/path-refs
+   [{:db/id 26} {:db/id 20776} {:db/id 20779} {:db/id 20781}],
+   :block/parent {:db/id 20776},
+   :block/page {:db/id 20776}}]
+ [{:block/uuid #uuid "67075e19-9c7e-47ab-966d-365676b1ee0a",
+   :block/properties {},
+   :block/updated-at 1728536683528,
+   :block/left {:db/id 85614},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 45} {:db/id 214}],
+   :block/created-at 1728536683528,
+   :block/format :markdown,
+   :block/content "#thoughts [[paideia/writing]] [[pyq]]",
+   :db/id 85624,
+   :block/path-refs
+   [{:db/id 22} {:db/id 26} {:db/id 45} {:db/id 214} {:db/id 85604}],
+   :block/parent {:db/id 85604},
+   :block/page {:db/id 85604}}]
+ [{:block/uuid #uuid "668c92f5-f471-4964-81e6-0af3bb29833c",
+   :block/left {:db/id 69350},
+   :block/refs [{:db/id 26} {:db/id 402} {:db/id 6683} {:db/id 14073}],
+   :block/format :markdown,
+   :block/content "#attention [[zyh/创作]]\n#pyq",
+   :db/id 69486,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 402}
+    {:db/id 6683}
+    {:db/id 14073}
+    {:db/id 14918}],
+   :block/parent {:db/id 69350},
+   :block/page {:db/id 14918}}]
+ [{:block/uuid #uuid "668a370c-f93f-474e-b8f5-33b846a9595e",
+   :block/left {:db/id 29836},
+   :block/refs [{:db/id 26} {:db/id 29823}],
+   :block/format :markdown,
+   :block/content "[[pyq/发pyq as a way of helping 思考]]",
+   :db/id 29833,
+   :block/path-refs [{:db/id 26} {:db/id 29821} {:db/id 29823}],
+   :block/parent {:db/id 29821},
+   :block/page {:db/id 29821}}]
+ [{:block/uuid #uuid "67e51001-772c-441d-8fa8-ef873b90eb4a",
+   :block/left {:db/id 96724},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 96731,
+   :block/path-refs [{:db/id 26} {:db/id 45} {:db/id 96167}],
+   :block/parent {:db/id 96724},
+   :block/page {:db/id 96167}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a36db-8165-4117-bab6-814bfdd39dce",
+   :block/properties {},
+   :block/left {:db/id 14788},
+   :block/refs
+   [{:db/id 26}
+    {:db/id 215}
+    {:db/id 316}
+    {:db/id 10877}
+    {:db/id 14771}
+    {:db/id 14772}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content
+   "#thought #pyq 为什么游戏和小说比生活更加精彩 #game [[ToBe/Written]] [[游戏好玩的本质]]\ncollapsed:: true",
+   :db/id 14784,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 215}
+    {:db/id 316}
+    {:db/id 10877}
+    {:db/id 14771}
+    {:db/id 14772}
+    {:db/id 14774}],
+   :block/parent {:db/id 14774},
+   :block/page {:db/id 14774}}]
+ [{:block/uuid #uuid "668a3735-b3b0-4052-b3be-2387f9579f97",
+   :block/left {:db/id 19724},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 34139,
+   :block/path-refs [{:db/id 26} {:db/id 19724}],
+   :block/parent {:db/id 19724},
+   :block/page {:db/id 19724}}]
+ [{:block/uuid #uuid "668a3709-eca5-4e81-bed1-b7b8e5d28445",
+   :block/left {:db/id 29512},
+   :block/refs [{:db/id 26} {:db/id 29513}],
+   :block/format :markdown,
+   :block/content "[[pyq/存在主义 and 荒诞主义]]",
+   :db/id 29514,
+   :block/path-refs [{:db/id 26} {:db/id 29512} {:db/id 29513}],
+   :block/parent {:db/id 29512},
+   :block/page {:db/id 29512}}]
+ [{:block/properties-text-values
+   {:id "646d2c3d-fbc1-4123-a0f0-7124e4a3707b"},
+   :block/uuid #uuid "646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+   :block/properties {:id "646d2c3d-fbc1-4123-a0f0-7124e4a3707b"},
+   :block/left {:db/id 16736},
+   :block/refs
+   [{:db/id 20} {:db/id 26} {:db/id 35} {:db/id 7733} {:db/id 16709}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "[[AI/alignment]] [[pyq]] [[tweets]] [[pyq/posted]]\nid:: 646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+   :db/id 16167,
+   :block/path-refs
+   [{:db/id 20}
+    {:db/id 26}
+    {:db/id 35}
+    {:db/id 7733}
+    {:db/id 16707}
+    {:db/id 16709}],
+   :block/parent {:db/id 16707},
+   :block/page {:db/id 16707}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a3778-037d-4c10-a0a9-472a932ae669",
+   :block/properties {},
+   :block/left {:db/id 41807},
+   :block/refs [{:db/id 26} {:db/id 14034} {:db/id 18243}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "[[pyq]] [[jike]] [[20230405]]\ncollapsed:: true",
+   :db/id 41780,
+   :block/path-refs
+   [{:db/id 26} {:db/id 14034} {:db/id 18243} {:db/id 24038}],
+   :block/parent {:db/id 24038},
+   :block/page {:db/id 24038}}]
+ [{:block/uuid #uuid "67a804bc-5d45-4c01-b941-bd43566297a0",
+   :block/left {:db/id 93570},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "智商是 raw 算力 有效算力 是 如何操作自己的智商  [[pyq]] #thoughts",
+   :db/id 93624,
+   :block/path-refs
+   [{:db/id 26} {:db/id 45} {:db/id 1349} {:db/id 76505}],
+   :block/parent {:db/id 93593},
+   :block/page {:db/id 1349}}]
+ [{:block/uuid #uuid "668a3858-92ce-4422-a5d3-3489021bcd5b",
+   :block/left {:db/id 67053},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "raw draft [[pyq]]",
+   :db/id 67086,
+   :block/path-refs [{:db/id 26} {:db/id 10139} {:db/id 12265}],
+   :block/parent {:db/id 67084},
+   :block/page {:db/id 10139}}]
+ [{:block/uuid #uuid "668e5a1e-19eb-43f4-9dcf-180542fd018d",
+   :block/left {:db/id 73912},
+   :block/refs [{:db/id 26} {:db/id 316} {:db/id 13290}],
+   :block/format :markdown,
+   :block/content "[[thought]] [[电影]] [[pyq]]",
+   :db/id 73893,
+   :block/path-refs
+   [{:db/id 26} {:db/id 316} {:db/id 13290} {:db/id 14594}],
+   :block/parent {:db/id 14594},
+   :block/page {:db/id 14594}}]
+ [{:block/uuid #uuid "6805d59e-ccf7-46b2-a1f9-e47f53974b05",
+   :block/left {:db/id 97867},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "在了解的领域使用ai和不了解的领域使用ai是完全不同的感觉 #pyq",
+   :db/id 97872,
+   :block/path-refs [{:db/id 26} {:db/id 87677} {:db/id 90195}],
+   :block/parent {:db/id 97863},
+   :block/page {:db/id 90195}}]
+ [{:block/uuid #uuid "668a36ef-c221-4758-ad18-cd6c95f8b1b9",
+   :block/left {:db/id 20181},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]] 少批判 多问为什么",
+   :db/id 20189,
+   :block/path-refs [{:db/id 26} {:db/id 20176}],
+   :block/parent {:db/id 20176},
+   :block/page {:db/id 20176}}]
+ [{:block/uuid #uuid "668a36f0-5ac3-4f62-9a19-1e49d85326bf",
+   :block/left {:db/id 20476},
+   :block/refs
+   [{:db/id 26} {:db/id 5768} {:db/id 20425} {:db/id 20428}],
+   :block/format :markdown,
+   :block/content
+   "[[沟通成本的博弈如何影响组织效率]] [[organizational behavior]] [[communication]] [[pyq]]",
+   :db/id 20440,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 5768}
+    {:db/id 20420}
+    {:db/id 20425}
+    {:db/id 20428}],
+   :block/parent {:db/id 20420},
+   :block/page {:db/id 20420}}]
+ [{:block/uuid #uuid "66e7b442-df89-4882-86a5-805df0201cdf",
+   :block/journal? true,
+   :block/left {:db/id 81205},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 81194,
+   :block/path-refs [{:db/id 26} {:db/id 81191}],
+   :block/parent {:db/id 81191},
+   :block/page {:db/id 81191}}]
+ [{:block/uuid #uuid "67e6c79e-93f5-42c3-8c36-97c002227b18",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1743214638352,
+   :block/left {:db/id 96833},
+   :block/refs [{:db/id 26} {:db/id 316}],
+   :block/created-at 1743214638352,
+   :block/journal-day 20250329,
+   :block/format :markdown,
+   :block/content "[[pyq]] #thought",
+   :db/id 96834,
+   :block/path-refs [{:db/id 26} {:db/id 316} {:db/id 96833}],
+   :block/parent {:db/id 96833},
+   :block/page {:db/id 96833}}]
+ [{:block/uuid #uuid "66c06f55-3304-400e-bde0-f0e81117522c",
+   :block/left {:db/id 79438},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "#pyq #thoughts",
+   :db/id 79439,
+   :block/path-refs
+   [{:db/id 5} {:db/id 7} {:db/id 26} {:db/id 45} {:db/id 78903}],
+   :block/parent {:db/id 79438},
+   :block/page {:db/id 78903}}]
+ [{:block/uuid #uuid "668a36e8-e659-40f8-bdf8-e695e7fdba3a",
+   :block/left {:db/id 18632},
+   :block/refs [{:db/id 26} {:db/id 45} {:db/id 18598}],
+   :block/format :markdown,
+   :block/content "古代文人 的[[观念结构]]不太一样 #pyq #thoughts",
+   :db/id 18811,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 45}
+    {:db/id 16947}
+    {:db/id 18580}
+    {:db/id 18591}
+    {:db/id 18598}
+    {:db/id 18627}],
+   :block/parent {:db/id 18733},
+   :block/page {:db/id 18627}}]
+ [{:block/properties-text-values
+   {:id "6805d59d-3485-4be0-9142-75a51c052123"},
+   :block/uuid #uuid "6805d59d-3485-4be0-9142-75a51c052123",
+   :block/properties {:id "6805d59d-3485-4be0-9142-75a51c052123"},
+   :block/left {:db/id 98573},
+   :block/refs [{:db/id 7} {:db/id 26}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "DONE 对话是一种重要的工作方式 #pyq\nid:: 6805d59d-3485-4be0-9142-75a51c052123",
+   :db/id 97633,
+   :block/path-refs
+   [{:db/id 7} {:db/id 26} {:db/id 97223} {:db/id 97225}],
+   :block/parent {:db/id 98633},
+   :block/page {:db/id 97223},
+   :block/marker "DONE"}]
+ [{:block/uuid #uuid "67a804bc-5ca3-40f8-b52f-fca1a29f4a8c",
+   :block/left {:db/id 93554},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "大道至简是人的倾向 不是世界的倾向 [[pyq]] #thoughts",
+   :db/id 93560,
+   :block/path-refs
+   [{:db/id 26} {:db/id 45} {:db/id 492} {:db/id 1349} {:db/id 76505}],
+   :block/parent {:db/id 93583},
+   :block/page {:db/id 1349}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a3707-4455-4c80-a2a1-8ba5b316366b",
+   :block/properties {},
+   :block/left {:db/id 28878},
+   :block/refs [{:db/id 26} {:db/id 28745} {:db/id 28751}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "[[情绪成长]] [[主观体验]] [[pyq]]\ncollapsed:: true",
+   :db/id 28915,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 8220}
+    {:db/id 28742}
+    {:db/id 28745}
+    {:db/id 28751}],
+   :block/parent {:db/id 28878},
+   :block/page {:db/id 28742}}]
+ [{:block/uuid #uuid "6703b0d1-108d-488d-9d47-1a6196e76f39",
+   :block/left {:db/id 73511},
+   :block/refs
+   [{:db/id 6} {:db/id 26} {:db/id 45} {:db/id 215} {:db/id 10930}],
+   :block/format :markdown,
+   :block/content
+   "LATER [[thoughts]] 盲人 是否有闭眼 和 睁眼 状态的区分 [[pyq]] [[tobe/gpted]]\n:LOGBOOK:\nCLOCK: [2024-07-08 Mon 15:09:36]--[2024-10-06 Sun 21:27:58] =>  2166:18:22\n:END:",
+   :db/id 85032,
+   :block/path-refs
+   [{:db/id 6}
+    {:db/id 26}
+    {:db/id 45}
+    {:db/id 215}
+    {:db/id 9408}
+    {:db/id 10930}],
+   :block/parent {:db/id 9408},
+   :block/page {:db/id 9408},
+   :block/marker "LATER"}]
+ [{:block/uuid #uuid "67e2d301-c24f-4b5a-b030-4f950e88f80c",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1742971006865,
+   :block/left {:db/id 96701},
+   :block/refs [{:db/id 26}],
+   :block/created-at 1742971006865,
+   :block/journal-day 20250326,
+   :block/format :markdown,
+   :block/content "[[pyq]] 「」",
+   :db/id 96702,
+   :block/path-refs [{:db/id 26} {:db/id 96701}],
+   :block/parent {:db/id 96701},
+   :block/page {:db/id 96701}}]
+ [{:block/uuid #uuid "668a36f0-7b3b-467f-8f5f-b27f79344f8f",
+   :block/left {:db/id 20509},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "#pyq\n品牌调性很适合being 绿茶。迎合审美 走到用户心里 但是。不过分讨好\n时而表现对消费者关心 时而又高冷 显得有自己的主张\n让用户跑过来 \n把握和用户互动的。主动权",
+   :db/id 20510,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20503}],
+   :block/parent {:db/id 20507},
+   :block/page {:db/id 20503}}]
+ [{:block/uuid #uuid "67e18fa5-eb0f-474e-bb27-97effecd15a6",
+   :block/left {:db/id 92303},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 96681,
+   :block/path-refs [{:db/id 26} {:db/id 92303}],
+   :block/parent {:db/id 92303},
+   :block/page {:db/id 92303}}]
+ [{:block/uuid #uuid "668a3701-22ae-468d-a409-e868d082bb46",
+   :block/left {:db/id 26711},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 26712,
+   :block/path-refs [{:db/id 26} {:db/id 26706}],
+   :block/parent {:db/id 26706},
+   :block/page {:db/id 26706}}]
+ [{:block/uuid #uuid "668a36e2-6465-41c2-96dc-6bcbfa5d646a",
+   :block/left {:db/id 16261},
+   :block/refs [{:db/id 26} {:db/id 7733}],
+   :block/format :markdown,
+   :block/content "[[pyq]] raw [[pyq/posted]]",
+   :db/id 16272,
+   :block/path-refs [{:db/id 26} {:db/id 7733} {:db/id 16259}],
+   :block/parent {:db/id 16263},
+   :block/page {:db/id 16259}}]
+ [{:block/uuid #uuid "67a804bc-71d1-4077-a36d-85fe2c6ab906",
+   :block/left {:db/id 93568},
+   :block/refs [{:db/id 26} {:db/id 316}],
+   :block/format :markdown,
+   :block/content
+   "all theories are wrong, but some are more useful #thought [[pyq]]",
+   :db/id 93565,
+   :block/path-refs
+   [{:db/id 26} {:db/id 316} {:db/id 1349} {:db/id 76505}],
+   :block/parent {:db/id 93613},
+   :block/page {:db/id 1349}}]
+ [{:block/uuid #uuid "668a36ef-4ede-4a1a-9b69-7b3f95bb0679",
+   :block/left {:db/id 20194},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content
+   "#pyq\n\n会不会自己心里有问题的人更有可能去学习心理学，使得大部分心理咨询是，可能自己本身也有心理问题。",
+   :db/id 20191,
+   :block/path-refs [{:db/id 26} {:db/id 14912} {:db/id 20176}],
+   :block/parent {:db/id 20181},
+   :block/page {:db/id 20176}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a383c-8f8e-4793-b21e-f7218d76cfa2",
+   :block/properties {},
+   :block/left {:db/id 59566},
+   :block/refs [{:db/id 26} {:db/id 31426}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "#pyq [[20210915]]\ncollapsed:: true",
+   :db/id 59610,
+   :block/path-refs [{:db/id 26} {:db/id 30389} {:db/id 31426}],
+   :block/parent {:db/id 30389},
+   :block/page {:db/id 30389}}]
+ [{:block/uuid #uuid "6703dfd0-7f4a-45ef-bc90-916092896678",
+   :block/left {:db/id 84769},
+   :block/refs [{:db/id 26} {:db/id 45}],
+   :block/format :markdown,
+   :block/content "[[thoughts]] [[pyq]]",
+   :db/id 85295,
+   :block/path-refs [{:db/id 26} {:db/id 45} {:db/id 84769}],
+   :block/parent {:db/id 84769},
+   :block/page {:db/id 84769}}]
+ [{:block/uuid #uuid "66f93c3f-5436-43cd-84e6-69c51275615c",
+   :block/journal? true,
+   :block/left {:db/id 84388},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]] version",
+   :db/id 84379,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 45}
+    {:db/id 19776}
+    {:db/id 84266}
+    {:db/id 84291}
+    {:db/id 84292}],
+   :block/parent {:db/id 84286},
+   :block/page {:db/id 84266}}]
+ [{:block/uuid #uuid "668e5a1f-4ec3-4a6d-a9a2-9eaad9051e98",
+   :block/properties {},
+   :block/updated-at 1728537462809,
+   :block/left {:db/id 74428},
+   :block/refs [{:db/id 22} {:db/id 26} {:db/id 214}],
+   :block/created-at 1728537462809,
+   :block/format :markdown,
+   :block/content
+   "我们现在使用信息可能和人们刀耕火种使用火的水平差不多 还没有把信息中的能量释放出来 [[paideia/writing]] #pyq",
+   :db/id 74458,
+   :block/path-refs
+   [{:db/id 22}
+    {:db/id 26}
+    {:db/id 214}
+    {:db/id 1513}
+    {:db/id 12550}
+    {:db/id 15871}
+    {:db/id 25922}
+    {:db/id 25926}
+    {:db/id 25927}],
+   :block/parent {:db/id 25969},
+   :block/page {:db/id 25922}}]
+ [{:block/properties-text-values
+   {:id "668a36ba-382f-4cba-b1e6-371e2ae6cc54"},
+   :block/uuid #uuid "668a36ba-382f-4cba-b1e6-371e2ae6cc54",
+   :block/properties {:id "668a36ba-382f-4cba-b1e6-371e2ae6cc54"},
+   :block/left {:db/id 2820},
+   :block/refs [{:db/id 26} {:db/id 316}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "发现 llm很多概念可以用来理解人 比如有些人 就不擅长rag 但是被proper prompted时候 可以输出很好 #thought #pyq\nid:: 668a36ba-382f-4cba-b1e6-371e2ae6cc54",
+   :db/id 3039,
+   :block/path-refs
+   [{:db/id 22}
+    {:db/id 26}
+    {:db/id 316}
+    {:db/id 2645}
+    {:db/id 2664}
+    {:db/id 2670}
+    {:db/id 2681}
+    {:db/id 2693}
+    {:db/id 2702}],
+   :block/parent {:db/id 74271},
+   :block/page {:db/id 2702}}]
+ [{:block/uuid #uuid "6805ac05-25fc-4311-ae72-de6f4611f8d2",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1745202184162,
+   :block/left {:db/id 97520},
+   :block/refs [{:db/id 26}],
+   :block/created-at 1745202184162,
+   :block/journal-day 20250421,
+   :block/format :markdown,
+   :block/content "#pyq",
+   :db/id 97537,
+   :block/path-refs [{:db/id 26} {:db/id 97519}],
+   :block/parent {:db/id 97519},
+   :block/page {:db/id 97519}}]
+ [{:block/properties-text-values
+   {:id "662419a0-c903-4cf5-b6c0-7e69a05b0750"},
+   :block/uuid #uuid "662419a0-c903-4cf5-b6c0-7e69a05b0750",
+   :block/properties {:id "662419a0-c903-4cf5-b6c0-7e69a05b0750"},
+   :block/left {:db/id 75825},
+   :block/refs [{:db/id 7} {:db/id 26}],
+   :block/properties-order [:id],
+   :block/format :markdown,
+   :block/content
+   "DONE [[pyq]] 用llm的concept 来类比的理解人类\nid:: 662419a0-c903-4cf5-b6c0-7e69a05b0750\n:LOGBOOK:\nCLOCK: [2024-04-13 Sat 14:43:05]--[2024-10-06 Sun 21:25:08] =>  4230:42:03\n:END:",
+   :db/id 3871,
+   :block/path-refs [{:db/id 5} {:db/id 7} {:db/id 26} {:db/id 2681}],
+   :block/parent {:db/id 2681},
+   :block/page {:db/id 2681},
+   :block/marker "DONE"}]
+ [{:block/uuid #uuid "668a3851-be8d-4152-a3e1-8db6f8c7bb22",
+   :block/left {:db/id 65496},
+   :block/refs [{:db/id 26} {:db/id 65118}],
+   :block/format :markdown,
+   :block/content "[[民间艺术，河南，broke kid]] #pyq",
+   :db/id 65486,
+   :block/path-refs [{:db/id 26} {:db/id 12550} {:db/id 65118}],
+   :block/parent {:db/id 12550},
+   :block/page {:db/id 12550}}]
+ [{:block/properties-text-values
+   {:id "633d878f-d2ae-417a-8355-bef5db7bf264"},
+   :block/uuid #uuid "633d878f-d2ae-417a-8355-bef5db7bf264",
+   :block/properties {:id "633d878f-d2ae-417a-8355-bef5db7bf264"},
+   :block/left {:db/id 24858},
+   :block/refs [{:db/id 26} {:db/id 24711}],
+   :block/properties-order [:id],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content
+   "[[pyq]] on 社交需求 [[轻熟人]]\nid:: 633d878f-d2ae-417a-8355-bef5db7bf264\ncollapsed:: true",
+   :db/id 24828,
+   :block/path-refs
+   [{:db/id 26} {:db/id 18949} {:db/id 24711} {:db/id 24713}],
+   :block/parent {:db/id 24810},
+   :block/page {:db/id 24713}}]
+ [{:block/uuid #uuid "668a3787-478e-42ee-88f8-dc8b2a9fd1ab",
+   :block/left {:db/id 46394},
+   :block/refs [{:db/id 26}],
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 46395,
+   :block/path-refs [{:db/id 26} {:db/id 46391} {:db/id 46392}],
+   :block/parent {:db/id 46394},
+   :block/page {:db/id 46391}}]
+ [{:block/uuid #uuid "668a36fb-f16e-44aa-9628-4114c696b430",
+   :block/left {:db/id 24591},
+   :block/refs [{:db/id 26} {:db/id 24592}],
+   :block/format :markdown,
+   :block/content "[[pyq]] [[wechat]] 不让非好友之间互相看到评论的好处",
+   :db/id 24593,
+   :block/path-refs [{:db/id 26} {:db/id 24591} {:db/id 24592}],
+   :block/parent {:db/id 24591},
+   :block/page {:db/id 24591}}]
+ [{:block/properties-text-values {},
+   :block/uuid #uuid "668a36e9-c850-4697-b77b-85ea245335e6",
+   :block/properties {},
+   :block/left {:db/id 18924},
+   :block/refs [{:db/id 26}],
+   :block/properties-order [],
+   :block/collapsed? true,
+   :block/format :markdown,
+   :block/content "#pyq\ncollapsed:: true",
+   :db/id 18940,
+   :block/path-refs [{:db/id 26} {:db/id 18924}],
+   :block/parent {:db/id 18924},
+   :block/page {:db/id 18924}}]
+ [{:block/uuid #uuid "668a37a7-bde4-4e79-abc5-ce86c21c6cf0",
+   :block/left {:db/id 10967},
+   :block/refs
+   [{:db/id 26} {:db/id 18979} {:db/id 23028} {:db/id 52307}],
+   :block/format :markdown,
+   :block/content
+   "中文一段话 [[greater china community eco round]]  公共物品 到底应该如何治理 [[public good/governance]] [[pyq]]",
+   :db/id 52316,
+   :block/path-refs
+   [{:db/id 26}
+    {:db/id 10967}
+    {:db/id 18979}
+    {:db/id 23028}
+    {:db/id 52307}],
+   :block/parent {:db/id 10967},
+   :block/page {:db/id 10967}}]
+ [{:block/uuid #uuid "67f15cdf-614f-45e7-971c-3f26cfe195ab",
+   :block/properties {},
+   :block/journal? true,
+   :block/updated-at 1743871201832,
+   :block/left {:db/id 97151},
+   :block/refs [{:db/id 26}],
+   :block/created-at 1743871201832,
+   :block/format :markdown,
+   :block/content "[[pyq]]",
+   :db/id 97158,
+   :block/path-refs [{:db/id 26} {:db/id 97151}],
+   :block/parent {:db/id 97151}, 
+   :block/page {:db/id 97151}}])
+
