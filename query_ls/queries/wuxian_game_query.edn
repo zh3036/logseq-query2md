@@ -1,0 +1,4 @@
+[:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
+ :where
+  [?r :block/name "无限游戏"]
+  [?b :block/refs ?r]]

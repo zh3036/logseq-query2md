@@ -1,0 +1,24 @@
+Trying to run query on graph: yihan_main_LOGSEQ
+Looking for graph path...
+Graph path: /Users/yihan/.logseq/graphs/logseq_local_++Users++yihan++LocalYihan++yihan_main_LOGSEQ.transit
+Successfully loaded graph database
+Found query file: queries/wuxian_game_query.edn
+Query string: [:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
+ :where
+  [?r :block/name "无限游戏"]
+  [?b :block/refs ?r]]
+
+Parsed query: [:find (pull ?b [:db/id :block/content :block/uuid #:block{:page [:block/original-name :db/id]}]) :where [?r :block/name "无限游戏"] [?b :block/refs ?r]]
+Executing query...
+Query results:
+([{:block/content "3 [[无限游戏]] [[有限游戏]]",
+   :block/page {:block/original-name "20220619", :db/id 27198},
+   :block/uuid #uuid "668a3705-1d6b-4a0f-8901-514500c6cd21",
+   :db/id 27228}]
+ [{:block/content "[[无限游戏]]",
+   :block/page
+   {:block/original-name "hls__蚱蜢：游戏、生命与乌托邦_1670650512695_0",
+    :db/id 46967},
+   :block/uuid #uuid "66bf1a1e-feb6-4f2c-86af-0db593f4c6ad",
+   :db/id 78716}])
+
