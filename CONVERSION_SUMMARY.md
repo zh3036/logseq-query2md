@@ -8,24 +8,27 @@ Successfully used [nbb](https://github.com/babashka/nbb) to convert the Logseq E
 
 1. **Created an nbb script** (`convert_to_markdown.cljs`) that:
    - Reads EDN data from Logseq block extraction
-   - Converts hierarchical block structure to markdown
-   - Preserves parent-child relationships using markdown headers
+   - Generates a table of contents from top-level blocks
+   - Converts top-level blocks to markdown headers
+   - Converts child blocks to nested markdown lists
    - Escapes markdown special characters
    - Extracts meaningful titles from content
 
 2. **Generated structured output** (`pyq_analysis_readable.md`) with:
-   - 637 lines of organized content
-   - Proper markdown hierarchy (# ## ### #### levels)
-   - Preserved Chinese content
+   - 156 lines of organized content
+   - Table of contents with clickable navigation
+   - Top-level headers for main blocks  
+   - Nested lists for child content
    - Clean formatting
    - Hierarchical structure showing parent-child relationships
 
 ## Key Features of the Conversion
 
-- **Hierarchical Structure**: Uses markdown headers (# ## ### ####) to show block hierarchy
+- **Table of Contents**: Automatically generated from top-level blocks with clickable links
+- **Hierarchical Structure**: Top-level blocks become markdown headers, children become nested lists  
 - **Title Extraction**: Automatically generates titles from content (first 50 characters)
 - **Content Escaping**: Properly escapes markdown special characters
-- **Readable Format**: Indented children blocks for better readability
+- **Nested Lists**: Child blocks use markdown lists with alternating bullet styles (- and *)
 
 ## Usage
 
@@ -49,9 +52,10 @@ The input EDN contains Logseq blocks with:
 
 The markdown output includes:
 - Main title: "PyQ Posted Content Analysis"
-- Block headers based on content or page name
+- Table of contents with numbered entries and anchor links
+- Top-level block headers (# Block Title {#anchor})
+- Child blocks as nested markdown lists
 - Escaped content with proper formatting
-- Recursive children sections
 
 ## Technologies Used
 

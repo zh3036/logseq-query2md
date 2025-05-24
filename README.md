@@ -95,10 +95,11 @@ For better readability, you can convert the structured EDN output to markdown fo
 
 ### Features
 
-- **Hierarchical Structure**: Uses markdown headers (# ## ### ####) to show block hierarchy
+- **Table of Contents**: Automatically generated from top-level blocks with clickable links
+- **Hierarchical Structure**: Top-level blocks become markdown headers, children become nested lists
 - **Title Extraction**: Automatically generates meaningful titles from content 
 - **Content Escaping**: Properly escapes markdown special characters
-- **Readable Formatting**: Indented children blocks for better readability
+- **Nested Lists**: Child blocks are converted to markdown lists with proper nesting (- and * bullets)
 
 ### Usage
 
@@ -118,10 +119,11 @@ nbb convert_to_markdown.cljs -- query_ls/results/pyq_posted_optimized_output.edn
 ### Output Example
 
 The markdown conversion creates a hierarchical document with:
-- Main title and introduction
-- Block headers based on content or page name
+- Table of contents with numbered list and clickable links
+- Top-level blocks as markdown headers (# Block Title)
+- Child blocks as nested markdown lists (- and * bullets)
 - Properly formatted content with escaped special characters
-- Recursive children sections maintaining the original hierarchy
+- Anchor IDs for table of contents navigation
 
 ## Examples
 

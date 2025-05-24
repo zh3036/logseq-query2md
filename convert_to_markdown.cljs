@@ -40,35 +40,72 @@
         ;; For nested levels, add some indentation for readability
         (str/join "\n" (map #(str "  " %) lines))))))
 
-(defn blocks-to-markdown 
-  ([blocks] (blocks-to-markdown blocks 1))
-  ([blocks level]
-   (when (seq blocks)
-     (str/join "\n\n" 
-               (map (fn [block]
-                      (let [content (:content block)
-                            page (:page block)
-                            uuid (:uuid block)
-                            children (:children block)
-                            title (extract-title content)
-                            header-level (min level 6)] ; Markdown only supports up to 6 levels
-                        
-                        (str
-                          ;; Create markdown header
-                          (str (str/join "" (repeat header-level "#")) " " 
-                               (if (str/blank? title) 
-                                 (str "Block from " page) 
-                                 title)) "\n\n"
-                          
-                          ;; Add content
-                          (when-not (str/blank? content)
-                            (str (format-content content level) "\n\n"))
-                          
-                          ;; Add children recursively
-                          (when (seq children)
-                            (str "### Children\n\n"
-                                 (blocks-to-markdown children (inc level)))))))
-                    blocks)))))
+(defn generate-toc [blocks]
+  "Generate table of contents from top-level blocks"
+  (when (seq blocks)
+    (str "## Table of Contents\n\n"
+         (str/join "\n" 
+                   (map-indexed 
+                     (fn [idx block]
+                       (let [title (extract-title (:content block))
+                             display-title (if (str/blank? title) 
+                                             (str "Block from " (:page block))
+                                             title)
+                             anchor (str "block-" (inc idx))]
+                         (str (inc idx) ". [" display-title "](#" anchor ")")))
+                     blocks))
+         "\n\n---\n\n")))
+
+(defn format-list-content [content level]
+  "Format content for list items with proper indentation"
+  (when-not (str/blank? content)
+    (let [escaped (escape-markdown content)
+          lines (str/split-lines escaped)
+          indent (str/join "" (repeat (* (dec level) 2) " "))]
+      (str/join (str "\n" indent "  ") lines))))
+
+(defn children-to-list [children level]
+  "Convert children blocks to nested markdown lists"
+  (when (seq children)
+    (str/join "\n"
+              (map (fn [child]
+                     (let [content (:content child)
+                           child-children (:children child)
+                           indent (str/join "" (repeat (* (dec level) 2) " "))
+                           bullet (if (odd? level) "-" "*")]
+                       (str indent bullet " " 
+                            (if (str/blank? content)
+                              "*(empty block)*"
+                              (format-list-content content level))
+                            (when (seq child-children)
+                              (str "\n" (children-to-list child-children (inc level)))))))
+                   children))))
+
+(defn blocks-to-markdown [blocks]
+  "Convert blocks to markdown with TOC and list structure"
+  (when (seq blocks)
+    (str (generate-toc blocks)
+         (str/join "\n\n" 
+                   (map-indexed (fn [idx block]
+                                  (let [content (:content block)
+                                        children (:children block)
+                                        title (extract-title content)
+                                        display-title (if (str/blank? title) 
+                                                        (str "Block from " (:page block)) 
+                                                        title)
+                                        anchor (str "block-" (inc idx))]
+                                    (str
+                                      ;; Top-level header with anchor
+                                      "# " display-title " {#" anchor "}\n\n"
+                                      
+                                      ;; Top-level content
+                                      (when-not (str/blank? content)
+                                        (str (escape-markdown content) "\n\n"))
+                                      
+                                      ;; Children as nested lists
+                                      (when (seq children)
+                                        (children-to-list children 1)))))
+                                blocks)))))
 
 (defn convert-edn-to-markdown [input-file output-file]
   "Convert EDN file to markdown format"
