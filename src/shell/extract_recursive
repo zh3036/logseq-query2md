@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Wrapper script for extract_recursive.cljs (Updated for reorganized structure)
+# Makes it easier to run the extraction process
+
+# Get the directory where this script is located and set project root
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
+
+# Change to the tools directory to ensure nbb-logseq works correctly
+cd "$PROJECT_ROOT/tools"
+
+# Run the extraction script with provided arguments
+npx @logseq/nbb-logseq "../src/clojure/logseq/extract_recursive.cljs" "$@" 
