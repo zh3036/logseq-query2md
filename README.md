@@ -89,6 +89,42 @@ The output is a vector of maps, where each map represents a block and its childr
  {...}]
 ```
 
+## Markdown Conversion
+
+For better readability, you can convert the structured EDN output to markdown format using the included nbb script.
+
+### Features
+
+- **Hierarchical Structure**: Uses markdown headers (# ## ### ####) to show block hierarchy
+- **Title Extraction**: Automatically generates meaningful titles from content 
+- **Metadata Preservation**: Includes page names and UUIDs for reference
+- **Content Escaping**: Properly escapes markdown special characters
+- **Readable Formatting**: Indented children blocks for better readability
+
+### Usage
+
+```bash
+# Convert EDN to readable markdown
+nbb convert_to_markdown.cljs -- <input-edn-file> <output-markdown-file>
+
+# Example
+nbb convert_to_markdown.cljs -- query_ls/results/pyq_posted_optimized_output.edn pyq_analysis_readable.md
+```
+
+### Requirements
+
+- Node.js
+- nbb (install with `npm install -g nbb`)
+
+### Output Example
+
+The markdown conversion creates a hierarchical document with:
+- Main title and introduction
+- Block headers based on content or page name
+- Metadata sections showing page and UUID
+- Properly formatted content with escaped special characters
+- Recursive children sections maintaining the original hierarchy
+
 ## Examples
 
 ### Finding blocks referencing `[[无限游戏]]`:
@@ -116,3 +152,4 @@ The output is a vector of maps, where each map represents a block and its childr
 - Logseq graph database
 - Babashka (for the Babashka implementation)
 - nbb-logseq (for the optimized implementation)
+- Node.js and nbb (for markdown conversion: `npm install -g nbb`)
