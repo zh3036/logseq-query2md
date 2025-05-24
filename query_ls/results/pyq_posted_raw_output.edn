@@ -1,0 +1,45 @@
+Trying to run query on graph: yihan_main_LOGSEQ
+Looking for graph path...
+Graph path: /Users/yihan/.logseq/graphs/logseq_local_++Users++yihan++LocalYihan++yihan_main_LOGSEQ.transit
+Successfully loaded graph database
+Found query file: queries/pyq_posted_references_query.edn
+Query string: [:find (pull ?b [:db/id 
+                 :block/content
+                 :block/uuid
+                 {:block/page [:block/original-name :db/id]}
+                 :block/children
+                ])
+ :where
+ [?r :block/name "pyq/posted"]      
+ [?b :block/refs ?r]]
+
+Parsed query: [:find (pull ?b [:db/id :block/content :block/uuid #:block{:page [:block/original-name :db/id]} :block/children]) :where [?r :block/name "pyq/posted"] [?b :block/refs ?r]]
+Executing query...
+Query results:
+([{:block/content "[[pyq]] [[paideia/股权]] [[pyq/posted]]",
+   :block/page {:block/original-name "20240207", :db/id 7732},
+   :block/uuid #uuid "668a36c7-89db-4779-8c42-52b5de011369",
+   :db/id 7749}]
+ [{:block/content "[[pyq]] [[stoooges]]  [[评估 vs 教育]] [[pyq/posted]]",
+   :block/page {:block/original-name "20231215", :db/id 10142},
+   :block/uuid #uuid "668a36cd-ac61-4237-b74a-8eeb4ac479a4",
+   :db/id 10190}]
+ [{:block/content
+   "[[AI/alignment]] [[pyq]] [[tweets]] [[pyq/posted]]\nid:: 646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+   :block/page {:block/original-name "20230523", :db/id 16707},
+   :block/uuid #uuid "646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+   :db/id 16167}]
+ [{:block/content "[[pyq]] raw [[pyq/posted]]",
+   :block/page {:block/original-name "20230612", :db/id 16259},
+   :block/uuid #uuid "668a36e2-6465-41c2-96dc-6bcbfa5d646a",
+   :db/id 16272}]
+ [{:block/content
+   "[[chatgpt]] [[LLM]] [[aigc]] [[pyq]] [[pyq/posted]]",
+   :block/page {:block/original-name "20230329", :db/id 18512},
+   :block/uuid #uuid "668a36e8-8e3c-4604-a5c4-097db0d8513c",
+   :db/id 18521}]
+ [{:block/content "[[pyq/posted]]",
+   :block/page {:block/original-name "pyq", :db/id 26},
+   :block/uuid #uuid "67e51001-2795-4c44-8af4-4ff5c1ba41a8",
+   :db/id 96760}])
+

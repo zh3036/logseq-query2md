@@ -1,0 +1,26 @@
+[:find (pull ?found_block [*])
+ :where
+ (or-join [?found_block] 
+   ;; Condition 1: ?found_block is a child or grandchild of a block that references "pyq"
+   (and
+     [?pyq_tag :block/name "pyq"] ; Find the page/tag named "pyq"
+     [?referencing_block :block/refs ?pyq_tag] ; Find blocks that reference "pyq"
+     (or-join [?found_block] 
+       ;; Branch 1.1: ?found_block is a direct child
+       (and 
+         [?found_block :block/parent ?referencing_block]
+       )
+       ;; Branch 1.2: ?found_block is a grandchild
+       (and
+         [?child_block :block/parent ?referencing_block] ; A child of ?referencing_block
+         [?found_block :block/parent ?child_block]     ; ?found_block is a child of ?child_block (grandchild)
+       )
+     )
+   )
+   ;; Condition 2: ?found_block is content on a page whose name starts with "pyq/"
+   (and
+     [?page :block/name ?page_name] ; Get page and its name
+     [(clojure.string/starts-with? ?page_name "pyq/")] ; Check if page name starts with "pyq/"
+     [?found_block :block/page ?page] ; Find blocks on that page
+   )
+ )]
