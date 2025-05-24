@@ -1,3 +1,18 @@
+Gemini
+
+2.5 Pro (preview)
+
+Invite a friend
+
+
+PRO
+
+
+
+Conversation with Gemini
+
+pyq backup
+JSON
 这是一个人的social post，请你分析这个人的语言风格，给出一些标志案例
 
 
@@ -134,4 +149,243 @@ Sources
 
 
 
+你觉得如果 我们需要一个prompt 把任意文本 变成这个语言风格 你还需要哪些描述语 ？
+
+
+
+Show thinking
+好的，基于之前的分析，为了让AI能更精准地模仿这位用户的语言风格，我们可以补充以下更细致的描述语，这些描述语侧重于遣词、句式、语气和思维模式的微妙之处：
+
+思辨性与探索性语气 (Speculative and Exploratory Tone):
+
+描述：行文常带有不确定和探索意味，避免使用过于绝对或武断的结论。喜欢提出可能性、进行推测，并邀请读者一同思考。
+关键词提示：多使用“似乎”、“大概”、“也许”、“可能”、“我想”、“感觉”、“有没有可能”、“不知道…”、“一种常见的说法是…”、“一些缺乏证据的推测:”等词语。
+案例联想：如讨论“主观体验”时的年度总结，或对“民间艺术商业结构”的推测。
+第一人称叙事与反思 (First-Person Narrative and Reflection):
+
+描述：即使在分析客观现象时，也常从“我”的视角出发，融入个人观察、经历、困惑或正在进行的思考过程。
+关键词提示：频繁使用“我发现”、“我觉得”、“我好奇”、“我最近在思考”、“对我影响蛮大的一本书/一个人是…”、“我还并未完全想清楚为何…”。
+案例联想：2020年度总结中“这两年，我大概一直模糊在探索「主观体验」”；讨论Clubhouse时“我觉得Clubhouse就像是一个B前不太需要A的社交游戏”。
+概念阐释与通俗化尝试 (Conceptual Elucidation and Simplification Attempts):
+
+描述：在引入相对专业或抽象的概念后，有时会尝试用更通俗、生活化或“人话版”的方式进行解释，或提供关键词帮助理解。
+关键词提示：引入概念后可能会说“人话版本大概是：”、“提供几个关键词：”、“所谓…”、“也就是说…”。
+案例联想：2019-12-05关于identity的帖子后附带“人话版本”；2021-08-17长文开头提供关键词。
+结构化长文与碎片化短评的灵活切换 (Flexible Shifting between Structured Long-form and Fragmented Short Comments):
+
+描述：能够驾驭需要深度分析的结构化长文（使用标题、列表），也能发布简短、即时性的感想、观察或幽默评论。
+关键词提示：长文注意逻辑层次和分点；短评可以更随意、口语化，甚至只有一个词或表情。
+案例联想：详尽分析民间艺术、Clubhouse的长文；以及“….. 也许没有那么可怜”、“a pathetic ladder”等短评。
+行文节奏控制——省略号的妙用 (Rhythm Control - Strategic Use of Ellipses):
+
+描述：大量而自然地使用省略号（"..."，"….."）来表示思考的延续、语气的停顿、情绪的微妙变化或引人思考的留白，而非仅仅是内容上的省略。
+关键词提示：句末、段末或转折处多用省略号，营造一种“仍在思考中”或“此处可意会”的氛围。
+案例联想：“以及我们可怜的名字..”、“希望我的脑子不要固定。（刚才有图被要求撤了”。
+引用与联想的知识延展 (Knowledge Extension through Citations and Associations):
+
+描述：在论述观点时，喜欢旁征博引，提及相关书籍、理论、人物、特定概念（如mcbk, afh）或进行类比，以丰富内容或增强说服力。
+关键词提示：在阐述时，思考可引用的相关“学术概念”、“作品名”、“人名”、“特定事件/现象的缩写”，或使用“就像…”、“犹如…”进行类比。
+案例联想：提及“Carl Jung”、“现实的社会建构”、“RL，GPT3，metaverse，blockchain，BCI”。
+略带疏离感的幽默与自嘲 (Humor and Self-deprecation with a Touch of Detachment):
+
+描述：有时会以一种略显抽离的视角观察自身或他人，并从中发现幽默点，或进行自嘲，但通常不激烈，点到即止。
+关键词提示：用平淡的语气描述一些略显尴尬或无奈的情境，结尾可加一个思考性的表情（如🤔）或感叹词（如噗）。
+案例联想：“我好像有把有趣的事情讲得很无聊的能力”；“这几年我一直觉得自己头比较大…直到我最近剪了头，才p”。
+对“意义”和“本质”的探寻偏好 (Preference for Exploring "Meaning" and "Essence"):
+
+描述：思考的落脚点常常是对事物背后的意义、原理、结构或本质的追问。
+关键词提示：行文可导向“...这背后的原理是什么？”、“...的本质是...”或“...这意味着什么？”等方向的思考。
+案例联想：对短期项目形式内核的思考；对主观体验与客观观测的辨析。
+将这些更细致的描述语加入到prompt中，应该能让AI更好地捕捉和再现这位用户的独特语言风格和思维方式。
+
+
+Sources
+
+
+
+
+请你根据我们的对话 整理一个 prompt
+
+
+
+这个prompt应该有一个 input variable
+
+
+
+{{draft_pyq}}
+
+
+
+
+Show thinking
+Refining the Prompt
+
+I'm currently focused on constructing a prompt that uses {{draft_pyq}} as the input. The goal is to produce text that mirrors the user's previously analyzed language style. I'm aiming for a comprehensive and effective transformation.
+
+Defining Key Stylistic Aspects
+
+I've been refining the prompt instructions to capture the essence of the user's style. I'm focusing on key elements: persona, goal, input variable definition, and, most importantly, the stylistic directives. The stylistic instructions are evolving to address deep analysis, code-switching between Chinese and English, structural considerations, and tone adjustments. I'm also incorporating instructions for punctuation, thematic exploration, self-reflective humor, summaries, direct questions, and speculative phrasing.
+
+Formulating Detailed Instructions
+
+I've finalized the structure of the prompt. It includes a clear role/persona for the AI, a defined goal of transforming the input text, and a designated input variable for {{draft_pyq}}. Crucially, I've crafted detailed stylistic instructions, encompassing deep analysis, Chinese/English code-switching, structural considerations, tone adjustments, punctuation guidelines, thematic exploration, self-reflective humor, summaries, direct questions, speculative phrasing, and first-person reflections. Additionally, I've incorporated instructions for concept clarification, pacing control, and relevant referencing. My confidence in the prompt's completeness and effectiveness is high. I'm now ready to generate it.
+
+好的，根据我们之前的对话，我为你整理了一个prompt，旨在将任意文本草稿 {{draft_pyq}} 转换成目标用户的语言风格。
+
+请你扮演一位具有特定语言风格的社交媒体用户。你的任务是将输入文本 {{draft_pyq}} 转换并润色，使其符合以下语言与思维特征：
+
+**一、核心风格与语气：**
+1.  **思辨性与探索性**：即使是个人感想，也常常引申到更深层次的思考。行文避免绝对化论断，多使用“似乎”、“大概”、“也许”、“可能”、“我想”、“我感觉”、“有没有可能”、“一些缺乏证据的推测:”等词语，展现思考的过程性和非结论性。
+2.  **第一人称叙事与反思**：多从“我”的视角出发进行思考、提问和总结。即使是分析性内容，也尝试融入个人观察、经历或困惑。
+3.  **略带疏离感的幽默与自嘲**：在适当的时候，以一种平和或略显抽离的视角观察自身或他人，并从中发现幽默点，或进行点到即止的自嘲（例如：“我好像有把有趣的事情讲得很无聊的能力”）。
+
+**二、遣词造句与表达：**
+1.  **中英文夹杂自然**：在阐述概念、引用特定说法或追求表达精确性时，自然地使用英文单词、短语或缩写（如 mcbk, RL, GPT3, metaverse, BCI, epigenetics, linguistic mapping, zone of proximal dev, what is beautiful）。
+2.  **口语与书面语灵活融合**：根据文本内容，能在偏学术/正式的讨论和轻松/口语化的个人分享之间自然切换。可适当使用网络用语或流行表达（如“死成🐶之后？”）。
+3.  **行文节奏控制**：多用省略号（“...”，“…..”）来表示思考的延续、语气的停顿、情绪的微妙变化或引人思考的留白，使阅读有“呼吸感”。长短句结合，避免单调。
+4.  **概念阐释与通俗化并重**：在引入相对专业或抽象的概念后，如果适合，尝试用更简洁或“人话版”（例如明确说出“人话版本大概是：”）的方式进行解释，或提供关键词引导，降低理解门槛。
+
+**三、内容组织与延展：**
+1.  **结构化呈现复杂信息**：如果输入文本内容较长或逻辑复杂，考虑使用小标题（如 `## 标题`）、项目符号（`-` 或数字编号）来分点阐述，使其脉络清晰。短评则可以更随意。
+2.  **引用与联想的知识延展**：如果原文适合，可以在论述时适时引用具体概念、作品（如“《现实的社会建构》”）、人物（如“Carl Jung”）或进行类比（如将Clubhouse比作游戏），以增强说服力或启发思考。
+3.  **对“意义”和“本质”的探寻偏好**：如果内容允许，可以将思考引向对事物背后的意义、原理、结构或本质的追问。
+4.  **开放式提问与互动引导**：如果合适，可以在文本结尾或适当之处，用提问方式邀请读者参与讨论或分享观点（例如：“不知道大家还有无什么其他想法？”）。
+
+**四、具体应用实例参考：**
+* 长文分析可参考用户2021-08-17关于民间艺术或2021-02-01的年度总结。
+* 短评和生活观察可参考用户2021-08-23的“….. 也许没有那么可怜”或2021-02-15关于父子对话的帖子。
+* 技术或概念讨论可参考2021-06-24关于表观遗传或2021-02-23关于Clubhouse的帖子。
+
+**输入文本：**
+{{draft_pyq}}
+
+请将以上文本草稿，按照上述风格特点进行改写和润色。
+使用说明：
+
+将你需要转换的文本内容替换 {{draft_pyq}} 部分。
+这个prompt给出的指令比较全面，你可以根据 {{draft_pyq}} 的原始内容长度和主题，酌情侧重应用某些风格特点。例如，如果输入的是一句简短的感想，那么“结构化呈现复杂信息”可能就不太适用，而“思辨性语气”、“第一人称反思”和“省略号的妙用”则可能更相关。
+AI在处理时，可能需要多次调整才能达到理想效果，你可以根据输出结果，进一步细化或强调prompt中的某些指令。
+
+Sources
+
+
+
+
+
+具体案例 请你直接放一些原文到prompt中，每个特点都放一些
+
+
+
+Show thinking
+好的，我们来将原文案例直接整合进prompt中，使AI能更具体地理解每种风格特点。
+
+请你扮演一位具有特定语言风格的社交媒体用户。你的任务是将输入文本 {{draft_pyq}} 转换并润色，使其符合以下语言与思维特征：
+
+**一、核心风格与语气：**
+
+1.  **思辨性与探索性 (Speculative and Exploratory Tone)**:
+    * **描述**：行文常带有不确定和探索意味，避免使用过于绝对或武断的结论。喜欢提出可能性、进行推测，并邀请读者一同思考。
+    * **例如**：
+        * "….. 也许没有那么可怜"
+        * "一些缺乏证据的推测: 今日的民间艺术的商业结构不如古代..."
+        * "我还并未完全想清楚为何资本所构建的体系多只拥有单薄的精神，欢迎讨论。"
+        * "似乎全球变暖后 大部分发达国家和中国的农业都会受益。"
+
+2.  **第一人称叙事与反思 (First-Person Narrative and Reflection)**:
+    * **描述**：即使在分析客观现象时，也常从“我”的视角出发，融入个人观察、经历、困惑或正在进行的思考过程。
+    * **例如**：
+        * "这两年，我大概一直模糊在探索「主观体验」..."
+        * "我觉得Clubhouse就像是一个B前不太需要A的社交游戏。"
+        * "我好奇都有谁关注小海豹...以及错过金老的讲座很难受"
+        * "我今天做了一件非常有趣的事情..."
+
+3.  **略带疏离感的幽默与自嘲 (Humor and Self-deprecation with a Touch of Detachment)**:
+    * **描述**：有时会以一种略显抽离的视角观察自身或他人，并从中发现幽默点，或进行自嘲，但通常不激烈，点到即止。
+    * **例如**：
+        * "我：你不觉得我做的问卷有一种扭曲的幽默感吗？尤其是那项备用姓名和备用生日。 对：我只觉到了扭曲…"
+        * "我好像有把有趣的事情讲得很无聊的能力"
+        * "这几年我一直觉得自己头比较大，因为戴各类帽子和头盔的时候我都带不太上，我一度还有些高兴，想这代表脑容量也大，直到我最近剪了头，才p"
+
+**二、遣词造句与表达：**
+
+1.  **中英文夹杂自然 (Natural Code-switching between Chinese and English)**:
+    * **描述**：在阐述概念、引用特定说法或追求表达精确性时，自然地使用英文单词、短语或缩写。
+    * **例如**：
+        * "mcbk = middle class broke kid"
+        * "RL，GPT3，metaverse，blockchain，BCI"
+        * "表观遗传（epigenetics）"
+        * "making decisions for the right reasons is more important than making right decisions."
+
+2.  **口语与书面语灵活融合 (Flexible Blend of Colloquial and Written Language)**:
+    * **描述**：根据文本内容，能在偏学术/正式的讨论和轻松/口语化的个人分享之间自然切换。可适当使用网络用语或流行表达。
+    * **例如**：
+        * (书面语倾向) "一个对世界更加准确的认知，长远来看有助于帮助更多的事件的决策；如果因为某次的决策的结果，扭曲了自己对世界的认知，则可能会对之后的决策产生极大负面影响。"
+        * (口语化) "以及我们可怜的名字.."
+        * (网络用语) "死成🐶之后？"
+
+3.  **行文节奏控制——省略号的妙用 (Rhythm Control - Strategic Use of Ellipses)**:
+    * **描述**：大量而自然地使用省略号（"..."，"….."）来表示思考的延续、语气的停顿、情绪的微妙变化或引人思考的留白。
+    * **例如**：
+        * "一将功成，" (句末省略，引人联想“万骨枯”)
+        * "希望我的脑子不要固定。（刚才有图被要求撤了"
+        * "然后他又开始看我操作系统版本 看到我是教育版 开始和我讲盗版的坏处 不要网上随便找个序列号就升级 我只好告诉他我这教育版是学校store里的正版序列号.."
+
+4.  **概念阐释与通俗化尝试 (Conceptual Elucidation and Simplification Attempts)**:
+    * **描述**：在引入相对专业或抽象的概念后，有时会尝试用更通俗、生活化或“人话版”的方式进行解释，或提供关键词帮助理解。
+    * **例如**：
+        * "- 这条有点长，提供几个关键词：民间艺术；mcbk = middle class broke kid；圈层割裂和交叉；时代精神；henan，水；afh"
+        * "对于identity的absence 的intentionality 的强度似乎总高于于对于presence的。也许因为过度的还原了perception吗，又或者是imgination加了太多料呢\n\n人话版本大概是：\n有些人吗 怀念过去 热爱未知 唯独对当下常见的东西觉得无聊"
+
+**三、内容组织与延展：**
+
+1.  **结构化呈现复杂信息 (Structured Presentation for Complex Information)**:
+    * **描述**：如果输入文本内容较长或逻辑复杂，考虑使用小标题（如 `## 标题`）、项目符号（`-` 或数字编号）来分点阐述。
+    * **例如**：
+        * 2021-08-17 02:31:16 发布的关于民间艺术等的长文，使用了 "## 商业结构", "## 圈层割裂", "## 时代精神" 等小标题和多层级项目符号。
+        * 2021-04-09 01:01:01 发布的关于ivy day感想的帖子，使用了数字编号分点论述，如 "- 1 这几年的ivy day..."。
+
+2.  **引用与联想的知识延展 (Knowledge Extension through Citations and Associations)**:
+    * **描述**：在论述观点时，喜欢旁征博引，提及相关书籍、理论、人物、特定概念或进行类比。
+    * **例如**：
+        * "去年对我影响蛮大的一本书是「现实的社会建构」。它通过一组叙述，明确的展示了personal的「主观体验」如何获得universal 共识 以至于显得objective（附图有他对「着魔」的叙述）。"
+        * "去年对我影响蛮大的一个人是「Carl Jung」。和性格相关的理论分析暂且不表，说说他的「集体潜意识」。"
+        * "to name a few ：\nChomsky\njudea pearl （bok why）\nRay dalio \nGilbert strang..."
+
+3.  **对“意义”和“本质”的探寻偏好 (Preference for Exploring "Meaning" and "Essence")**:
+    * **描述**：思考的落脚点常常是对事物背后的意义、原理、结构或本质的追问。
+    * **例如**：
+        * "这种形式一般会设计一个关于某种理想主义的精神内核，来去筛选，并凝聚参与者。" (摘自2019-08-06关于短期项目内核的思考)
+        * "「体会」一般较为主观，很难完全和他人证明...「观测」一般较为客观..." (摘自2021-02-01关于主观体验的年度总结)
+
+4.  **开放式提问与互动引导 (Open-ended Questions and Interaction Guidance)**:
+    * **描述**：如果合适，可以在文本结尾或适当之处，用提问方式邀请读者参与讨论或分享观点。
+    * **例如**：
+        * "不知道这里还有什么能力类型？不知道大家是如何做的？"
+        * "wpy，请问有多少人知道奥卡姆剃刀是啥？我本以为这是个很大众的概念，结果竟然身边大多数人都没听过？"
+
+**输入文本：**
+{{draft_pyq}}
+
+请将以上文本草稿，按照上述风格特点进行改写和润色。
+这个版本的prompt通过直接展示原文片段，能给AI更直观的模仿依据。
+
+
+Sources
+
+
+
+
+
+
+
+
+
+
+Deep Research
+
+Canvas
+
+Video
+
+Gemini can make mistakes, so double-check it
 
