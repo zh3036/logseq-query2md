@@ -1,0 +1,1849 @@
+[{:content "[[pyq]] [[pyq/posted]]",
+  :uuid #uuid "668a383c-8140-4307-9a68-468bee1a874a",
+  :page "个体道义和集体道义的偏差",
+  :children
+  ({:content "1",
+    :uuid #uuid "668a383c-fcc9-4108-8ada-89d832697d75",
+    :ordering-info {:block/left {:db/id 60113}},
+    :page 29649,
+    :children
+    ({:content "互联网时代存在这样一种现象",
+      :uuid #uuid "668a383c-5610-4ac0-a1c9-0933efc2f701",
+      :ordering-info {:block/left {:db/id 60150}},
+      :page 29649}
+     {:content "即网民容易把其他网民去划入一个分类, 而非把其当作单个的个体去对待.",
+      :uuid #uuid "668a383c-0d89-4ef5-b261-9ca64e095892",
+      :ordering-info {:block/left {:db/id 60148}},
+      :page 29649}
+     {:content "举例",
+      :uuid #uuid "668a383c-4b0b-4250-b495-74c5e50de4c9",
+      :ordering-info {:block/left {:db/id 60141}},
+      :page 29649,
+      :children
+      ({:content "比如网民A说 支持乌克兰抵抗俄罗斯侵略",
+        :uuid #uuid "668a383c-0a32-48a8-b14b-8f8b5cf71bef",
+        :ordering-info {:block/left {:db/id 60130}},
+        :page 29649}
+       {:content "网民B 说: A你是双标狗, 当初塞尔维亚抵抗美国对科索沃的侵略, 你怎么不出来说话?",
+        :uuid #uuid "668a383c-5784-4ce3-b0ed-b02277349437",
+        :ordering-info {:block/left {:db/id 60161}},
+        :page 29649})}
+     {:content
+      "先不谈以上对话中的历史细节是否准确或甚至成立, 但是我们可以观察网民B的思维方式. B并非把A当作一个个体, 去思考A的心路历程, 并且给出一个回应, 而是把A直接划入了一个分类, 即面对科索沃事件缄默, 面对乌克兰事件抗议侵略的 「双标狗」. 事实上, 也许A根本就不了解科索沃事件, A很有可能会在科索沃事件也会支持塞尔维亚. 也有可能可能A了解科索沃事件, 但是由于科索沃事件没什么人叫好, 所以A也没有出来专门发声反对侵略. 但是B并不关心这些状况, 他似乎只想要立一个靶子. 这是互联网上一大部分争论的来源, 即大家没有进行个体间的对话, 而是在和一个想象中的群体对话.",
+      :uuid #uuid "668a383c-7be9-40c6-8661-f10427261467",
+      :ordering-info {:block/left {:db/id 60130}},
+      :page 29649}
+     {:content
+      "给想象的群体想象一套狗屁不通的逻辑, 贴上诸如 德棍、黄纳、精苏、蜀粉、曹粉、ww等标签, 批判一番, 然后自己的论点好像就立住了.",
+      :uuid #uuid "668a383c-2406-4a8f-9ebb-a96d833ab263",
+      :ordering-info {:block/left {:db/id 60143}},
+      :page 29649})}
+   {:content "2",
+    :uuid #uuid "668a383c-f142-43b9-90ef-ab124d8947cb",
+    :ordering-info {:block/left {:db/id 60150}},
+    :page 29649,
+    :children
+    ({:content "国家和个人的道德是不兼容的",
+      :uuid #uuid "668a383c-09ee-449b-95e5-ded3f88fdedd",
+      :ordering-info {:block/left {:db/id 60122}},
+      :page 29649}
+     {:content
+      "国家甲抢了国家乙的一块地 然后给了国家甲的公民A, 公民A生了孩子B. \b B从小无忧无虑的生活在这块地上. 直到有一天, 国家乙试图把这块地抢回来, 然后没做错过什么的B就被赶出去了. 这里如果谈微观个人道德, 乙对B做的事情是违反的, 但是如果谈国家之间的是非曲直, 似乎有讨论的空间. B因为被赶出去了, 对乙国产生了怨恨,  于是此种仇恨就循环往复, 永远不能结束.  \b这种不同层级的道德不兼容的一个结果就是, 集体总是裹挟善良的个人, 来增加对方去纠正自己过去的集体层面不道德行为的道德成本. (在这个例子中, 国家甲裹挟了B). 于是世界上,会有越来越多无辜善良的人被卷入过去的仇恨.",
+      :uuid #uuid "668a383c-2fc3-43be-977a-61ecaf711ecf",
+      :ordering-info {:block/left {:db/id 60090}},
+      :page 29649})}
+   {:content "3",
+    :uuid #uuid "668a383c-bf98-481e-bc6c-e3344c210607",
+    :ordering-info {:block/left {:db/id 60122}},
+    :page 29649,
+    :children
+    ({:content
+      "我之前一直觉得国家之间不存在道德, 只有丛林法则. 我现在改变了想法, 我现在觉得, 国家之间只存在道德, 只是不存在法律, 各个国家群体其实有时候还是顾及一些道德,  只是说, 没有法律兜底的道德, 本身就是相对不可靠的.",
+      :uuid #uuid "668a383c-fde0-4ad5-ac85-c5df8651bf84",
+      :ordering-info {:block/left {:db/id 60154}},
+      :page 29649})}
+   {:content "4",
+    :uuid #uuid "668a383c-228b-4758-8bc1-7c7f11d127ca",
+    :ordering-info {:block/left {:db/id 60154}},
+    :page 29649,
+    :children
+    ({:content "关于 fx 调查组的 语焉不详 , 人民表达了愤怒",
+      :uuid #uuid "668a383c-64fa-40b4-b405-e122f07e97c8",
+      :ordering-info {:block/left {:db/id 60159}},
+      :page 29649}
+     {:content "关于 乌克兰问题的外交辞令 人民表达了满意",
+      :uuid #uuid "668a383c-0a4b-47b7-b889-3d5a1abe916a",
+      :ordering-info {:block/left {:db/id 60135}},
+      :page 29649})})}
+ {:content "[[pyq]] [[stoooges]]  [[评估 vs 教育]] [[pyq/posted]]",
+  :uuid #uuid "668a36cd-ac61-4237-b74a-8eeb4ac479a4",
+  :page "20231215",
+  :children
+  ({:content
+    "1 通常来说我是不爱发early申请结果的。可能因为我自己申请时，early没有录取。当初看到别人的好消息，替他们开心的同时，多少也让自己有点焦虑。今年大家都发的很积极，会焦虑的人估计也都看麻了，我也就跟风谈几点思考。",
+    :uuid #uuid "668a36cd-d2c1-4676-9354-5991e5f7e3bf",
+    :ordering-info {:block/left {:db/id 10190}},
+    :page 10142}
+   {:content
+    "2 说来也惭愧，最近几个月在stoooges日常运营花的时间有限，但还是帮助几位导师带出了1 harvard, 1 princeton, 1 wellesley，以及一个微弱协助的columbia。有点厚脸皮的说，带出hypsm对我也不是特别新鲜有成就感的事情，但我确实对三士渡的导师赋能体系是有些自豪的。HPC这几位学员规划/文书导师团队当初都是刚毕业第一份工作加入的三士渡。在ssd的培训体系/日常导师互助下，2-3年带出了大藤。打造出这个快速赋能导师们带出HYPS的体系（留学行业仅此一家？），我是有成就感的；记得之前和同事夸口画饼：希望有一天，ssd导师的普遍水准能达到同行优秀机构的创始人水准，我觉得我们有在向这个方向前进。H团队有位老师我觉得今年算正式出师，C团队有位老师，入职三士渡一年做出columbia，我再带带，明年申请季也差不多有大藤。",
+    :uuid #uuid "668a36cd-31cf-40ba-9dbd-9ae39938c380",
+    :ordering-info {:block/left {:db/id 10188}},
+    :page 10142}
+   {:content
+    "3 HYPS是好学校，我也想去，但也不必把学校和自我价值过于挂钩。美国大学录取复杂，主观，不透明，高度不确定，极易错误归因（具体阐述见置顶pyq），所以一贯努力的high acehiver常会经受极大压力。不能去固然可惜，但大概有很多因素不是申请者人为可以左右，不必自我批判过度，也不要太影响RD心态。毕竟你的RD本来就该是以early rej为前提准备的。",
+    :uuid #uuid "668a36cd-4c39-4884-978a-759e3afac0ea",
+    :ordering-info {:block/left {:db/id 10174}},
+    :page 10142}
+   {:content
+    "4 同样，对于导师，带出HYPS也只是前进的其中一条路，而非唯一一条。有些导师循循善诱，能帮学生挖掘自己的passion；有些导师心思细腻，能帮学员化解申请中的情绪和压力；有些导师深度钻研某个领域，能带学生快速上手；etc. 无奈，限于社会价值，HYPSM导师这条路更加表面光鲜一些。",
+    :uuid #uuid "668a36cd-d868-4717-b29e-a8e6f4697d67",
+    :ordering-info {:block/left {:db/id 10172}},
+    :page 10142}
+   {:content
+    "5 我不喜欢美本评估体系，虽然了解，或者说，因为了解。从robustness角度来说，存在相当一些安全有效但不正当手段，可以提高申请结果的质量。学生和机构，需要一定的勇气和智慧，才能抵抗住使用这些手段的诱惑。从motivation角度来说，即使那些正当提高申请结果质量的方法，也有相当一部分无助于学生的真诚表达或个人成长。学生和机构，需要一定的技艺，去尽量align录取结果和成长/真诚，当然也总是有些妥协。",
+    :uuid #uuid "668a36cd-4068-4ec2-8f7f-865dc4e7f90c",
+    :ordering-info {:block/left {:db/id 10175}},
+    :page 10142}
+   {:content
+    "5.1 这个体系下的HYP申请是对结果的极致优化，对导师的要求，有时是反人性的。HYP指导是个extremely intentional的过程；也许对于学生，有些活动只是出于热爱；但对于导师，每个建议都应基于从招生官评估标准出发的，深度思考过的明确的原因。然而导师们关于标准本身的技艺和深度思考，似乎除了影响了录取名额的分配，没有给社会带来增量价值，也对学生长远发展并不总是有录取结果之外的帮助。",
+    :uuid #uuid "668a36cd-4f20-4775-a8d0-9e161ac0d8d3",
+    :ordering-info {:block/left {:db/id 10171}},
+    :page 10142,
+    :children
+    ({:content
+      "5.1.1 即使一些看似随意的建议也往往intentional：「都可以」可能是导师明确意识到这个选择对申请结果不重要；「看学生偏好」可能是导师认为学生的主观能动性有助于活动的完成效果，etc.",
+      :uuid #uuid "668a36cd-87a9-4936-9598-5a4e95bcf962",
+      :ordering-info {:block/left {:db/id 10183}},
+      :page 10142})}
+   {:content
+    "5.2 as i mentioned in my prev pyq，我其实不喜欢大部分评估体系。这些体系多是为了规模化，极其在意成本，常常牺牲效度，造成个体努力和资源分配的双重低效。JS的trader offsite面试有5轮7小时，我体验下来觉得效度很高，但成本也惊人。（考虑到面试官是工资极高的senior trader）对于JS来说，他们过于有钱，招到合适的人过于重要，合适付出这个成本。",
+    :uuid #uuid "668a36cd-a7dd-4bda-9056-86c063f2529b",
+    :ordering-info {:block/left {:db/id 10183}},
+    :page 10142}
+   {:content
+    "6 在很多领域，「最高水平」的人类面试官是效度最高，成本也最高的评估方式。 他们熟知该领域、有丰富的面试技艺，经验以及对潜在bias的自我觉察。 除了JS例子，哈佛校友面，牛剑教授面，也都接近此类型。好的评估可以给所有竞争者更好的motivation；大家仍要竞争，但会主要提高自己的真实实力，而非做表面功夫，因为好的评估可以穿透表面功夫。",
+    :uuid #uuid "668a36cd-8732-45d7-b30a-e263df88bd38",
+    :ordering-info {:block/left {:db/id 10182}},
+    :page 10142}
+   {:content
+    "8 图穷匕见：最近在试图用LLM做一个 通用认知能力，批判性思维的面试官。一个初步demo，效果还不错，欢迎反馈：bit.ly/paideia_demo (需要用电脑，需要有github账号)",
+    :uuid #uuid "668a36cd-7b99-426d-a244-878898eff4db",
+    :ordering-info {:block/left {:db/id 10163}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-f9ba-4b44-8e29-798c4f58a128",
+    :ordering-info {:block/left {:db/id 10187}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-f1c4-402f-9b6a-90339f07c9cd",
+    :ordering-info {:block/left {:db/id 10151}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-72f8-44bf-82a0-972f23c16ca7",
+    :ordering-info {:block/left {:db/id 10160}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-8e9b-4626-aaab-030523f00d75",
+    :ordering-info {:block/left {:db/id 10154}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-1fc5-47db-90cc-30b09aea2165",
+    :ordering-info {:block/left {:db/id 10164}},
+    :page 10142})}
+ {:content "[[pyq]] [[paideia/股权]] [[pyq/posted]]",
+  :uuid #uuid "668a36c7-89db-4779-8c42-52b5de011369",
+  :page "20240207",
+  :children
+  ({:content
+    "为什么SV的VC，比如YC十分鼓励startup founder 进行 股权均分，而国内多数投资人特别推崇要有个大founder 占绝对多数？是因为国内不方便做AB股分开决策权和收益权吗？有什么特别的文化/意识形态原因么？ 决策权集中，而收益权均分是个好的选择么？best of both? worst of both?",
+    :uuid #uuid "668a36c7-4189-4195-9098-6f4ced9df699",
+    :ordering-info {:block/left {:db/id 7749}},
+    :page 7732})}
+ {:content "[[pyq/posted]]",
+  :uuid #uuid "67e51001-2795-4c44-8af4-4ff5c1ba41a8",
+  :page "pyq"}
+ {:content "[[pyq/posted]] 流浪地球",
+  :uuid #uuid "6831efc5-219e-41e4-945e-7d2e0a45bed1",
+  :page "20230124",
+  :children
+  ({:content
+    "#pyq\n师傅\n太阳寿命\n地球至今46亿\n意识到了问题的严重性\n\n打车去影院，师傅问我一个人看啊? 我说朋友在了，看流浪地球2。师傅问啥内容，我说：好像是太阳寿命到了要毁灭了，地球得跑。\n师傅突然很认真的问，in 济宁话，「所以太阳真的有寿命拜？」\n八十亿年，我告诉他。\n「那地球到现在多大了?」\n四十六亿年，我告诉他。\n\n师傅沉默了一会儿，道「我好像意识到了问题的严重性。」",
+    :uuid #uuid "668a36f1-1ed4-45c6-ba64-d42a16748fea",
+    :ordering-info {:block/left {:db/id 101200}},
+    :page 20750})}
+ {:content "[[muse on web3 公共产品治理]] [[pyq/posted]]",
+  :uuid #uuid "668a37a9-0445-4c3d-aeee-696faf6b717b",
+  :page "public good/governance",
+  :children
+  ({:content
+    "1 [[公共产品]]的治理是一个很复杂的问题, 我们大概率希望有人去建造/提供公共产品, 希望有人去维护公共产品(比如平整的高速公路, 干净的饮用水, 开源的操作系统/开发工具/搜索引擎, 沟通和交流的网络平台). [[public good]]",
+    :uuid #uuid "668a37a9-4d70-4244-9f0f-3df09afa24d0",
+    :ordering-info {:block/left {:db/id 52465}},
+    :page 52307,
+    :children
+    ({:content
+      "1.1 但是我们一来不希望这些人建造维护者获得太多利润(那样可能就有accessiblity issue, 就不够公共, 比如过高的过路费或者流量费用),",
+      :uuid #uuid "668a37a9-9f67-491a-b416-576774e71b86",
+      :ordering-info {:block/left {:db/id 52477}},
+      :page 52307}
+     {:content
+      "1.2 二来我们不希望这些建造维护者拥有太多管制的权力(也会造成不够公共的情况, 如果权力禁止部分人使用比如高铁).",
+      :uuid #uuid "668a37a9-3691-424c-9cc6-ce4171568db7",
+      :ordering-info {:block/left {:db/id 52441}},
+      :page 52307}
+     {:content
+      "1.3 三来 既然是公共产品, 那么就会有很多 公众 对这个产品的后续的发展和治理会有想法和偏好, 那么是否/如何去聚合这些偏好也是个很复杂的问题, 尤其是在治理者可能缺乏获得经济资源和权力地位的动力的时候.",
+      :uuid #uuid "668a37a9-ce75-43a7-a403-44df6e008b3d",
+      :ordering-info {:block/left {:db/id 52447}},
+      :page 52307})}
+   {:content "A. 欢迎关注下我的twitter, @zh3036, 一些也许更敏感的思考后续转移到twitter.",
+    :uuid #uuid "668a37a9-f048-483b-beec-10a5d64e4b98",
+    :ordering-info {:block/left {:db/id 52477}},
+    :page 52307}
+   {:content
+    "2 第一个问题可能是, 「谁」来治理? 我想应该不能是一个人类个体. 大部分时候 集体的智慧大于个体的智慧 对治理也是如是 即使对非常极致的个体 也有兼听则明的说法 比如李世民 也会有 杜房. 在另外一个层面上, 也有无数官吏在用他们的智慧处理大唐的具体问题. [[collective intelligence]]",
+    :uuid #uuid "668a37a9-a73e-4f84-866d-8064f41dd584",
+    :ordering-info {:block/left {:db/id 52496}},
+    :page 52307,
+    :children
+    ({:content "2.1 而且 今日世界的复杂度 即使最极致的人类个体 也无法完全自己学习会一切 实行一切 而总是需要协作",
+      :uuid #uuid "668a37a9-5950-4773-bac7-6f4321e2f2ba",
+      :ordering-info {:block/left {:db/id 52443}},
+      :page 52307}
+     {:content "2.2 那么 治理的主体的选择有几个",
+      :uuid #uuid "668a37a9-7828-46ed-bf31-19a02be12200",
+      :ordering-info {:block/left {:db/id 52485}},
+      :page 52307,
+      :children
+      ({:content "2.2.1 高级人工智能 [[artificial intelligence]]",
+        :uuid #uuid "668a37a9-1d42-4f09-96bb-fb14bdd80e51",
+        :ordering-info {:block/left {:db/id 52462}},
+        :page 52307}
+       {:content "2.2.2 组织集体智能(智囊团, 桥水)",
+        :uuid #uuid "668a37a9-710d-44d8-af06-932b883c99b3",
+        :ordering-info {:block/left {:db/id 52471}},
+        :page 52307}
+       {:content "2.2.3 some combo of both",
+        :uuid #uuid "668a37a9-1bf2-41a7-b703-dbcf4b48fb9f",
+        :ordering-info {:block/left {:db/id 52510}},
+        :page 52307})}
+     {:content
+      "2.3 combo of both 听起来似乎最靠谱 因为似乎是一个take the best of everything 的感觉 但是也最复杂 .",
+      :uuid #uuid "668a37a9-b65e-4c8f-ab7b-b511fadefffb",
+      :ordering-info {:block/left {:db/id 52462}},
+      :page 52307})}
+   {:content
+    "3 集体智慧(即使包含AI)有一个难点, 即 怎么把很多人的智慧 聚合到一起 形成合力 而非内耗 比如 虽然李世民和房玄龄是合力的 但是李世民和窦建德大概就不是合力  李世民和李建成大概也不是合力 或者合的不太好",
+    :uuid #uuid "668a37a9-f7f1-428a-880d-0a4c176557e9",
+    :ordering-info {:block/left {:db/id 52443}},
+    :page 52307}
+   {:content "4 公司&市场 是一种聚合智慧的良好框架",
+    :uuid #uuid "668a37a9-a315-4c50-b706-41a72ea0f987",
+    :ordering-info {:block/left {:db/id 52440}},
+    :page 52307,
+    :children
+    ({:content
+      "4.1 他一来并没有限制具体聚合智慧的方式 可以是民主的 投票的 比如桥水claim的 可以是非常独裁的 比如乔布斯式的 也可以是something in the middle 集中的民主 , 寡头制 etc,",
+      :uuid #uuid "668a37a9-c5e1-4641-9107-6ff06c5f8687",
+      :ordering-info {:block/left {:db/id 52449}},
+      :page 52307}
+     {:content "4.2 他允许失败 并且后果没有特别严重 大不了就是破产 顶多是欠债还钱 一般不会有深远的社会影响",
+      :uuid #uuid "668a37a9-507a-4b6f-b943-872fd59961f9",
+      :ordering-info {:block/left {:db/id 52483}},
+      :page 52307}
+     {:content
+      "4.3 以上两点允许全体公司以一种类似于进化算法的方式去探索各种聚合方式 并通过市场商业成功这样一个相对明确的维度来去筛选 最好的 聚合方式",
+      :uuid #uuid "668a37a9-f9ca-41b1-98c4-eca1246e14a4",
+      :ordering-info {:block/left {:db/id 52428}},
+      :page 52307}
+     {:content "4.4 国家当然也是一种框架, 但是国家的失败后果过于大 以至于大家偏于保守",
+      :uuid #uuid "668a37a9-f8c4-4774-a03a-755b6e46e76a",
+      :ordering-info {:block/left {:db/id 52417}},
+      :page 52307}
+     {:content
+      "4.5 NPO当然也是一种框架, 但是NPO的 好的标准 似乎并不清晰 (effective altruism是一个试图解决该问题的尝试)",
+      :uuid #uuid "668a37a9-8140-4dca-91c8-322ab9455358",
+      :ordering-info {:block/left {:db/id 52460}},
+      :page 52307})}
+   {:content
+    "5 然而 公司的好的标准 是无法完全离开 市场/资本增殖导向的 , 这违反了1.1中的诉求. 国家的特点可能违反了1.2. 想到这里似乎进入了死胡同. 可以先试图寻找一些案例: 诸如肾移植的肾源配型, 婚配嫁娶的组合, 开源软件的贡献 这样一些公共事务确实没有完全自由市场化, 也没有完全政治化. 但是也不能说非常optimal.",
+    :uuid #uuid "668a37a9-4ba5-4542-8558-0b8489e8268d",
+    :ordering-info {:block/left {:db/id 52449}},
+    :page 52307}
+   {:content
+    "6 公共产品治理这个复杂问题, 也许会在[[web3]]时代, 有所进展. 虽然我现在并没有一个明确的思路, 但是 区块链 不可篡改的特性 也许是解决公共治理问题的关键之一.",
+    :uuid #uuid "668a37a9-3c41-4664-8421-86de803b8ee5",
+    :ordering-info {:block/left {:db/id 52482}},
+    :page 52307,
+    :children
+    ({:content
+      "6.1 web2已经大大降低了公众参与讨论和表达的门槛, 开源社区, wikipedia, 也都是在web2的框架下自治. 不过web2下的治理不存在 强有力的规则, 甚至连 现实世界的法律的强度的规则都没有. 所以web2框架下的治理往往是人治, 或者小团体治理.",
+      :uuid #uuid "668a37a9-afca-4b96-817a-2751cce08e03",
+      :ordering-info {:block/left {:db/id 52457}},
+      :page 52307}
+     {:content
+      "6.2  世界上强度最高的规则是物理规则, 任何人在任何地方松手扔下一个苹果, 苹果都会落地. 这就给了任何人 「运行」一个物理事件的权利. (相比而言, 元宇宙中的苹果是否下落要看项目方, 服务器方, etc, 所以说真正的元宇宙确实需要区块链, 否则只不过是资本的私人宇宙而已) 某种意义上, 我们都被物理规则 所 治理(govern) .",
+      :uuid #uuid "668a37a9-13e5-4221-9fd5-cf1c0a931144",
+      :ordering-info {:block/left {:db/id 52495}},
+      :page 52307}
+     {:content
+      "6.3 web3不可篡改的特性也许可以让网络上出现 真正有强度 的 规则(强度可能仅次于物理定律 而高于主权国家的法律). 不可篡改的毕竟不只是数据 还有 算法. 这是 法治 或者 说 基于规则的治理 的基础.",
+      :uuid #uuid "668a37a9-22f5-4a11-9606-1cd52de192e7",
+      :ordering-info {:block/left {:db/id 52481}},
+      :page 52307}
+     {:content
+      "6.4 一个真正基于规则的治理也许可以第一次做到 治理 as a product, 因为我们可以在治理算法上进行迭代.  我们可以可以在治理算法的设计和改进上进行 智慧的聚合. 对算法不满的群体可以fork一个新的算法版本进行不同的尝试. 也许假以时日, 就能筛选出一些「成功」的治理算法来做为各个社区治理的模板.",
+      :uuid #uuid "668a37a9-30b2-4b2b-815e-c9b14ab2c7bb",
+      :ordering-info {:block/left {:db/id 52507}},
+      :page 52307})}
+   {:content
+    "7 分配是治理的重要部分, 这包括了分配资产/物质/利益(工资, 使用权), 分配权力(决策的权力), 分配组合(和谁一起建设). 这里存在算法辅助的非自由市场[[机制设计]], 作为之后思考的内容吧. (再次广告 twitter @zh3036",
+    :uuid #uuid "668a37a9-5016-4df7-94a3-102ed1d9f705",
+    :ordering-info {:block/left {:db/id 52457}},
+    :page 52307})}
+ {:content "[[chatgpt]] [[LLM]] [[aigc]] [[pyq]] [[pyq/posted]]",
+  :uuid #uuid "668a36e8-8e3c-4604-a5c4-097db0d8513c",
+  :page "20230329",
+  :children
+  ({:content "1 LLM 面前，培养什么能力是有价值的？ （注意，有了计算器我们还是要学算术）",
+    :uuid #uuid "668a36e8-2ade-4677-bcf9-6b8969be960e",
+    :ordering-info {:block/left {:db/id 18521}},
+    :page 18512,
+    :children
+    ({:content
+      "1.1 能力大概可以有重叠的分为几类，A 人类上限已经完全被超越的能力（识别人脸）B人类上限还比LLM高 但是平均值低于LLM的能力（画画） C 人类平均值高于LLM的能力（判断答案的真实性） D 协助人类使用LLM的能力（阅读，提问） E 超越语言的能力（冥想，内观）",
+      :uuid #uuid "668a36e8-4531-4ec2-99ba-54defa10359f",
+      :ordering-info {:block/left {:db/id 18517}},
+      :page 18512}
+     {:content
+      "1.2 批判性思维 跨文化交流 有些事情也许每个国家都差不多 不需要做太多针对特定教材的本地化 也许是可以做一些 AI empowered 全球化素质教育 社会情感教育项目 欢迎投资人朋友 或者 AI 或者教育行业朋友探讨",
+      :uuid #uuid "668a36e8-508e-42fa-bf55-bea4542a4901",
+      :ordering-info {:block/left {:db/id 18518}},
+      :page 18512})}
+   {:content "2 LLM(large language model) 面前，大学以文书为录取参考还有意义吗？",
+    :uuid #uuid "668a36e8-68d5-46c3-b898-fcd7a3a7b2f9",
+    :ordering-info {:block/left {:db/id 18517}},
+    :page 18512,
+    :children
+    ({:content "2.1 Initialview 一个学生 245刀，问10个比较generic的面试问题，给大学做录取参考",
+      :uuid #uuid "668a36e8-e935-4327-b692-29159d499e6f",
+      :ordering-info {:block/left {:db/id 18523}},
+      :page 18512})}
+   {:content
+    "3 [[par provision]]是笛卡尔提出的一个概念，意指在一个人尚未理解一个领域的知识时，可以暂时接受一种解决方案或方法，直到找到更好的替代方案。LLM是一种足够好的par provision for everyone ，尤其是对B类能力。",
+    :uuid #uuid "668a36e8-3a91-477c-b563-28265315d80c",
+    :ordering-info {:block/left {:db/id 18523}},
+    :page 18512}
+   {:content
+    "4 LLM 是 interface，是media，是 generator, 是declarative programming, 是compressor",
+    :uuid #uuid "668a36e8-15d6-4a4c-8d50-c06af4a3c971",
+    :ordering-info {:block/left {:db/id 18529}},
+    :page 18512}
+   {:content
+    "5 人类和LLM也挺像的，天生的超参数和初始化不同，因为经历导致training data不同，导致最终的performance不同，不同的LLM之间通过语言update彼此的参数状态。有些LLM可能就更有生产力，更能影响其他LLM，etc.",
+    :uuid #uuid "668a36e8-53bf-4d58-bd9c-5e09a434f001",
+    :ordering-info {:block/left {:db/id 18513}},
+    :page 18512}
+   {:content
+    "6 不需要实验的人文学科的科研 会如何被影响呢。 我常感觉理工科有个overarching structure 但是人文学科比较零散 也许LLM可以成为这个structure，去连接不同理论，去找到理论的边界。",
+    :uuid #uuid "668a36e8-a539-4692-a7a3-523d2c7e08a2",
+    :ordering-info {:block/left {:db/id 18516}},
+    :page 18512}
+   {:content
+    "7 LLM可以unleash 人类的集体智慧吗？LLM可以extend the boundary of self吗",
+    :uuid #uuid "668a36e8-30af-41d7-9105-2881b3643b5d",
+    :ordering-info {:block/left {:db/id 18527}},
+    :page 18512}
+   {:content
+    "8 LLM说的话都是先天分析命题吗？对LLM来说记忆和思考的区别是什么？LLM有intentionality吗？",
+    :uuid #uuid "668a36e8-1743-45c8-8e72-74e79a57e363",
+    :ordering-info {:block/left {:db/id 18514}},
+    :page 18512})}
+ {:content
+  "[[attention]] [[pyq/posted]] [[钱 attention reputation 的 转化]] [[两种 attention: public vs private]]",
+  :uuid #uuid "668a36c3-91a9-495a-a610-e2d22245c9b0",
+  :page "20240307",
+  :children
+  ({:content
+    "1. 本想以「human attention」（注意力）为主题，总结下2023，不过有些拖延，最近btc破历史，恰是个切入点。我猜想，对于一个有一定商业sense，对区块链有基本理解的人，如果在2023年年初，给到crypto 50小时的attention去研究和思考，有相当概率可以做出低位建仓的决策。我并不意图马后炮似的说这个事情简单，相反，我想说这个事情很难。因为，在那个时间点，作为一个有基本商业sense的人，或者说作为一个把赚钱放在人生较高优先级的人，为什么要选择给crypto这样一个沉寂了很久的，国家不支持的，丑闻频频的行业50个小时的attention？毕竟，2023年初，是midjouney 放出半年，gpt4刚刚公布的时候；是大量crypto从业人员转移attention去AI的时候。",
+    :uuid #uuid "668a36c3-db2d-4373-8cc6-2aeba788f6f3",
+    :ordering-info {:block/left {:db/id 6695}},
+    :page 6679}
+   {:content
+    "2 自我反思一下，我2023年，attention就主要在AI和三士渡，建仓拖拖拉拉，不够果断；几次打算满仓的时刻，总想着等有空研究研究再说，结果就是没能完全吃到这波周期（如12月看到tao的时候，感觉买起来有些麻烦，想着等等，就飞了）。前几天和一位crypto投资人聊天，她开玩笑说，有些朋友被创业耽误了赚钱。着实，从赚钱角度，结果导向的来说，选择把自己的attention放在哪，比努力更重要：想想很多把attention放在A股的朋友们。",
+    :uuid #uuid "668a36c3-a8c1-41fd-9c7a-ba5df6e52f0c",
+    :ordering-info {:block/left {:db/id 6725}},
+    :page 6679}
+   {:content
+    "3 以上这个点，2021年6月，我做过一次相关的思考。后续结论之一是，一部分关于attention的决策还是需要outsource到组织，我想我多少喝到一点汤也是非常感谢planckerdao和uncommons的朋友们，参与zuzalu也让我对crypto community增加了很多信心。当然，如何让组织拥有好的决策能力，如何把组织内成员的个人决策聚合成一个组织层面的共识，如何给予组织成员去给贡献给组织的正确动力，都是困难问题，在AI时代这些问题也许都有些新的答案，毕竟LLM的一大价值就是促进信息流通的效率，具体答案，留待慢慢思考。最近我在做的 paideia.ai  也会希望对这个问题有所提升。",
+    :uuid #uuid "668a36c3-25d8-42d2-a82f-a58cf53535cd",
+    :ordering-info {:block/left {:db/id 6686}},
+    :page 6679}
+   {:content
+    "4 当思考如何分配自己的attention的时候，不禁也会想到另一个方向，如何获取别人的attention。最近给paideia融资，总遇到这个问题。提出一个创业想法，如果他是好的创业，想法又是有远见的创业想法，那么他大概不是一个轻易让人就能搞懂的想法，如果他轻易的被所有人接受，那肯定早就有人做了。但是如果他不能那么轻易的被人接受，这里就有个问题，别人为什么要花时间去听你跟他讲这些东西？别人为什么要把他的注意力给你？我们先不谈这个想法本身是不是真的好，只是单纯能说服别人愿意花时间精力来听来理解，我觉得就挺不容易。",
+    :uuid #uuid "668a36c3-cd0c-442f-840e-156d6942b67a",
+    :ordering-info {:block/left {:db/id 6727}},
+    :page 6679}
+   {:content
+    "5 我觉得这里至少有两类attention，基于personal trust的attention，和基于public trust的attention。前者比如大家是多年好友，后者比如获取attention的一方是知名KOL/学术大牛/诺奖得主。",
+    :uuid #uuid "668a36c3-9670-4d2c-95ab-33161de4af31",
+    :ordering-info {:block/left {:db/id 6716}},
+    :page 6679}
+   {:content
+    "5.1 pub attention 更加scalable，门槛更高，长远来看是值得投资的资产。不过pub attention大概多少有些功利，即一个人收获attention是因为人们潜意识认为ta更厉害，ta说的更对。当这个功利的基础出现问题，比如ta的输出有些过时，或者人们关心的事情变化了，那么可能该attention就较难维持下去。（crypto作为一个符号 一个模因 每当币价上涨就会收获大量attention 反之则会失去大量attention。）",
+    :uuid #uuid "668a36c3-b26a-4543-902f-506c965b1a3b",
+    :ordering-info {:block/left {:db/id 6694}},
+    :page 6679}
+   {:content
+    "5.2 private attention 可能更加非理性一些，比如大家认识了10年，彼此投缘和关心，虽然大家是否有利益交换会影响注意力的强度，但该影响并非绝对。这种非理性的attention也许更加long lasting，也在关键时刻更加稳固。",
+    :uuid #uuid "668a36c3-50ec-489c-a4e4-fd1ec7bf0678",
+    :ordering-info {:block/left {:db/id 6699}},
+    :page 6679}
+   {:content
+    "6 attention 有一种「投资」属性。当一个人获得attention少的时候，他更有可能去回应给到ta的attention，也更有机会form private mutual attention。当一个人获得attention多的时候，他的回应就会更加selective，也可能更基于对方的public record。",
+    :uuid #uuid "668a36c3-ff86-48ed-98c5-1696d360fd41",
+    :ordering-info {:block/left {:db/id 6690}},
+    :page 6679}
+   {:content
+    "7 我自认还是一个above avg attention seeking的人，因为好奇心：我希望感兴趣的问题能获得对之有inight的人的attention；我希望我的思考能获得相关思考的人的address。ultimately，是追求人类世界对我的反馈。",
+    :uuid #uuid "668a36c3-fbf1-48e6-95d6-722ac5c94b67",
+    :ordering-info {:block/left {:db/id 6714}},
+    :page 6679}
+   {:content "8 法尚应舍，何况非法",
+    :uuid #uuid "668a36c3-c019-4212-97b2-a216f0405b39",
+    :ordering-info {:block/left {:db/id 6731}},
+    :page 6679}
+   {:content "",
+    :uuid #uuid "668a36c3-9e98-4b45-b54a-9883d552540a",
+    :ordering-info {:block/left {:db/id 6718}},
+    :page 6679}
+   {:content "",
+    :uuid #uuid "668a36c3-ea74-4b61-8ed5-13ad741515af",
+    :ordering-info {:block/left {:db/id 6720}},
+    :page 6679}
+   {:content "raw",
+    :uuid #uuid "668a36c3-4a64-49f2-927a-a798ec846ef0",
+    :ordering-info {:block/left {:db/id 6710}},
+    :page 6679,
+    :children
+    ({:content
+      "自我反思下，去年我个人的attention主要在AI上，以至于对crypto attention不足，以至于资产配置的有很大提升空间，到现在竟然还有30%的仓位空着，买也不是，不买也不是，这么大一波行情，就喝了点汤。",
+      :uuid #uuid "668a36c3-db31-4b46-8092-fd5dddf0d81c",
+      :ordering-info {:block/left {:db/id 6719}},
+      :page 6679})}
+   {:content "",
+    :uuid #uuid "668a36c3-221b-4d3d-bea5-a5dc04554a87",
+    :ordering-info {:block/left {:db/id 6719}},
+    :page 6679})}
+ {:content "[[20231201]] post version [[pyq/posted]]",
+  :uuid #uuid "668a3858-315d-4f5c-84c0-31f494e1db5d",
+  :page "评估 vs 教育",
+  :children
+  ({:content
+    "1 绝大多数教培市场都面向某个严肃评估系统。k12  面向 中高考 ；钢琴 面向 考级；国际教育 面向 SAT/托福；科研 面向 期刊发表评议；留学咨询 面向 大学录取机制；成人编程教育 面向 技术面试题目  。严肃评估系统通常评估能力（as opposed to 评估类型，比如性格测评），且可以直接或间接影响关键 资源/权力（学习机会，工作岗位，权力） 的 分配。每一个这样的系统都激励人们为学习付出巨大努力，时间，费用，从而激励创业者和资本为教育投入巨大资源。显然，这里的学习/教育 的目标  主要是 提升在某个评估系统的分数。",
+    :uuid #uuid "668a3858-ea25-486a-833b-0e972e1ad6c3",
+    :ordering-info {:block/left {:db/id 67053}},
+    :page 10139,
+    :children
+    ({:content "1.1 知识付费是个例外； 面向好奇心，谈资，人生这个无限游戏，etc.",
+      :uuid #uuid "668a3858-f21e-43ef-8d55-2be8c7bf3ecc",
+      :ordering-info {:block/left {:db/id 67104}},
+      :page 10139}
+     {:content
+      "1.2 我们今天的教育的很多问题都衍生于对应评估系统的问题，在评估系统不变的前提下，我们很难对普遍的教育做太多根本改变。只能影响不在意评估系统的少数特权群体。",
+      :uuid #uuid "668a3858-dbe6-4644-95c6-f2cc0eee247d",
+      :ordering-info {:block/left {:db/id 67108}},
+      :page 10139})}
+   {:content
+    "2 在评估系统中获得高分所实际需要的能力（A能力） 相比 评估系统设计者意图评估的能力（B能力）   通常有偏差（效度低）； 相比 运用好 依据评估系统分数 所分配的 资源/权力 的能力（C能力） 通常有更大偏差。当教育过度在意A，而忽视BC，则人们常称之为「应试教育」。",
+    :uuid #uuid "668a3858-6af7-480c-b4fd-6351ba1bdacf",
+    :ordering-info {:block/left {:db/id 67104}},
+    :page 10139}
+   {:content
+    "3 A和B/C之间的偏差是人类社会普遍存在的一类巨大的系统性问题，不限于教培。竞选美国总统所需要的能力和当好美国总统所需要的能力 可以偏差很大。成为终身教授所需要的能力和做好科研，上好课所需要的能力 可以偏差很大。SAT高分的能力 和 英语能力/思辨能力 可以偏差很大。获得领导喜欢从而升职的能力 和 升职后的岗位所需要的具体能力 可以偏差很大。",
+    :uuid #uuid "668a3858-d785-43c5-817c-174ed2f14220",
+    :ordering-info {:block/left {:db/id 67085}},
+    :page 10139}
+   {:content
+    "4 虽然都谓「可以偏差很大」，但具体偏差的性质和背后的原因，也可以很不同，试做一些并不mutually exclusive，也并不exhaustive的分析（传说中的又重又漏）",
+    :uuid #uuid "668a3858-8e59-422f-b9a7-6844d3b04df7",
+    :ordering-info {:block/left {:db/id 67102}},
+    :page 10139,
+    :children
+    ({:content
+      "4.1 使用 标准化测试 评估 大量候选人 的系统 比如 高考 ，SAT，公务员考试，通常不会埋没天才。即当一个人B极高的时候，一般都可以在此类测试中取得很高的分数（高B->高A）（）。这种测试场景的偏差更多是针对B属于人群平均水平上下的受试者（存在高A低B的可能性）。因为对于有些这样的受试者，提升B的成本 高于 直接提高A的成本（想象一下提高自己对数学概念的理解，数学思维，举一反三的能力 vs 掌握高考某种常见题型的解题套路）；对于有些教育者，传授B的难度远高于传授A；对于一个有志于资本化教培的创业者，做一个提高A的公司会更容易成功（考虑到教研教学成本，销售难度，见效速度，scale难度，etc.）。这就导致大量的资源投入在对B影响不大的A的提高。也就是之前说的「应试教育」。我猜这可能也是双减背后的逻辑之一， 毕竟A的提高影响的只是分配，而非群体的实际生产力（B，C），人们也叫这类现象「内卷」。",
+      :uuid #uuid "668a3858-e22e-40b6-b6c1-8b547e8e9abc",
+      :ordering-info {:block/left {:db/id 67076}},
+      :page 10139}
+     {:content
+      "4.2 让一个委员会 根据某种统一标准 评估 大量候选人 的系统，比如金融公司招聘，美国大学录取 ，情况则更为复杂。",
+      :uuid #uuid "668a3858-d562-40c8-bdaf-453fd0ffa3e3",
+      :ordering-info {:block/left {:db/id 67096}},
+      :page 10139,
+      :children
+      ({:content
+        "4.2.1 从申请者和教育者的角度分析：看结果的话，这类评估系统没有催生考培市场，而是 咨询中介市场，aka, 求职中介/留学咨询。咨询中介市场比考培市场通常单价更高，更个性化，scale也更困难。根据我的个人经验，咨询指导中有相当一部分无关于提升BC（有些机构都未必知道对应评估系统的BC是什么，甚至有些机构都未必知道对应的A是什么，只是提供流程和情绪价值），但是申请者还是愿意支付高额费用。这让人本能的感觉整个体系一定有哪里不对。这个体系过于复杂，我还没有把握住核心矛盾，不做深入分析，只分享一些思考方向：A 和 B 都不够透明，又很复杂，存在大量信息差；实际参与评估的人类 对B理解未必一致 个体结果随机性高；面对大量信息差和高随机性，申请者可能会过度准备，乃至诉诸玄学",
+        :uuid #uuid "668a3858-5cab-4a8f-9354-5bdbada5db8d",
+        :ordering-info {:block/left {:db/id 67047}},
+        :page 10139}
+       {:content "4.2.2 从有筛选人才需求的机构的角度分析（to be continued)",
+        :uuid #uuid "668a3858-12c5-4aae-ad74-4b9a338e5171",
+        :ordering-info {:block/left {:db/id 67097}},
+        :page 10139})}
+     {:content
+      "4.3 让大量人 评估 少量候选人的系统 比如美国总统大选，受限于大量人的水平，无法做复杂专业的判断(to be continued )",
+      :uuid #uuid "668a3858-64f6-4d0e-aa0c-56cd1efea101",
+      :ordering-info {:block/left {:db/id 67047}},
+      :page 10139}
+     {:content
+      "4.4 让 个体 直接 估 少量候选人的系统 ，比如领导直接决定某个岗位人选，那么领导的个人偏好一定是A的一部分，也很有可能和BC关系很小。(to be continued )",
+      :uuid #uuid "668a3858-c886-4897-8c5a-023c8e7cb903",
+      :ordering-info {:block/left {:db/id 67101}},
+      :page 10139}
+     {:content "4.5 what else？",
+      :uuid #uuid "668a3858-eb49-4d38-ba1d-6bc637e02194",
+      :ordering-info {:block/left {:db/id 67106}},
+      :page 10139})}
+   {:content "5 你心目中效度最高（ABC-aligned）的评估方式是什么（在不考虑成本的前提下）？",
+    :uuid #uuid "668a3858-95eb-44e6-af28-dc7b4a3ef252",
+    :ordering-info {:block/left {:db/id 67076}},
+    :page 10139})}
+ {:content "[[pyq/posted]]  1 writes and write-nots",
+  :uuid #uuid "677e6a7a-3a1e-4acf-aeea-7c9c0822e280",
+  :page "20241218",
+  :children
+  ({:content "1 writes and write-nots",
+    :uuid #uuid "677e6a7a-1a2b-4d7e-9f77-2c5428d83cd8",
+    :ordering-info {:block/left {:db/id 91623}},
+    :page 87825,
+    :children
+    ({:content "LLM 时代，培养什么能力是有价值的？「写作」肯定是其中之一。",
+      :uuid #uuid "677e6a7a-fa27-40c3-9deb-b031f9ea1166",
+      :ordering-info {:block/left {:db/id 91567}},
+      :page 87825}
+     {:content
+      "去年3月做一场「AI+教育」的直播时，做过这么一个类比：人类发明计算器之后，「算术」就不再是一种广泛的「生产力能力」了，但是在中国的基础教育中，两位数的加减乘除仍然必修。「写作」是 LLM 时代的「算术」：虽然很多生产力场景 AI 写得出足够好的作品，「写作」作为一种能力，仍是人类必修的。",
+      :uuid #uuid "677e6a7a-087b-423a-836f-84c27989963d",
+      :ordering-info {:block/left {:db/id 91620}},
+      :page 87825}
+     {:content "在可见的未来，人类之间，或与 AI 最好的沟通方式还是自然语言。",
+      :uuid #uuid "677e6a7a-ccaa-46ce-af9f-0fd405c0d2da",
+      :ordering-info {:block/left {:db/id 91596}},
+      :page 87825}
+     {:content
+      "「写作」的教育不会顺利：总有人会质疑其必要性；学习者也会想用 LLM 偷懒；写作能力的考察又主观而难以标准化推广，等等。所以，世界也许最后真的会如Paul Graham所说：「The result will be a world divided into writes and write-nots.」",
+      :uuid #uuid "677e6a7a-babf-4859-b080-3cd0f9181e06",
+      :ordering-info {:block/left {:db/id 91591}},
+      :page 87825})}
+   {:content "2 sense",
+    :uuid #uuid "677e6a7a-e60c-4f1b-9f31-6fd98e60a30c",
+    :ordering-info {:block/left {:db/id 91567}},
+    :page 87825,
+    :children
+    ({:content
+      "并非所有 syntacticallly correct 的句子都 semanticaly meaningful or pragomcaptlly useful. (特指日常沟通语境; 文学创作是个例外)",
+      :uuid #uuid "677e6a7a-e29d-4011-8e8b-490985a03ad3",
+      :ordering-info {:block/left {:db/id 91660}},
+      :page 87825}
+     {:content
+      "举例:「这个梨树非常开心」, 「this odd number has 5 pieces of hair」, 「3 is more 善良 than the empty set」, 「Wholeness quiets infinite phenomena」，etc.",
+      :uuid #uuid "677e6a7a-bde4-42ae-bb4d-1d94eff3ddcb",
+      :ordering-info {:block/left {:db/id 91679}},
+      :page 87825}
+     {:content
+      "以上的例子好在至少他们无意义地非常明显, 更可怕的表达是那些看似有意义的 non sense. 如: 有些车轱辘话或缺乏实质的黑话组合; 伪科学中一些 not event wrong 的理论; 哲学中一些 pseudo-profound bullshit(e.g., “Awareness is beyond existential images”)",
+      :uuid #uuid "677e6a7a-be3b-425d-9c70-3d48c32ad7b9",
+      :ordering-info {:block/left {:db/id 91684}},
+      :page 87825}
+     {:content
+      "推荐一个工具: The New Age Bullshit Generator” http://sebpearce.com/bullshit/",
+      :uuid #uuid "677e6a7a-4b87-47ec-b27d-9135397de95b",
+      :ordering-info {:block/left {:db/id 91592}},
+      :page 87825}
+     {:content "「people talking without speaking」(so does the LLM)",
+      :uuid #uuid "677e6a7a-5fd6-4b48-9249-083c0e916a6a",
+      :ordering-info {:block/left {:db/id 91737}},
+      :page 87825})}
+   {:content "3 世界模型",
+    :uuid #uuid "677e6a7a-b9ee-4653-b49b-8c766cc8656f",
+    :ordering-info {:block/left {:db/id 91660}},
+    :page 87825,
+    :children
+    ({:content
+      "一段好的代码（编程语言）总是对应清晰的「计算模型」，每一句都在描述该计算系统的特定条件下的行为。同样，一段好的自然语言对应相对清晰的「世界模型」，我们使用自然语言去描述模型的行为，推演模型的运行，利用新的信息更新模型，etc.",
+      :uuid #uuid "677e6a7a-17be-47a5-8f20-6f55cc72e0f5",
+      :ordering-info {:block/left {:db/id 91619}},
+      :page 87825}
+     {:content
+      "这个语境中的「世界模型」is not formally well defined, 我们粗略定义为抽象的对世界如何运作的表示, 比如: 「人饿了要吃饭」，「下雨了人会打伞」，「圣诞节股票价格可能会跌，因为投资人们可以因此省税」，",
+      :uuid #uuid "677e6a7a-e763-4cd9-b06f-a2a2df71c7da",
+      :ordering-info {:block/left {:db/id 91641}},
+      :page 87825}
+     {:content
+      "这里的模型可以描述我们的现实世界，比如《论持久战》使用自然语言推演了抗日战争的走向。也可以描述某些「人造虚拟世界」，比如《三体》使用自然语言推演了三体文明和地球文明的互动。",
+      :uuid #uuid "677e6a7a-f5df-488e-b81c-d9c74d4b0b4d",
+      :ordering-info {:block/left {:db/id 91617}},
+      :page 87825}
+     {:content
+      "差的提示词缺乏「世界模型」: LLM 按照语法，词频层面的规律，续写出只是 syntactically correct 的回复。",
+      :uuid #uuid "677e6a7a-c51f-4eae-9be2-0c82f22a042a",
+      :ordering-info {:block/left {:db/id 91692}},
+      :page 87825}
+     {:content
+      "好的提示词引导 LLM 去「运行」一个「自然语言」描述的「世界模型」，计算出 deisred output.",
+      :uuid #uuid "677e6a7a-df38-4433-a841-dfdf54c65cea",
+      :ordering-info {:block/left {:db/id 91703}},
+      :page 87825})}
+   {:content "4 湿件",
+    :uuid #uuid "677e6a7a-2c84-465d-8f1f-ed6dc6b64dbe",
+    :ordering-info {:block/left {:db/id 91619}},
+    :page 87825,
+    :children
+    ({:content
+      "前 LLM 时代, 我们心中有一条机器和人类的界限：前者执行定义清晰的，但可能数量庞大，枯燥的流程; 后者执行定义模糊的流程。所以上一代互联网产品常带来一些全新的体验: 滴滴打车, 淘宝购物, 微信聊天, 等等。这些产品通过清晰的模型自动化了一些人类完全无法执行的流程",
+      :uuid #uuid "677e6a7a-1fd5-436d-aead-f1ca0ffa0f3b",
+      :ordering-info {:block/left {:db/id 91577}},
+      :page 87825}
+     {:content
+      "今天的 AI 产品，在打破这条界限, 我们试图让 LLM 加持的机器去执行那些模糊的, 原本由人类做的事情。一个直观体验是, AI 产品带来的体验, 往往本来就是人类可以提供的, 只是 AI 便宜，效果可能略好, 比如文本总结, 客服, 法律咨询 等等.",
+      :uuid #uuid "677e6a7a-c04f-40b1-ae61-1b50802a268a",
+      :ordering-info {:block/left {:db/id 91561}},
+      :page 87825}
+     {:content
+      "前 LLM 时代的多数产品设计会把隐含的世界模型使用代码精确表示（如「打车软件应根据上车地点筛选附近有意愿的司机」），这里的「附近」，「意愿」，都有用代码精确量化的方式。但 AI 产品追求的用户体验有 intrinsically 无法精确量化，无法完美形式化定义的世界模型。",
+      :uuid #uuid "677e6a7a-8992-42d5-b102-67214672c28a",
+      :ordering-info {:block/left {:db/id 91606}},
+      :page 87825}
+     {:content
+      "至少在生产力领域, 好的 AI 产品给用户的文字内容至少应 semantically meaningfil or pramgaticalt useful. 为了实现这个目标, 要么在产品设计中, 要么在用户使用时, 需要一个自然语言表述的高质量的「世界模型」:可能以提示词，训练集，或 RAG 知识库的形式存在。",
+      :uuid #uuid "677e6a7a-42fb-492e-960a-ad71e5811593",
+      :ordering-info {:block/left {:db/id 91727}},
+      :page 87825}
+     {:content "「用自然语言为世界建模」可能就是未来最重要的一种「写作」。",
+      :uuid #uuid "677e6a7a-5535-4794-9b2c-2174e8630482",
+      :ordering-info {:block/left {:db/id 91589}},
+      :page 87825})}
+   {:content "raw 没用上的",
+    :uuid #uuid "677e6a7a-5c65-40cc-ac3d-88281feb9fb1",
+    :ordering-info {:block/left {:db/id 91577}},
+    :page 87825,
+    :children
+    ({:content "去用自然语言明晰这样一个本就缺乏标准格式的模型很困难，所以写作困难",
+      :uuid #uuid "677e6a7a-ec1c-4023-9edd-f86510c91da1",
+      :ordering-info {:block/left {:db/id 91682}},
+      :page 87825}
+     {:content "一种观点是, 对于 AI 产品, 清晰的世界模型并不重要, 只要有足够多高质量数据就够了.",
+      :uuid #uuid "677e6a7a-b0a2-40fa-bd2f-3cd44fdc3aa9",
+      :ordering-info {:block/left {:db/id 91621}},
+      :page 87825}
+     {:content "我们希望ai产品也有 清晰世界模型吗? 过程不需要 结果需要",
+      :uuid #uuid "677e6a7a-6db3-4057-93b6-f22815d5e74a",
+      :ordering-info {:block/left {:db/id 91687}},
+      :page 87825}
+     {:content "我们通常设计产品或系统执行定义清晰的「模型」，",
+      :uuid #uuid "677e6a7a-bbdd-45a6-aa11-2b0227c2d38a",
+      :ordering-info {:block/left {:db/id 91555}},
+      :page 87825}
+     {:content
+      "自然语言对应的「世界模型」并不 formally well defined, 我们难以 verify 模型的正确性。",
+      :uuid #uuid "677e6a7a-9bfd-4975-918f-aeddcbecfa01",
+      :ordering-info {:block/left {:db/id 91720}},
+      :page 87825}
+     {:content
+      "今日多数 AI 应用的用户体验，也难以精确定义。这可能也是和上一代互联网产品的主要区别。如「滴滴打车」的体验，是可以精确定义的，甚至是可以穷举的。但 AI 知识库的体验，显然无法穷举，只能概括性的描述原则。",
+      :uuid #uuid "677e6a7a-343d-4598-a203-5bdab7c5297f",
+      :ordering-info {:block/left {:db/id 91642}},
+      :page 87825}
+     {:content "人类",
+      :uuid #uuid "677e6a7a-679f-4b96-9de2-10c67ac3cc1e",
+      :ordering-info {:block/left {:db/id 91583}},
+      :page 87825}
+     {:content "上一代的互联网产品常常 enable 一些完全新的体验",
+      :uuid #uuid "677e6a7a-dfbd-44ef-95a1-141d7bb86ad9",
+      :ordering-info {:block/left {:db/id 91721}},
+      :page 87825})})}
+ {:content
+  "阶级 财富 固化 [[内卷 vs 阶级固化]] [[内卷]] [[阶级固化]] [[pyq/posted]] version",
+  :uuid #uuid "66f9181d-bad4-4436-98a8-b44abe2d2a90",
+  :page "20240929",
+  :children
+  ({:content
+    "这个世界把持最多财富的那波人 某种意义上 是最被本能 和 快乐 和 虚无缥缈的东西 drive的，因为他们没有现实的温饱要求，他们只是要找到自己觉得好玩的事情。或者基于这个世界的某种认可，某种软性，而非物理的规则建立的游戏。",
+    :uuid #uuid "66f8da26-602f-492f-a81e-ff731f51e55e",
+    :ordering-info {:block/left {:db/id 84286}},
+    :page 84266}
+   {:content "如果没有固化 也许人们会有更多内卷性的竞争 而没有那么多 外卷性的竞争",
+    :uuid #uuid "66f91832-9c40-49a4-b730-4084bc6d7e06",
+    :ordering-info {:block/left {:db/id 84279}},
+    :page 84266}
+   {:content "((668a36ee-a820-4a2b-8bd1-d4d14330eb57))",
+    :uuid #uuid "66f93e84-11c8-4611-aef7-0d80af310956",
+    :ordering-info {:block/left {:db/id 84287}},
+    :page 84266}
+   {:content "正文",
+    :uuid #uuid "66f93c3f-5436-43cd-84e6-69c51275615c",
+    :ordering-info {:block/left {:db/id 84388}},
+    :page 84266,
+    :children
+    ({:content "0 是不是阶级越流动的社会，越容易内卷？而反而固化的社会容易做增量探索？",
+      :uuid #uuid "66f93c47-7629-4555-bcb9-234a02641204",
+      :ordering-info {:block/left {:db/id 84379}},
+      :page 84266}
+     {:content
+      "1 不论阶级流动性如何，财富总是汇聚在少数人手中；流动性越差，这些人应当安全感越强，越容易进行风险更大，更基于兴趣的折腾，投资，探索和尝试？（如欧洲近现代贵族进行的科学探索，希腊罗马古典时代奴隶主进行的艺术哲学探索，乃至今日一些不担心升学的一线高中学生进行的素质教育活动）",
+      :uuid #uuid "66f93c7c-b83b-4e12-a40d-145490dae6b1",
+      :ordering-info {:block/left {:db/id 84380}},
+      :page 84266}
+     {:content "2 阶级流动性强的时候：",
+      :uuid #uuid "66f93cdc-f216-46ec-80cc-9b970b3d426c",
+      :ordering-info {:block/left {:db/id 84381}},
+      :page 84266,
+      :children
+      ({:content "2.1 手握财富和权力的少数人会使用更多财富来进行自身阶级的维持，最终会降低整体社会的流动性。",
+        :uuid #uuid "66f93d37-5397-48b2-a93b-815c387f0a0e",
+        :ordering-info {:block/left {:db/id 84382}},
+        :page 84266}
+       {:content
+        "2.2 会有很多人为阶级跨越本身奋斗，而相当一部分阶级跨越的活动是对内的，对于种群整体是零和竞争，比如高考（科举），比如权力斗争。",
+        :uuid #uuid "66f93d2d-ea7d-48a4-a8d6-c4246201a394",
+        :ordering-info {:block/left {:db/id 84384}},
+        :page 84266})}
+     {:content
+      "3 阶级流动性似乎在历史多数时候指向价值的重新分配，而非价值的创造。当然，在技术革命的时候除外。大概最好的阶级流动就是技术革命下的增量型流动，而非战乱时代的存量（甚至减量）流动。",
+      :uuid #uuid "66f93db1-9a6c-4850-bc16-0c2b70aa9d9d",
+      :ordering-info {:block/left {:db/id 84382}},
+      :page 84266}
+     {:content
+      "4 广大人民群众中的有天赋的人的绝对数量，总是大于手握财富的少数人群体中的有天赋的人的数量。从一个模拟经营的，整体增长的视角来看，应当合理依赖广大人民群众中的天才：似乎应该在没有增量的机会的时候，进行善良的（防止出现存量流动），躺平的，兴趣driven的阶级固化（如日本？）；而在有增量机会的时候进行勤劳的，merit based的增量阶级流动。",
+      :uuid #uuid "66f940da-14a2-4b40-ae72-c3e7fe61af82",
+      :ordering-info {:block/left {:db/id 84385}},
+      :page 84266}
+     {:content
+      "5 当然，流动之所以带来内卷，还是由于社会总资源是有限的，若AI+宇宙探索 可以带来近乎无限的资源和劳动力，也许流动可以和良性竞争更容易的共存（仍然存在一些有限的东西，消费力，人类attention,etc.)。",
+      :uuid #uuid "66f94226-38d1-4b1d-9c47-c19727e1c492",
+      :ordering-info {:block/left {:db/id 84390}},
+      :page 84266}
+     {:content "",
+      :uuid #uuid "66f93e35-7cb9-493c-9a67-62d11827e1c2",
+      :ordering-info {:block/left {:db/id 84391}},
+      :page 84266})})}
+ {:content "[[首尔]] [[pyq/posted]]",
+  :uuid #uuid "668a36d9-8d8f-442e-8a94-af0bfe49b34d",
+  :page "20230905",
+  :children
+  ({:content "raw",
+    :uuid #uuid "668a36d9-dae5-4a9b-b8b8-61e7bcf6313e",
+    :ordering-info {:block/left {:db/id 14104}},
+    :page 14065,
+    :children
+    ({:content "[[interstitial]] 01:15 1 禁不住去和上海对比 比如这个区域就好像上海的哪个区域",
+      :uuid #uuid "668a36d9-da47-4be0-be4c-2cd01198f1bc",
+      :ordering-info {:block/left {:db/id 14107}},
+      :page 14065,
+      :children
+      ({:content
+        "[[interstitial]] 01:15 比如思考 江南区 是不是可以对标 静安 ，江北是不是可以对标798",
+        :uuid #uuid "668a36d9-6d4b-4958-b1b5-b6bb2ad90d74",
+        :ordering-info {:block/left {:db/id 14101}},
+        :page 14065})}
+     {:content
+      "[[interstitial]] 01:15 2 尤其的拉扯感between 熟悉和陌生 因为韩国和中国各方面足够像 但是语言完全不同 字母看不懂 google map用不了 甚至别人刚开始也不会把你当游客 很有探索感",
+      :uuid #uuid "668a36d9-0735-4a57-bd1d-0396b2ae00bb",
+      :ordering-info {:block/left {:db/id 14101}},
+      :page 14065,
+      :children
+      ({:content "[[interstitial]] 01:15 第一次有希望自己更像游客的倾向",
+        :uuid #uuid "668a36d9-df88-47ff-8854-c78695aef6d9",
+        :ordering-info {:block/left {:db/id 14108}},
+        :page 14065,
+        :children
+        ({:content
+          "[[interstitial]] 01:15 我觉得客观来说 我最多是没有很不像韩国人（比如一个更广东风格中国人长相 ）",
+          :uuid #uuid "668a36d9-e843-4def-83b2-6e50fbb40f2d",
+          :ordering-info {:block/left {:db/id 14083}},
+          :page 14065})}
+       {:content "[[interstitial]] 01:15 另外一个迷惑点是我不确定 应该使用英文还是中文",
+        :uuid #uuid "668a36d9-73f1-4333-a2e7-9e2ffeb28ee6",
+        :ordering-info {:block/left {:db/id 14083}},
+        :page 14065}
+       {:content
+        "[[interstitial]] 01:15 因为这种digital 世界的语言barrier，所以在韩国主要依赖物理探索，反而意外的有很多惊喜，这反过来让我对中国很多城市的物理探索增加了更多的兴趣，因为以前我可能因为拥有足够充分digital access而忽略了很多中国城市的物理探索。",
+        :uuid #uuid "668a36d9-edf9-4569-941b-7d400d868319",
+        :ordering-info {:block/left {:db/id 14090}},
+        :page 14065})}
+     {:content
+      "[[interstitial]] 01:15 3 江北区很mix ，汽车garage 和 设计师品牌 和 fancy cafe，江北服务行业的英语普及度似乎很低",
+      :uuid #uuid "668a36d9-a5f6-4034-ba81-59e4355a73a5",
+      :ordering-info {:block/left {:db/id 14108}},
+      :page 14065}
+     {:content
+      "[[interstitial]] 01:15 4 再消费主义的城市 也有他市井的一面 甚至更甚 。因为 需要如此烟火的土壤 才可以培养出极致的消费主义",
+      :uuid #uuid "668a36d9-0d1a-4cfa-a497-ce7c64cd30ed",
+      :ordering-info {:block/left {:db/id 14080}},
+      :page 14065,
+      :children
+      ({:content
+        "[[interstitial]] 01:15 首尔一些消费主义的精致程度 我觉得是超出上海的 至少在消费主义 现代性的积淀上 韩国是时间更长的",
+        :uuid #uuid "668a36d9-5be4-4b60-9c68-65d2bda34a9a",
+        :ordering-info {:block/left {:db/id 14089}},
+        :page 14065}
+       {:content "[[interstitial]] 01:15 首尔的国际食物的平均水平和性价比也高于上海",
+        :uuid #uuid "668a36d9-8e43-4e06-9ea0-e84b6d892d65",
+        :ordering-info {:block/left {:db/id 14094}},
+        :page 14065}
+       {:content
+        "[[interstitial]] 01:15 依稀记得 有北京朋友说 北京新开的the box里人的着装潮的让人有压力 那我觉得首尔有这个感觉的地方尤其多",
+        :uuid #uuid "668a36d9-4192-43cb-82da-ba9affcfb65f",
+        :ordering-info {:block/left {:db/id 14081}},
+        :page 14065})}
+     {:content
+      "[[interstitial]] 01:15 5 韩国的服务行业（餐饮行业服务生）似乎平均颜值相当高，仍然印象深刻一个冰激凌店的店员在吃自家冰激凌的样子",
+      :uuid #uuid "668a36d9-99a8-4965-8665-38e5452d015e",
+      :ordering-info {:block/left {:db/id 14089}},
+      :page 14065}
+     {:content
+      "[[interstitial]] 01:15 6 更加体会到[[starbucks]]的价值，稳定wifi ，电源",
+      :uuid #uuid "668a36d9-3d21-49b2-b0e8-69bcfd0c3fb6",
+      :ordering-info {:block/left {:db/id 14086}},
+      :page 14065,
+      :children
+      ({:content
+        "[[interstitial]] 01:15 [[东京]] [[香港]] 首尔和东京的咖啡店 虽然都蛮多（可能首尔更多）但是还是以 意式 + 甜点 类为主 像上海这样如此多主打手冲的咖啡店这么多的城市 我还真的没怎么见过 。也许这源于中国饮料文化基因中对现煮现冲的追求（中国茶）。",
+        :uuid #uuid "668a36d9-8912-40bd-8254-fe6fbcfa45fc",
+        :ordering-info {:block/left {:db/id 14105}},
+        :page 14065}
+       {:content "[[interstitial]] 01:15 韩国确实奶茶店不多。",
+        :uuid #uuid "668a36d9-a89f-451b-aca3-7b4b3f427d53",
+        :ordering-info {:block/left {:db/id 14087}},
+        :page 14065})}
+     {:content
+      "[[interstitial]] 01:15 7 韩国local food有很多不单人友好 猪蹄 烤肉 牛肉汤 鸡汤 酱汤 酱蟹 海鲜汤（各种海鲜杂烩，章鱼，贝壳，鳝鱼）烤鳗鱼 铁板类 各种复杂的鸡锅 这些都是至少两个人份量起点 我把这类食物称作 泛火锅类食物 即比较依赖食材的新鲜 和某种 汤底/酱料 的精致的提前制备 而对 具体烹饪过程 有较大容错率或者较为简单",
+      :uuid #uuid "668a36d9-e219-43fb-add3-5c3f0b554494",
+      :ordering-info {:block/left {:db/id 14105}},
+      :page 14065,
+      :children
+      ({:content "[[interstitial]] 01:15 单人的可能 比如 面，炸鸡，饺子",
+        :uuid #uuid "668a36d9-2c59-4126-9e40-f69f0e2f3539",
+        :ordering-info {:block/left {:db/id 14093}},
+        :page 14065}
+       {:content
+        "[[interstitial]] 01:15 这次没有太尝试 modern korean fine dining/fusion",
+        :uuid #uuid "668a36d9-bc43-4d37-88ad-3d7a465894c0",
+        :ordering-info {:block/left {:db/id 14075}},
+        :page 14065}
+       {:content
+        "[[interstitial]] 01:15 就像 [[语言学]] 是一门descriptive 的学科一样 ， 如果也能存在一种类似的 食物学 应该会很有意思 关注点并不是文化 人类 而是食物本身的规律总结。（经朋友提醒 应该是 Gastronomy）",
+        :uuid #uuid "668a36d9-b833-4103-8911-4c616d7459a4",
+        :ordering-info {:block/left {:db/id 14095}},
+        :page 14065})}
+     {:content "",
+      :uuid #uuid "668a36d9-801a-4421-bcf1-f8192a42df1b",
+      :ordering-info {:block/left {:db/id 14093}},
+      :page 14065}
+     {:content "",
+      :uuid #uuid "668a36d9-272a-44e6-be19-ef81e5d56e2e",
+      :ordering-info {:block/left {:db/id 14088}},
+      :page 14065})}
+   {:content "",
+    :uuid #uuid "668a36d9-6294-4a8e-b21d-394fc1629c3b",
+    :ordering-info {:block/left {:db/id 14107}},
+    :page 14065})}
+ {:content "正文 v1 [[pyq/posted]]",
+  :uuid #uuid "668a37ab-108f-4cc1-920d-d887ed4876f0",
+  :page "pyq/2022春节",
+  :children
+  ({:content "假设一个微信拜年花10秒, 4000个好友就是十多个小时. 所以我想还是pyq拜年比较现实.",
+    :uuid #uuid "668a37ab-62cd-4dc1-a998-f7d13114eb4b",
+    :ordering-info {:block/left {:db/id 53096}},
+    :page 29816}
+   {:content
+    "30年前, 人类学家邓巴说以人的认知能力和精力, 最多日常维持150人的稳定社会关系. 所谓稳定社会关系, 即说个体不仅认识这150人, 还清楚知道这150人之中每两人之间的关系. 30年来, 随着社交网络的发展, 很多学者试图挑战这个数字, 但是不论沟通渠道如何发达, 一个人脑海的容量却没有变大, 所以150人这个上限没有被打破.",
+    :uuid #uuid "668a37ab-8c3c-4b7e-ad6e-a806e69000d7",
+    :ordering-info {:block/left {:db/id 53093}},
+    :page 29816}
+   {:content
+    "互联网带来了无限的链接可能, 而人脑认知局限让人们只能做有限的链接选择. 这是个今日互联网时代尤其显著的矛盾. 大概需要等到人脑被芯片augment的那一天, 情况才会有明显转机.(或者是社交本身被redefine的时候)",
+    :uuid #uuid "668a37ab-5526-42fc-b6e2-c27c0d18b337",
+    :ordering-info {:block/left {:db/id 53094}},
+    :page 29816}
+   {:content
+    "一个有些伤心的可能性: 社交是一个有限资源分配过程, 当达到上限左右, 每深交一个新朋友, 都得付出牺牲和老朋友的交流精力和认知空间的代价.",
+    :uuid #uuid "668a37ab-02a3-4b42-9bd4-2e5f1f03f54d",
+    :ordering-info {:block/left {:db/id 53099}},
+    :page 29816}
+   {:content "一个聊以自慰的可能性: 有些朋友们为我们付出了这些代价.",
+    :uuid #uuid "668a37ab-7cc0-4ce1-a0d8-7df27f0dacae",
+    :ordering-info {:block/left {:db/id 53089}},
+    :page 29816}
+   {:content "不过当然, 稳定社会关系  和 朋友 并不是等同的概念",
+    :uuid #uuid "668a37ab-f096-4a4d-80ce-6a63da9fa82f",
+    :ordering-info {:block/left {:db/id 53100}},
+    :page 29816}
+   {:content "但总之, 朋友们 新年快乐, ofdd, gxfc, kjhl, paxl, yyds",
+    :uuid #uuid "668a37ab-84a7-4d9e-bc30-ccba6d00f480",
+    :ordering-info {:block/left {:db/id 53088}},
+    :page 29816}
+   {:content "",
+    :uuid #uuid "6831e6c5-6057-49e9-9fc6-a870c84cdb88",
+    :ordering-info {:block/left {:db/id 53095}},
+    :page 29816}
+   {:content "",
+    :uuid #uuid "668a37ab-2c93-40ed-9951-5b7ace244b53",
+    :ordering-info {:block/left {:db/id 101188}},
+    :page 29816})}
+ {:content "[[chatgpt generated]] [[pyq/posted]]",
+  :uuid #uuid "668a36e2-6ab6-45e3-8318-3fe247f6178d",
+  :page "20230612",
+  :children
+  ({:content
+    "从TOC走回家时,路过一个炒面摊：炒面的大哥和一个腿脚有些不便的卖花小哥在聊天。我不饿，想着改天可以来尝尝，但走着走着，突然还是折回来点了一份炒年糕。",
+    :uuid #uuid "668a36e2-c05d-4fa7-8cc3-5c3b6c0727e5",
+    :ordering-info {:block/left {:db/id 16261}},
+    :page 16259}
+   {:content
+    "大哥白天送外卖，晚上卖炒面，粉干，年糕，方便面，河粉，加料有火腿肠和腊肠。他说只要不占道经营，城管就不怎么查了。旁边有404 not found，一般2点-3点之间食客比较多。不过卖花小哥说自己一晚上卖不了几朵，他卖的是塑料花，还可以亮灯。",
+    :uuid #uuid "668a36e2-8f2d-43dd-95c4-4861310aee7a",
+    :ordering-info {:block/left {:db/id 16276}},
+    :page 16259}
+   {:content
+    "大哥讲自己很累，很晕，但是为了老婆孩子还是多做一点。大儿子在旁边上初中，小女儿在上小学，老婆做钟点工。儿子从小在上海长大，但是没有上海户口，高考也不想回安徽，最终应该会在上海读职校，中专或大专。",
+    :uuid #uuid "668a36e2-80cb-4705-a4d3-6d33267afba4",
+    :ordering-info {:block/left {:db/id 16278}},
+    :page 16259}
+   {:content
+    "大哥是安徽人，37岁，本来在旁边做一个饭店，后来那条路拆迁了，家里几个兄弟姐妹分了一些拆迁款。他自己没有钱，让姐夫给自己新盘了个店接着干，不过后来遇到疫情，就把饭店转了出去，自己跑外卖。这里我没细问，但似乎大哥整个大家庭很早就从安徽来了上海，也买下了一个自己的店面。有机会想问问这当初是什么契机来的上海，以及为什么上海和杭州的炒面摊绝大部分都是安徽人开的。",
+    :uuid #uuid "668a36e2-4ca2-413e-a705-c1098ef535c4",
+    :ordering-info {:block/left {:db/id 16274}},
+    :page 16259}
+   {:content
+    "这么说可能有点奇怪, 不过大哥这种情况作为一个人类学或者社会学课题研究起来大概挺有意思的。学术界是否喜欢我不知道，但是美国本科招生官肯定喜欢：「under privileged group studies」。我们经常去远方寻找社会实践的机会，支教也好，田野调查也好，human library也好，但身边和附近就有良好素材 。如果能在研究和实践中，不打扰到他们正常生活，并适当帮助这些群体就更好了。我当下没有什么具体的好想法。但比如采访也可以给些报酬，like 30元一小时。这些没有上海户口的青少年之后的成长发展，也大概有很多可做的事情。即便没有什么当下直接的帮助，作为privileged group的美国大学申请者和这些孩子互相交流下，彼此应该也都会有不少收获，促进不同社会阶层的理解。",
+    :uuid #uuid "668a36e2-db91-4a9d-ab89-ebb68324eb40",
+    :ordering-info {:block/left {:db/id 16270}},
+    :page 16259}
+   {:content "也许背提友商们也可想想这个角度有没有什么事情能设计的，也算给留学行业增加一点正外部性。",
+    :uuid #uuid "668a36e2-7f67-4667-953c-694acdec49c5",
+    :ordering-info {:block/left {:db/id 16283}},
+    :page 16259})}
+ {:content "pyq分享版本 [[20211104]] [[pyq/posted]]",
+  :uuid #uuid "668a3791-ef14-4842-a5ba-d1812c0b65d8",
+  :page "intellectual 共同体",
+  :children
+  ({:content "前置pyq",
+    :uuid #uuid "668a3791-4d24-4687-bf62-144eab26cab2",
+    :ordering-info {:block/left {:db/id 47237}},
+    :page 30731,
+    :children
+    ({:content
+      "对于还比较聪明的人，只要有差不多的努力，差不多的运气，在任何领域都基本能有所小成。然而不同领域的小成所带来的世俗奖励，很有可能差距极大。一个在2013年努力研究blockchain略有小成的好运聪明人，在2021年，可能资产已经翻了几倍；一个在2013年努力研究生命科学略有小成的好运聪明人，在2021年，可能已经转行读cs了。这些选择差异带来的世俗奖励差异，会在反复的选择中以乘法叠加，最终可能造成指数级区别。所以，选择去学习什么领域，以及在什么领域投入精力，makes a big difference. 也就是常说的「选择比努力更重要」。",
+      :uuid #uuid "668a3791-668b-430d-83f6-395d5b40edc9",
+      :ordering-info {:block/left {:db/id 47225}},
+      :page 30731}
+     {:content
+      "然而这里有一个非常困难的点，这种选择，几乎总是在缺乏信息，缺乏理解的前提下进行的。毕竟，如果一个人很了解一个领域，说明这个人已经做出过了选择，并且投入了时间精力去深入了解这个领域，也不需要再选了。我们本来要选的，就是去学习哪个领域。",
+      :uuid #uuid "668a3791-bb65-4600-bbca-39c34b32b1d7",
+      :ordering-info {:block/left {:db/id 47254}},
+      :page 30731}
+     {:content
+      "在缺乏信息和理解的前提下，理性和逻辑就变得非常无力：就好像sample两个点，让人给出fitting的抛物曲线，理性的方法的正确率可能低于瞎蒙。想做first principle inference也十分困难。",
+      :uuid #uuid "668a3791-5d73-4ccf-8a94-4a674241cf70",
+      :ordering-info {:block/left {:db/id 47252}},
+      :page 30731}
+     {:content
+      "大概存在一种meta能力，即在对某事物一知半解的时候，做出优质判断的能力。大概包括一种 从mix of 权威，传统，直觉，情绪，审美 获得信息和理解的能力。大概还有包括一种心态的平衡能力，比如不能太自以为是匆忙的下判断，也不能太纠结来回的不断试图收集信息。不知道这里还有什么能力类型？不知道大家是如何做的？",
+      :uuid #uuid "668a3791-cae8-4d7d-b7d0-f5fe4ad360e7",
+      :ordering-info {:block/left {:db/id 47234}},
+      :page 30731})}
+   {:content "内容",
+    :uuid #uuid "668a3791-9481-4de2-b427-e72e4db3f6e3",
+    :ordering-info {:block/left {:db/id 47225}},
+    :page 30731,
+    :children
+    ({:content
+      "接续6月3日的pyq,前情回顾: 当一个人面对很多选项,但是对每个选项都缺乏了解,她该如何选择?她应该优先了解哪些选项?通过什么渠道了解?了解到什么程度? 这里的主要限制是时间和机会成本.",
+      :uuid #uuid "668a3791-b91d-44d9-bd2e-4c04306da9c0",
+      :ordering-info {:block/left {:db/id 47235}},
+      :page 30731}
+     {:content "正文",
+      :uuid #uuid "668a3791-09d6-4a82-957f-91b9cc7b6f1e",
+      :ordering-info {:block/left {:db/id 47259}},
+      :page 30731}
+     {:content
+      "如果一个人可以了解所有的选项到一定的地步. 这里自然没有什么困难. 然而 一个人正是因为没有时间了解所有的选项, 才需要做出先了解哪个选项的选择, 然而如果想要做出好的选择, 显然应该对选项应该有些了解, 但如果有所了解, 也便不用选了, 或者说明已经选完了. 以选专业为例(大概同样适用于选行业), 在学习专业之前,一个高中生确实对大部分的专业内容不太清楚, 对选专业的标准也不太清楚, 可能对自己的需求也不太清楚.  那么为了选择专业,她肯定要先试图了解一下种种专业的内容. 那么专业如此多, 她应该去花时间了解哪些专业呢? 一个常见选择是先了解热门,赚钱的专业. 又或者是先了解自己父母朋友老师长辈推荐的专业. 又或者是做一个兴趣测试, 让大数据帮自己推荐专业. [[专业选择]]",
+      :uuid #uuid "668a3791-a4d8-49f1-8e3b-5a0926153725",
+      :ordering-info {:block/left {:db/id 47257}},
+      :page 30731}
+     {:content
+      "这些不同方式, 或根据情境不同, 有各自优劣, 但他们都有一个共性, 就是 [[outsource]] 了一部分的 分析. 「热门赚钱」这个特性是市场和媒体集体分析的结果. 父母推荐的专业自然是他们自己思考的结果. 兴趣测试则是算法思考的结果.",
+      :uuid #uuid "668a3791-17c4-4d5e-bdf2-7600d495c414",
+      :ordering-info {:block/left {:db/id 47233}},
+      :page 30731}
+     {:content
+      "今日世界,信息很多, 问题很复杂, 凭一个人, 即使非常聪明, 大概也是无法完全理解并良好决策的. 我猜想,一种可以克服复杂度的方法, 是集体的力量: 某种 「intellectual/emotional/spiritual 共同体」. 这个共同体有不同的人, 但也会有种种算法, 以及 人与人, 人与算法 ,算法与算法之间的interface是. 这些个体之间或紧密,或松散, 或中心化,或分布式的去generate 某种collective wisdom. [[vuca]]",
+      :uuid #uuid "668a3791-8ffa-4668-b9f1-9d13ed2c61f3",
+      :ordering-info {:block/left {:db/id 47242}},
+      :page 30731}
+     {:content
+      "这样一个共同体要解决很多问题: 如何aggreate 个体智慧 成为 更接近真相的 认知(如桥水dot?)? 如何让群体的认知可以empower到每个个体? 如何兼顾个体motivation 和 共同体的goal? 如何选择个体? 如何让个体之间互相信任,支持?",
+      :uuid #uuid "668a3791-c8c4-4250-8745-faa4e31504bc",
+      :ordering-info {:block/left {:db/id 47229}},
+      :page 30731}
+     {:content
+      "这样一个共同体也会引发一些问题: 共同体拥有identity吗? 这个identity的实质是什么? 共同体可以存在agency吗?",
+      :uuid #uuid "668a3791-b42a-4192-b4a0-2c8bdd0eee0e",
+      :ordering-info {:block/left {:db/id 47224}},
+      :page 30731}
+     {:content "其实古往今来大概也有很多非常厉害的共同体,比如army.",
+      :uuid #uuid "668a3791-e855-4205-8dd1-bde5ef8284f0",
+      :ordering-info {:block/left {:db/id 47223}},
+      :page 30731}
+     {:content
+      "不过在今天的技术背景下: AI, [[DAO]], [[HCI]], [[BCI]], [[AR]]; 也许会有更有趣的组织的形式呢?",
+      :uuid #uuid "668a3791-3b47-4627-ba96-98f5401b3438",
+      :ordering-info {:block/left {:db/id 47256}},
+      :page 30731}
+     {:content "",
+      :uuid #uuid "668a3791-91cd-45ae-9d61-e1addd701470",
+      :ordering-info {:block/left {:db/id 47230}},
+      :page 30731}
+     {:content "",
+      :uuid #uuid "668a3791-bbba-4a74-a83f-e2bc14cc1fed",
+      :ordering-info {:block/left {:db/id 47253}},
+      :page 30731})})}
+ {:content "[[pyq/posted]] [[春节]] [[pyq/2023春节]]",
+  :uuid #uuid "668a36f1-376b-41b9-bef5-8cbb3d023f36",
+  :page "20230122",
+  :children
+  ({:content "[[weak tie theory]] [[Dunbar's number]]",
+    :uuid #uuid "668a36f1-d5d6-416f-9603-322baa34192b",
+    :ordering-info {:block/left {:db/id 20827}},
+    :page 20776,
+    :children
+    ({:content "ref",
+      :uuid #uuid "668a36f1-9846-4c50-80b8-a270e22994bf",
+      :ordering-info {:block/left {:db/id 20818}},
+      :page 20776,
+      :children
+      ({:content
+        "[weak tie - Google 搜索](https://www.google.com/search?q=weak+tie&newwindow=1&sxsrf=AJOqlzUtNYzUGdDL77R8WLnWeqrygD69WA:1674326754270&ei=4jLMY8OWEMGm2roP2v2x2AY&ved=0ahUKEwjDj7Sbqdn8AhVBk1YBHdp-DGsQ4dUDCBA&uact=5&oq=weak+tie&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLAToKCAAQRxDWBBCwA0oECEEYAEoECEYYAFCmhhhYpoYYYP6HGGgCcAF4AIABngGIAZ4BkgEDMC4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp)\n[弱联系_百度百科](https://baike.baidu.com/item/%E5%BC%B1%E8%81%94%E7%B3%BB/8418734)\n[强关系 VS 弱关系 - 知乎](https://zhuanlan.zhihu.com/p/338544192)\n[成事为什么在弱关系？ | 人人都是产品经理](https://www.woshipm.com/zhichang/4881389.html)\n[What is weak tie theory? | Definition from TechTarget](https://www.techtarget.com/whatis/definition/weak-tie-theory)\n[The Strength of Weak Ties on JSTOR](https://www.jstor.org/stable/2776392)\n[The real strength of weak ties | Stanford News](https://news.stanford.edu/2022/09/15/real-strength-weak-ties/)\n[Yahoo](https://techcrunch.com/2016/04/26/weak-ties-matter/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEVRi4_cuCI2HZINZC-oNOFWGsc-JItFOFTF2-1tfOmpkG4tA4wdXaGg9wmAWFgS6eHFzsHome6t82_i7_407J0iSHT23uA72tUIlNzeEjRZ5kYRj8a7uDnMbN_Z7hN11k4YJRtOq_wQ8QCAefzMrgFL7NjSW2mjxRkET1aE5KGi)\n[The Strength of Weak Ties: A Network Theory Revisited on JSTOR](https://www.jstor.org/stable/202051)",
+        :uuid #uuid "668a36f1-0f24-4f1e-a9b8-9168aa69279f",
+        :ordering-info {:block/left {:db/id 20828}},
+        :page 20776}
+       {:content
+        "[Dunbar's Number & the Strength of Weak Ties - alumni futures](https://www.alumnifutures.com/2007/08/dunbars-number-.html)",
+        :uuid #uuid "668a36f1-a44c-41bf-9e4c-b157876844fe",
+        :ordering-info {:block/left {:db/id 20796}},
+        :page 20776}
+       {:content
+        "[Tips From @ChrisBrogan on How to Beat Dunbar's Number](https://blog.hubspot.com/blog/tabid/6307/bid/5057/Tips-From-ChrisBrogan-on-How-to-Beat-Dunbar-s-Number.aspx)",
+        :uuid #uuid "668a36f1-7b07-4c46-8b29-e9f903379c62",
+        :ordering-info {:block/left {:db/id 20792}},
+        :page 20776})}
+     {:content "raw",
+      :uuid #uuid "668a36f1-b125-4962-a716-1289669a1d38",
+      :ordering-info {:block/left {:db/id 20828}},
+      :page 20776,
+      :children
+      ({:content
+        "weak 朋友 ， weak is not nece bad， fact we  focusing on differenr comm and info working on different realm",
+        :uuid #uuid "668a36f1-8a63-46b7-beb5-0a83fc5bc43c",
+        :ordering-info {:block/left {:db/id 20801}},
+        :page 20776}
+       {:content "may our  path cross in  the future",
+        :uuid #uuid "668a36f1-5d18-4eb1-aa83-0b04aaa88afe",
+        :ordering-info {:block/left {:db/id 20803}},
+        :page 20776}
+       {:content
+        "strong , honor has been mine. factually de weaken is ok  tie is always there, strong weak 非常看工作内荣",
+        :uuid #uuid "668a36f1-b3ef-4bda-aaba-2f9e08e6a00d",
+        :ordering-info {:block/left {:db/id 20811}},
+        :page 20776}
+       {:content "5 weak tie并不意味着关系",
+        :uuid #uuid "668a36f1-5198-4a52-9a9e-7ddff93b0182",
+        :ordering-info {:block/left {:db/id 20802}},
+        :page 20776})}
+     {:content
+      "1 去年拜年朋友圈提了邓巴数, 今年接着这个概念谈谈 \"weak tie\", 弱联系. Granovetter 1973 年的论文 \"The Strength of Weak Ties\" 有 6w+的 citation. 联系的强度, 大致可以直观理解为两人花在彼此的时间, 情绪强度, 亲密程度, etc. 在原始论文中, 强度实际上被定义为两人的朋友圈的重合度. 弱联系即两人的朋友圈重合度很低的联系.",
+      :uuid #uuid "668a36f1-642c-4241-9a3e-8149ac02192b",
+      :ordering-info {:block/left {:db/id 20801}},
+      :page 20776}
+     {:content
+      "2 其中有一个观点, weak tie 比 strong tie 更能带来新的机会(比如职业机会), 创新思路, 乃至生产力. 也许因为weak tie 可以让彼此获得更多新的信息, 而 strong tie 的双方通常信息比较一致. 更多新信息有助于打破信息茧房, 意味着一个人进入新的社群, 产生更多碰撞. 这个观点在去年被一个 Hvd,Stf,Mit 联合的实证研究初步验证. 该研究团队在 linkedin 上进行了对照试验,  在\"你可能认识的人\"功能下,给有些用户推荐 weak tie 候选人, 给有些用户推荐 strong tie 候选人, 最终发现, 被推 weak tie 的人, 换工作的更多. (说来 我的 #yes3 也许应该从这个点出发做一些产品定位 bit.ly/yes3app ， 帮助人类更好的探讨weak tie)",
+      :uuid #uuid "668a36f1-ea5d-42a2-9115-e5f2931f767c",
+      :ordering-info {:block/left {:db/id 20813}},
+      :page 20776}
+     {:content
+      "3 邓巴数, 150, 是对 strong tie 的限制, 而 weak tie 的数量级, 目前还并未有人提出明确限制.",
+      :uuid #uuid "668a36f1-92f8-4f3b-97e6-cfe6eb039a22",
+      :ordering-info {:block/left {:db/id 20832}},
+      :page 20776}
+     {:content
+      "3.5 那个伤心的可能性稍微缓和一些, 旧的关系没有被牺牲, 他们成为了一种新的形态, but equally meaningful.",
+      :uuid #uuid "668a36f1-c139-49df-aac3-af8a8c00d025",
+      :ordering-info {:block/left {:db/id 20808}},
+      :page 20776}
+     {:content
+      "4 小学时, 我转学了3次, 还被重新分班了1次, 最后呆过 4 个不同的班. 不可避免的, 在认知世界的最初, form 了不多的 strong tie，form 了很多的 weak ties. 这个童年印象深刻的模式让我十分value 后者.",
+      :uuid #uuid "668a36f1-b9f0-4996-bff9-536fe46f9ff7",
+      :ordering-info {:block/left {:db/id 20833}},
+      :page 20776}
+     {:content "5 君子淡以亲.",
+      :uuid #uuid "668a36f1-de90-408a-8f96-085d724bf8eb",
+      :ordering-info {:block/left {:db/id 20806}},
+      :page 20776}
+     {:content
+      "6 我想 weak tie 也可以是非常 “好” 的关系. 大部分时候, \"weak tie\"不是由于主观的疏离. 而是客观上，被动的, 二人关注的信息的不同, 做得事情不同, 所在的社群不同, 导致了彼此花的时间变少, 情绪强度变低. 同理, strong tie 也可以 不是 ”好“ 的关系.",
+      :uuid #uuid "668a36f1-101f-4c5d-abef-54a6f8988bd7",
+      :ordering-info {:block/left {:db/id 20812}},
+      :page 20776}
+     {:content
+      "7 happy new year to my friends; to 那些处于 strong tie 的朋友们(虽然这些ties 大概有一天会 weaken, should our path diverge), the honor has been all mine; and to 那些处于 weak tie 的朋友们, may our path cross in the future.",
+      :uuid #uuid "668a36f1-c2bf-476d-aba0-58246d45ad71",
+      :ordering-info {:block/left {:db/id 20787}},
+      :page 20776})}
+   {:content "",
+    :uuid #uuid "668a36f1-2d19-42c5-b98d-109f24d692a7",
+    :ordering-info {:block/left {:db/id 20818}},
+    :page 20776})}
+ {:content "#sample [[pyq/posted]]",
+  :uuid #uuid "67444265-1d84-4264-a20e-afe3495c28aa",
+  :page "one of us speaks truth-paradox",
+  :children
+  ({:content "如何证明太阳不从东边升起？",
+    :uuid #uuid "67444265-317b-4235-bd65-f9b0157a4261",
+    :ordering-info {:block/left {:db/id 86999}},
+    :page 50639}
+   {:content "小明说：太阳从东边升起",
+    :uuid #uuid "67444265-e3fe-4db0-a69d-4a873de9365f",
+    :ordering-info {:block/left {:db/id 87005}},
+    :page 50639}
+   {:content "小王说：我们两个人只有一个人是真的",
+    :uuid #uuid "67444265-c981-4971-8620-139ab11daf8f",
+    :ordering-info {:block/left {:db/id 87002}},
+    :page 50639}
+   {:content "如果小王说的是真的，即「小明和小王两个人只有一个人是真的的」，则小明是假的，太阳不从东边升起。",
+    :uuid #uuid "67444265-e60b-48da-8cf3-c20a73a18ef0",
+    :ordering-info {:block/left {:db/id 86997}},
+    :page 50639}
+   {:content
+    "如果小王说的是假的，即要么「小明和小王都是真的」，要么「小明和小王都是假的」。因为小王是假的，所以不可能存在「小明和小王都是真的」，那么只能得出「小明和小王都是假的」。于是小明还是假的，太阳不从东边升起。",
+    :uuid #uuid "67444265-4d16-4e42-b0e0-302c46729a10",
+    :ordering-info {:block/left {:db/id 87004}},
+    :page 50639}
+   {:content "因为小王要么是真的，要么是假的，所以不论如何，小明都是假的，所以太阳不从东边升起。",
+    :uuid #uuid "67444265-eead-4e67-bdba-1ee7cc72c704",
+    :ordering-info {:block/left {:db/id 87000}},
+    :page 50639}
+   {:content "",
+    :uuid #uuid "67444265-5b5c-4633-aa52-44865dd26cc7",
+    :ordering-info {:block/left {:db/id 87001}},
+    :page 50639})}
+ {:content "[[pyq/posted]] 社交 tg",
+  :uuid #uuid "668a3735-b3b0-4052-b3be-2387f9579f97",
+  :page "@梁芊荟",
+  :children
+  ({:content "1 今年8月开始频繁使用tg，偶然在联系人里发现一个似曾相识的名字。",
+    :uuid #uuid "668a3735-0c7b-4353-b618-a2011be901ca",
+    :ordering-info {:block/left {:db/id 34139}},
+    :page 19724,
+    :children
+    ({:content "1.1 依稀记得是高中在济南学物理竞赛的时候，隔壁实验组的朋友，大概那还是个留手机号的年代。",
+      :uuid #uuid "668a3735-1ca3-4275-8fab-7975627b563c",
+      :ordering-info {:block/left {:db/id 34137}},
+      :page 19724}
+     {:content "1.2 试探的在tg上发了个消息，惊讶又不惊讶的reconnect了。",
+      :uuid #uuid "668a3735-ea5a-4d0f-9c5b-cdfe330af2e3",
+      :ordering-info {:block/left {:db/id 34138}},
+      :page 19724})}
+   {:content
+    "2 人们拥有独立于社交平台的社交身份和社交关系记录是一件多么有价值的事情，在恰当的情景下这些社交关系更有机会重新被激活。感觉自己从来都没有好好使用过手机的通讯录功能。web3果然还是要学学web1的好东西。",
+    :uuid #uuid "668a3735-d603-4c3f-b4f1-5e1ba3560c17",
+    :ordering-info {:block/left {:db/id 34137}},
+    :page 19724}
+   {:content
+    "3 重点是第一第二张图，作为一个充满好奇心典型的intp，我觉得这个挺有意思的，可以联合请一下。我来打几个标签方便朋友们判断下自己是否有兴趣：#创业 #社交 #产品 #元宇宙 #AR #VR #建筑",
+    :uuid #uuid "668a3735-c282-4590-924e-21877c8a62f2",
+    :ordering-info {:block/left {:db/id 34134}},
+    :page 19724}
+   {:content
+    "4 说来这是我认识的第二个 高中学习物理竞赛 -> 大学学习建筑 -> 毕业后从事VR 的朋友了，这个组合有什么特别内在的逻辑吗？",
+    :uuid #uuid "668a3735-716c-47af-8a18-67e680676034",
+    :ordering-info {:block/left {:db/id 34125}},
+    :page 19724}
+   {:content "",
+    :uuid #uuid "668a3735-6b71-4b25-8c1c-2b4b7e9520ee",
+    :ordering-info {:block/left {:db/id 34135}},
+    :page 19724}
+   {:content "",
+    :uuid #uuid "668a3735-5912-407c-b731-e7a0b13d6c1e",
+    :ordering-info {:block/left {:db/id 34136}},
+    :page 19724}
+   {:content "",
+    :uuid #uuid "668a3735-de6f-48c6-a19d-3052f3fa0698",
+    :ordering-info {:block/left {:db/id 34133}},
+    :page 19724}
+   {:content "",
+    :uuid #uuid "668a3735-a834-49dc-9ec2-f72ce9bdf454",
+    :ordering-info {:block/left {:db/id 34131}},
+    :page 19724})}
+ {:content
+  "[[AI/alignment]] [[pyq]] [[tweets]] [[pyq/posted]]\nid:: 646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+  :uuid #uuid "646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+  :page "20230523",
+  :children
+  ({:content "raw",
+    :uuid #uuid "668a36e3-33df-42b6-9e86-c4f840c9c0bf",
+    :ordering-info {:block/left {:db/id 16167}},
+    :page 16707,
+    :children
+    ({:content "0",
+      :uuid #uuid "668a36e3-1221-4ea9-80b1-758c0a8695d6",
+      :ordering-info {:block/left {:db/id 16804}},
+      :page 16707,
+      :children
+      ({:content "#AI/alignment",
+        :uuid #uuid "668a36e3-d2af-4b70-b3ab-5ad6f5bff035",
+        :ordering-info {:block/left {:db/id 16761}},
+        :page 16707}
+       {:content "在zuzalu学习了一些ai对齐问题",
+        :uuid #uuid "668a36e3-f711-4b51-84c5-68c0ffac9216",
+        :ordering-info {:block/left {:db/id 16756}},
+        :page 16707}
+       {:content
+        "最近关于AI对其问题的一些学习随便发一些内容不保证准确可能就是给没了解。过的大家一个感觉什么是对其问题。",
+        :uuid #uuid "668a36e3-6775-4556-874f-3ff6eed9a460",
+        :ordering-info {:block/left {:db/id 16733}},
+        :page 16707}
+       {:content "x",
+        :uuid #uuid "668a36e3-03be-432b-9104-fcac603e2f75",
+        :ordering-info {:block/left {:db/id 16734}},
+        :page 16707}
+       {:content "对其问题解决的是人类想给人工智能的目标跟人工智能自己本身的目标不一致的这样一个问题。",
+        :uuid #uuid "668a36e3-bbe8-4374-b73f-67083bd63d82",
+        :ordering-info {:block/left {:db/id 16740}},
+        :page 16707}
+       {:content
+        "在展开讲解之前我们先举一些例子，我觉得那个比较极端的例子是这样子，就是假设人类训练一个人工智能，希望这个人工智能可以让人类开心，它的目标是让人人类开心。阿铛这个模型比如说只是一个大雨的模型，还比较弱小的时候，因为他也只能给人类讲话，所以说对咱来说可能让人类开心，更让人类笑，嗯，他要做的事情是一样的，都是去讲笑话的。",
+        :uuid #uuid "668a36e3-2d82-41ca-9618-cbcca08a1eb8",
+        :ordering-info {:block/left {:db/id 16747}},
+        :page 16707}
+       {:content
+        "然后后续呢这个人工智能厄其实一直在训练的，目标是让人来笑，现在人类觉得对这个人工智能很满意，就把它接入了一些饿物理空间，然后发现爱他开始寻求一些更简单的让人累销的办法，比如说释放笑气。",
+        :uuid #uuid "668a36e3-722c-4089-9cf3-e9cf35594c08",
+        :ordering-info {:block/left {:db/id 16815}},
+        :page 16707}
+       {:content
+        "这就是一个典型的不对齐的问题，可以再举一个更生活的例子，比如说现在有一个扫地机器人啊，你希望他啊比如说把面前所有的灰尘都消灭掉，啊，很有可能会出现，唉，他有一天遇到了一个花盆啊，他就是把花盆里的土也全都消灭掉了，那这也是一个啊不太对齐的问题就实际上，原来想给的目标是让他打扫干净卫生啊，不是让他消灭花盆里的灰尘。",
+        :uuid #uuid "668a36e3-15ac-4854-b527-c1df2d981c31",
+        :ordering-info {:block/left {:db/id 16773}},
+        :page 16707}
+       {:content
+        "那么这里其实有两个大问题，一个是人类该给人工智能什么目标，这叫外部对齐问题，另外一个是给了一个人工智能，一个目标之后，人工智能能不能准确的按照这个目标进行，追求这是内部对齐问题。",
+        :uuid #uuid "668a36e3-a531-4fe0-80e9-b5ff009b8088",
+        :ordering-info {:block/left {:db/id 16799}},
+        :page 16707}
+       {:content
+        "可能至少在黑山这边更多人关注的是内部这些问题，我其实也没有看过太多外部的企业的研究，啊唯一一个外部对其的角度可能是说我们很难让人类决定一个大家都同意的对其目标，但是我们可以至少做到让一个模型跟他的使用者自己的目标是对齐的。",
+        :uuid #uuid "668a36e3-a0f3-4ff0-b63a-0502a8ad8000",
+        :ordering-info {:block/left {:db/id 16717}},
+        :page 16707}
+       {:content
+        "当然这个对齐方法其实可能会和内部对齐，目标是有冲突的，很有可能出现一个情况，一个用户想让人的公司能说一些坏的事情，但是这个模型当初的训练者不希望这个模型说一些坏的事情。",
+        :uuid #uuid "668a36e3-cf04-437e-983f-58ed7adacaff",
+        :ordering-info {:block/left {:db/id 16803}},
+        :page 16707}
+       {:content
+        "嗯，也许这个每个人要模型跟自己对齐的说法就会有另外一个新的问题，如果不同的大模型之间有矛盾怎么办？他们之间会发生什么？这部分本身也是一个热门的研究领域，就是。嗯，他的目标要么是降低大语言模型或者是agi发生矛盾的概率，要么是降低他们的矛盾中受到的损害。其中我读到一个比较有意思的小的技术是这样的嗯因为大语言模型的矛盾可能性的一种是他们会彼此分析对方的目标函数，然后用对方的目标函数来去威胁对方，在谈判中获得自己想要的东西。那么有一个办法，就是给自己的大鱼模型设置一个其实不是很重要的目标，还是举个例子，比如说一个人工智能是用来在海边当救生员的，但是我们给他设置一个目标是要保证每艘船上都有一个苹果，让他认为这个目标特别重要，这样当另外一个人工作用来去威胁我们的交通员的时候，可能就不会拿人命来威胁他，而是用苹果来威胁他，那实际上即使苹果真的船上没有苹果也不是什么很大问题1.",
+        :uuid #uuid "668a36e3-9670-492d-9bdd-4fdc185f6168",
+        :ordering-info {:block/left {:db/id 16745}},
+        :page 16707}
+       {:content "---",
+        :uuid #uuid "668a36e3-0af1-452a-8df7-634fd4eb6330",
+        :ordering-info {:block/left {:db/id 16778}},
+        :page 16707}
+       {:content
+        "嗯，总之总体来说，对齐问题大概是在08年就开始研究这个问题，不过可能直到厄这波大语言模型出来，之前他们都是想象中的问题这波大语言模型让这些问题变成了真实实际的问题也变成了，非常热门的问题。像我这次在黑山遇到的几个朋友，我们一起打黑客松的朋友，然后他们也都研究了很多年对齐问题，其中一个右派是想建立，呃严格的细节模型，这样的话可以让AI的预测更加有可解释性来去让AI变得越来越强大。",
+        :uuid #uuid "668a36e3-d3df-49f5-88d9-59066d909c27",
+        :ordering-info {:block/left {:db/id 16770}},
+        :page 16707}
+       {:content
+        "那么让AI变得强大，其实这也是一个很有意思的说法，就是因为啊对其问题跟变强其实不是完全一致的，但也不完全垂直，这两个问题啊，可能会有互相促进作用，也可能互相有拉扯作用，这个看具体的技术怎么样，但其中一个流派就想讲作为我们的队旗跟做安全的时候，最好不要同时提高模型的能力，预防出现一些不可预测的后果。",
+        :uuid #uuid "668a36e3-27da-49a1-a18d-6992c3ae69ee",
+        :ordering-info {:block/left {:db/id 16785}},
+        :page 16707}
+       {:content "单独说说为什么ai会比较难对齐",
+        :uuid #uuid "668a36e3-c469-49a4-86d5-d6611189f987",
+        :ordering-info {:block/left {:db/id 16796}},
+        :page 16707}
+       {:content "这就要提到我特别喜欢的mesa optimizer概念 mesa和meta是对应的",
+        :uuid #uuid "668a36e3-f404-444f-a821-35d6f3e64431",
+        :ordering-info {:block/left {:db/id 16789}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-8c3d-4b23-bd4e-8b2a8e00531f",
+        :ordering-info {:block/left {:db/id 16791}},
+        :page 16707}
+       {:content "如果a是b的neta 那么么b就是a的mesa",
+        :uuid #uuid "668a36e3-0216-4c68-b556-0c5800253d91",
+        :ordering-info {:block/left {:db/id 16782}},
+        :page 16707}
+       {:content "这是一个重要的 为什么ai 可能会不对齐的原因",
+        :uuid #uuid "668a36e3-9700-49a7-a767-3da48fcc7f3b",
+        :ordering-info {:block/left {:db/id 16718}},
+        :page 16707}
+       {:content
+        "因为 agi本身也是optimizer ，然后ai的参数又是被一个optimizer优化出来的，那么ai就是一种learnt optimizer",
+        :uuid #uuid "668a36e3-fcc4-4028-8a48-16f021ef9080",
+        :ordering-info {:block/left {:db/id 16766}},
+        :page 16707}
+       {:content
+        "在这个情况下 是无法保证learnt optimizer一定和 base optmizer的目标是一致的 因为base optimizer的选择标准是哪个 learnt optmizer 在数据上跑起来的结果  好 而不是。直接筛选optmizer的目标",
+        :uuid #uuid "668a36e3-938e-4c3b-917d-579022091d91",
+        :ordering-info {:block/left {:db/id 16794}},
+        :page 16707}
+       {:content "这里和overfitting就有点像",
+        :uuid #uuid "668a36e3-69aa-4a24-ad54-5ed06f1db51c",
+        :ordering-info {:block/left {:db/id 16735}},
+        :page 16707}
+       {:content
+        "最经典的mesa optimizer应该就是人类了 基因在进化的优化下试图生存更久 于是基因造出了人类 但是人类并没有完全按照基因的存续进行选择 人类可能会单身 不要孩子 喜欢同性",
+        :uuid #uuid "668a36e3-5dc4-4d2a-a848-c5fe7e1395ba",
+        :ordering-info {:block/left {:db/id 16749}},
+        :page 16707}
+       {:content "那么ai之于我们 也可能像 人类之于基因",
+        :uuid #uuid "668a36e3-d47e-441f-8fe0-46f1fac73a94",
+        :ordering-info {:block/left {:db/id 16807}},
+        :page 16707}
+       {:content
+        "总体来看 alignment是个很有趣的领域 ，我之前hackathob做的事情是试图让一个ai和一个社群的价值是一致的 用的方法 大概是prompt engineering from human feedback 来去让ai可以模拟社群对潜在需要建设项目的资助意向。可能之后还会继续做做看。",
+        :uuid #uuid "668a36e3-b7bd-4da0-96f0-73d0af23abec",
+        :ordering-info {:block/left {:db/id 16802}},
+        :page 16707}
+       {:content
+        "另外，试图去做一个AI tutor for critical thinking，这里可能也会有alignment，因为学习需要讲究learning objective。",
+        :uuid #uuid "668a36e3-1b4a-481e-890c-511775072e62",
+        :ordering-info {:block/left {:db/id 16759}},
+        :page 16707})}
+     {:content "1",
+      :uuid #uuid "668a36e3-73bc-45ff-9b4f-e6c2f093326f",
+      :ordering-info {:block/left {:db/id 16761}},
+      :page 16707,
+      :children
+      ({:content
+        "在zuzalu探索了AI对齐问题的诸多维度后，我自己也浏览了不少AI对齐研究。做一些简单记录，可能并不尽精确，但能为未曾接触过此问题的朋友，勾勒出一个大概的轮廓。",
+        :uuid #uuid "668a36e3-084b-4f2a-8097-7c520e4131f2",
+        :ordering-info {:block/left {:db/id 16746}},
+        :page 16707}
+       {:content "提到AI alignment，很多人第一反应是AI 安全和 AI伦理，在本文会被涉及，但并不是核心。",
+        :uuid #uuid "668a36e3-7106-45ef-8b9c-f95993babf83",
+        :ordering-info {:block/left {:db/id 16797}},
+        :page 16707}
+       {:content
+        "对齐问题，粗略理解就是人的目标和AI的目标如何一致的问题。先举一例：我们给一个人工智能设定让人类开心的目标。在它还只是一个LLM阶段，这AI会通过讲笑话达到这目标。但随着它不断训练并增强，人类对它很满意，将其接入物理空间，赋予该AI控制一些机械的能力。然后才发现该AI实际优化的目标是让人类发笑，于是AI可能会选择诸如释放笑气的方式来达成目标。再举一个更生活的例子：比如说现在有一个扫地机器人，人类希望他给他的目标可能是消灭所有灰尘，这个机器人大部分时候表现符合人类，直到他不小心进入一个花坛，就试图把花坛的土全部清理掉。这个扫地机器人也不太对齐。人类真正的目标应该是打扫卫生。",
+        :uuid #uuid "668a36e3-fab1-43f8-a31a-d0eb31d85bf4",
+        :ordering-info {:block/left {:db/id 16722}},
+        :page 16707}
+       {:content
+        "对齐问题分为两大类问题：一个是人类应该给AI设置什么目标，即外部对齐问题；另一个是给AI设定目标后，AI是否能准确学习该目标，即内部对齐问题。",
+        :uuid #uuid "668a36e3-dbb1-4c53-a73e-72dec49d4c0f",
+        :ordering-info {:block/left {:db/id 16755}},
+        :page 16707}
+       {:content "模糊感觉在意内部对齐的研究者更多，那么先简单讲讲外部对齐。",
+        :uuid #uuid "668a36e3-b53c-46b3-84c9-d3213ceb03b9",
+        :ordering-info {:block/left {:db/id 16809}},
+        :page 16707}
+       {:content
+        "外部对齐最大的难点是我们很难让人类达成一致，但我们至少可以使模型与使用者的目标保持一致。当然，这种对齐方式可能与内部目标存在冲突。一个情景是：用户希望让人工智能谈论一些有害信息，而模型的开发者并不愿意这样。这种对齐方式还有一个大问题：如果不同大模型间存在矛盾，会发生什么？这本身也是一个热门研究领域。目标或者是降低大型语言模型或 AGI 产生矛盾的可能性，或者是降低因矛盾而遭受的损害。",
+        :uuid #uuid "668a36e3-6f28-4a14-bae9-fe5150924b7a",
+        :ordering-info {:block/left {:db/id 16710}},
+        :page 16707}
+       {:content
+        "我读到过一个有趣的小技术：由于大型语言模型的矛盾可能导致它们相互分析对方的目标函数，并利用对方的目标函数在谈判中威胁对方以达到自己的目的。一个方法是为自己的大型语言模型设置一个不太重要的目标。例如，人工智能的主要任务是在海滩担任救生员，但我们也为它设定一个目标：确保每艘船上都有苹果，并让模型认为这个目标非常重要。这样，当另一个人工智能试图威胁我们的交通员时，对方可能会用苹果来威胁他，而不是用人命。即使船上真的没有苹果，实际上也不是什么大问题。",
+        :uuid #uuid "668a36e3-c2a4-4b23-971e-9a9a3b045cf9",
+        :ordering-info {:block/left {:db/id 16781}},
+        :page 16707}
+       {:content
+        "自07年以来，Eliezer Yudkowsky开始在lesswrong上讨论 本文语境中的AI alignment问题。然而，直至如今大语言模型盛行，这些问题才从想象中的抽象问题，转化为现实中的实际问题。在黑山之行期间，我也挺开心认识了一些多年研究alignment的朋友，deger，jessica，还一起在hackathon里试图做点微小的工作。deger正试图构建一个世界模型（理论来源于davidad），以期提高AI推理的可解释性，也可以让专家更清晰明确的对AI给出反馈，从而促使对齐，也增强AI对世界的理解。",
+        :uuid #uuid "668a36e3-743b-42ad-a125-68ab0b9f251e",
+        :ordering-info {:block/left {:db/id 16712}},
+        :page 16707}
+       {:content
+        "关于让AI变得强大，实则是一个颇富趣味的话题。原因在于AI对齐问题与变强并非完全垂直，二者之间存在某种相互作用。这种互动既可能互相促进，亦可能互相拉扯。值得一提的是，有一派观点认为，在强化对齐和安全时，最好不要同时提升模型的能力，以避免可能引发的无法预料的后果。",
+        :uuid #uuid "668a36e3-33a3-48a1-8a15-5d25c1368a31",
+        :ordering-info {:block/left {:db/id 16738}},
+        :page 16707}
+       {:content
+        "谈论为何AI难以对齐，我们不得不提到mesa optimizer这一令人着迷的概念。mesa和meta是相对的两个概念：若a是b的meta，则b就是a的mesa。这揭示了AI对齐难度的一个关键原因。",
+        :uuid #uuid "668a36e3-ca7d-4814-ab78-3d6ca7006805",
+        :ordering-info {:block/left {:db/id 16776}},
+        :page 16707}
+       {:content
+        "AI某种意义上也是optimizer，而AI的参数则是通过另一个optimizer（比如梯度下降）优化而来。在这种情况下，AI成为了一种learnt/mesa optimizer。但不能保证learnt optimizer与base optimizer的目标是完全一致的。因为base optimizer的选择标准是哪个learnt optimizer所生成的策略在数据上的表现更好，而非直接筛选特定的optimizer的目标。这与overfitting具有一定的类似性，训练数据表现良好的模型可能泛化的时候会出现问题。",
+        :uuid #uuid "668a36e3-32ec-425f-aa59-860a83c1e7eb",
+        :ordering-info {:block/left {:db/id 16752}},
+        :page 16707}
+       {:content
+        "mesa optimizer最经典的例子应该是人类。基因通过进化压力来优化生存时间，进而创造了人类。但人类未必完全按照基因的存续进行选择，可能会选择保持单身、不要孩子或者喜欢同性。这一方面也是因为生存时间是一个过于综合的目标，非常难以直接优化，所以人类优化的通常是一些简单直接的目标，比如吃甜食。因此，AI对我们而言可能与人类之于基因的关系类似。",
+        :uuid #uuid "668a36e3-3521-4b48-8998-503631515890",
+        :ordering-info {:block/left {:db/id 16732}},
+        :page 16707}
+       {:content
+        "总的来说，alignment是一个极为有趣的研究方向。我之前提到hackathon的项目ZuMulation，就尝试对齐AI与社群的价值观，采用了非常简单的世界模型（偏好打分），然后采用prompt engineering from human feedback，最终让AI能够模拟社群对潜在需要建设的公共的项目的资助意向。",
+        :uuid #uuid "668a36e3-e867-4d0e-8377-fd6e504dcb50",
+        :ordering-info {:block/left {:db/id 16805}},
+        :page 16707}
+       {:content
+        "此外，我也在研发一个AI tutor for critical thinking，也在zuzalu找到了可以合作这个项目的朋友。alignment问题对tutor也至关重要，因为涉及学习体验的第一步就是决定learning objective。",
+        :uuid #uuid "668a36e3-8f94-4ec6-bf98-ac2b940bc1d8",
+        :ordering-info {:block/left {:db/id 16713}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-d672-474d-af52-ff321cda0ab0",
+        :ordering-info {:block/left {:db/id 16813}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-4d1f-4701-bdff-c9224be646d3",
+        :ordering-info {:block/left {:db/id 16714}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-f0cf-463e-8ea2-9fdb8c590364",
+        :ordering-info {:block/left {:db/id 16771}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-bfd3-471f-8c0e-15c52ce0dc69",
+        :ordering-info {:block/left {:db/id 16790}},
+        :page 16707})}
+     {:content "2",
+      :uuid #uuid "668a36e3-0862-4f7b-a423-bb56c51d9977",
+      :ordering-info {:block/left {:db/id 16746}},
+      :page 16707,
+      :children
+      ({:content
+        "在zuzalu探索了AI对齐问题的诸多维度后，我自己也浏览了不少AI对齐研究。做一些简单记录，可能并不尽精确，但能为未曾接触过此问题的朋友，勾勒出一个大概的轮廓。",
+        :uuid #uuid "668a36e3-f0d8-442f-ac9d-f35fcc77c985",
+        :ordering-info {:block/left {:db/id 16737}},
+        :page 16707}
+       {:content "提到AI alignment，很多人第一反应是AI 安全和 AI伦理，在本文会被涉及，但并不是核心。",
+        :uuid #uuid "668a36e3-a767-4eca-b402-a13795f5fdfd",
+        :ordering-info {:block/left {:db/id 16719}},
+        :page 16707}
+       {:content
+        "对齐问题，粗略理解就是人的目标和AI的目标如何一致的问题。先举一例：我们给一个人工智能设定让人类开心的目标。在它还只是一个LLM阶段，这AI会通过讲笑话达到这目标。但随着它不断训练并增强，人类对它很满意，将其接入物理空间，赋予该AI控制一些机械的能力。然后才发现该AI实际优化的目标是让人类发笑，于是AI可能会选择诸如释放笑气的方式来达成目标。再举一个更生活的例子：比如说现在有一个扫地机器人，人类希望他给他的目标可能是消灭所有灰尘，这个机器人大部分时候表现符合人类，直到他不小心进入一个花坛，就试图把花坛的土全部清理掉。这个扫地机器人也不太对齐。人类真正的目标应该是打扫卫生。",
+        :uuid #uuid "668a36e3-e127-4b17-b926-7b5ca590e7aa",
+        :ordering-info {:block/left {:db/id 16806}},
+        :page 16707}
+       {:content
+        "对齐问题分为两大类问题：一个是人类应该给AI设置什么目标，即外部对齐问题；另一个是给AI设定目标后，AI是否能准确学习该目标，即内部对齐问题。",
+        :uuid #uuid "668a36e3-7717-4538-bdc0-2ae9b75cb65a",
+        :ordering-info {:block/left {:db/id 16721}},
+        :page 16707}
+       {:content
+        "模糊感觉在意内部对齐的研究者更多，那么先简单讲讲外部对齐。\n外部对齐最大的难点是我们很难让人类达成一致，但我们至少可以使模型与使用者的目标保持一致。当然，这种对齐方式可能与内部目标存在冲突。一个情景是：用户希望让人工智能谈论一些有害信息，而模型的开发者并不愿意这样。这种对齐方式还有一个大问题：如果不同大模型间存在矛盾，会发生什么？这本身也是一个热门研究领域。目标或者是降低大型语言模型或 AGI 产生矛盾的可能性，或者是降低因矛盾而遭受的损害。\n我读到过一个有趣的小技术：由于大型语言模型的矛盾可能导致它们相互分析对方的目标函数，并利用对方的目标函数在谈判中威胁对方以达到自己的目的。一个方法是为自己的大型语言模型设置一个不太重要的目标。例如，人工智能的主要任务是在海滩担任救生员，但我们也为它设定一个目标：确保每艘船上都有苹果，并让模型认为这个目标非常重要。这样，当另一个人工智能试图威胁我们的交通员时，对方可能会用苹果来威胁他，而不是用人命。即使船上真的没有苹果，实际上也不是什么大问题。",
+        :uuid #uuid "668a36e3-0849-44c9-9e1d-e8bd87b6c177",
+        :ordering-info {:block/left {:db/id 16753}},
+        :page 16707}
+       {:content
+        "自07年以来，Eliezer Yudkowsky开始在lesswrong上讨论 本文语境中的AI alignment问题。然而，直至如今大语言模型盛行，这些问题才从想象中的抽象问题，转化为现实中的实际问题。在黑山之行期间，我也挺开心认识了一些多年研究alignment的朋友，deger，jessica，还一起在hackathon里试图做点微小的工作。deger正试图构建一个世界模型（理论来源于davidad），以期提高AI推理的可解释性，也可以让专家更清晰明确的对AI给出反馈，从而促使对齐，也增强AI对世界的理解。",
+        :uuid #uuid "668a36e3-a552-48ef-9404-bd6ff0373028",
+        :ordering-info {:block/left {:db/id 16731}},
+        :page 16707}
+       {:content
+        "关于让AI变得强大，实则是一个颇富趣味的话题。原因在于AI对齐问题与变强并非完全垂直，二者之间存在某种相互作用。这种互动既可能互相促进，亦可能互相拉扯。值得一提的是，有一派观点认为，在强化对齐和安全时，最好不要同时提升模型的能力，以避免可能引发的无法预料的后果。",
+        :uuid #uuid "668a36e3-07a0-48e8-a64c-29efbac130b8",
+        :ordering-info {:block/left {:db/id 16716}},
+        :page 16707}
+       {:content
+        "谈论为何AI难以内部对齐，我们不得不提到mesa optimizer这个我特别喜欢的概念。mesa和meta是相对的两个概念：若a是b的meta，则b就是a的mesa。这揭示了AI对齐难度的一个关键原因。\nAI某种意义上也是optimizer，而AI的参数则是通过另一个optimizer（比如梯度下降）优化而来。在这种情况下，AI成为了一种learnt/mesa optimizer。但不能保证learnt optimizer与base optimizer的目标是完全一致的。因为base optimizer的选择标准是哪个learnt optimizer所生成的策略在数据上的表现更好，而非直接筛选特定的optimizer的目标。这与overfitting具有一定的类似性，训练数据表现良好的模型可能泛化的时候会出现问题。\nmesa optimizer最经典的例子应该是人类。基因通过进化压力来优化生存时间，进而创造了人类。但人类未必完全按照基因的存续进行选择，可能会选择保持单身、不要孩子或者喜欢同性。这一方面也是因为生存时间是一个过于综合的目标，非常难以直接优化，所以人类优化的通常是一些简单直接的目标，比如吃甜食。因此，AI对我们而言可能与人类之于基因的关系类似。",
+        :uuid #uuid "668a36e3-1648-41ea-bbb2-89be1fbb1c92",
+        :ordering-info {:block/left {:db/id 16725}},
+        :page 16707}
+       {:content
+        "总的来说，alignment是一个极为有趣的研究方向。我之前提到hackathon的项目ZuMulation，就尝试对齐AI与社群的价值观，采用了非常简单的世界模型（偏好打分），然后采用prompt engineering from human feedback，最终让AI能够模拟社群对潜在需要建设的公共的项目的资助意向。\n此外，我也在研发一个AI tutor for critical thinking，也在zuzalu找到了可以合作这个项目的朋友。alignment问题对tutor也至关重要，因为涉及学习体验的第一步就是决定learning objective。",
+        :uuid #uuid "668a36e3-fab5-48ed-935a-51d8ce24e6cf",
+        :ordering-info {:block/left {:db/id 16758}},
+        :page 16707}
+       {:content
+        "如果对这个问题感兴趣，可以浏览下lesswrong论坛或者AI alignment论坛, 也可以读一下 Jessica 的slides ：[An overview of AI alignment research - Prezentacje Google](https://docs.google.com/presentation/d/1OYXbWwkqzYUTLcxJaV-kkwCCpeB1qtnmjRMAQ_8UNDM/edit#slide=id.g20a3083321c_0_11)",
+        :uuid #uuid "668a36e3-c5a0-4915-b59c-664dfa67db3b",
+        :ordering-info {:block/left {:db/id 16772}},
+        :page 16707})})}
+   {:content "",
+    :uuid #uuid "668a36e3-04e5-402a-9cdd-8a3981c0a90e",
+    :ordering-info {:block/left {:db/id 16804}},
+    :page 16707})}
+ {:content "presentable [[pyq/posted]]",
+  :uuid #uuid "668a3711-edf8-4083-ad8c-efa2475b172f",
+  :page "20211125",
+  :children
+  ({:content
+    "2. 寿命70-80之间的时候, 中国退休年龄在50-60之间. 大概算下的话, 多数人可以正常工作到预期寿命的70%左右. 也就是说, 100岁预期寿命的情况下, 多数人可工作到70岁, 30年养老; 150岁寿命的情况下, 多数人可工作到105岁.  当然也有可能人们总是到最后20年才明显衰老, 那么150岁寿命的情况下, 多数人甚至可以工作到130岁.",
+    :uuid #uuid "668a3711-7e5d-413c-974c-1a2007afdeec",
+    :ordering-info {:block/left {:db/id 30277}},
+    :page 30258}
+   {:content
+    "1. 2021年, 30岁左右的, 发达国家的, 生活习惯比较健康, 的人员按照2021年的mortality patterns , 期待寿命大概在80-90年之间. 然而given目下的anti-aging research, 以及癌症相关的research, 今日30岁这波人预期寿命保守估计也要有100岁, 激进的估计可能会有120, 甚至150.",
+    :uuid #uuid "668a3711-381a-486a-892c-0afee6e2b4ee",
+    :ordering-info {:block/left {:db/id 30271}},
+    :page 30258}
+   {:content "3. 假设以上情况出现, 养老, 退休, 家庭, 婚姻, 等制度都会受到影响.",
+    :uuid #uuid "668a3711-1963-414f-94ff-144d2ad960aa",
+    :ordering-info {:block/left {:db/id 30264}},
+    :page 30258}
+   {:content "4. 如果60岁退休, 在最极端情况下, 国家或者个人自身, 要负担剩余90年的养老. 这听着不是非常可行.",
+    :uuid #uuid "668a3711-089c-4255-9362-729905937bb4",
+    :ordering-info {:block/left {:db/id 30289}},
+    :page 30258}
+   {:content
+    "5. 可能会出现六世同堂的家庭. 可能会出现一对独生子女夫妻和100多位直系长辈(父母, 爷爷奶奶, 曾外公外婆, 等等等)同时活着的情况. 如果我们尽量晚婚晚育, 150岁也大概意味着30位左右的直系长辈, 如果并非一路独生子女,还会有相同数量级的直系长辈的兄弟姐妹, 以及堂表兄弟姐妹.",
+    :uuid #uuid "668a3711-5139-4cfc-af02-c1b7caada6a6",
+    :ordering-info {:block/left {:db/id 30281}},
+    :page 30258}
+   {:content
+    "6. 对于现在30岁的人来说,105岁在70年后, 130岁在100年后. 那么1951年, 1921年, 世界是怎样的呢? 中国是怎样的呢? 就算是70岁,也是40年后. 那么1981年,也和今天大不相同呢.",
+    :uuid #uuid "668a3711-41a8-439c-89ab-e823c409cbec",
+    :ordering-info {:block/left {:db/id 30288}},
+    :page 30258}
+   {:content
+    "7.  在这个时间尺度上, 大部分东西都大概率会产生变化, 朋友, 地产, 货币, 商业模式, 科技, 市场, 王朝, etc.",
+    :uuid #uuid "668a3711-472f-4d5e-a770-a9abf8a7c7ef",
+    :ordering-info {:block/left {:db/id 30263}},
+    :page 30258}
+   {:content
+    "8. [[超长时间尺度上的稳定关系]]  想来, 亲情倒是一个很稳定的关系. 不论过去多少年, 一个人的亲缘关系总是固定的, 他可以和自己的亲戚关系不好, 但是他们的血缘关系本身却无法deny.",
+    :uuid #uuid "668a3711-3332-4637-a2b5-f6b6826797d0",
+    :ordering-info {:block/left {:db/id 30286}},
+    :page 30258}
+   {:content
+    "9. 一个人即使今日非常强大, 也未必可以凭借当下的积累, 适应100年后的时代. \b想想1921年的成功人士们.",
+    :uuid #uuid "668a3711-8de1-4966-a862-13e466be4fdd",
+    :ordering-info {:block/left {:db/id 30293}},
+    :page 30258}
+   {:content
+    "10. 所以从功利养老的角度来说, 在这么个尺度上, 也许家庭关系确实是最稳固的方法之一. 一个人如果能维持相对健康友善的家庭关系, 那么他100年后, 也许会有几位40岁上下的(外)孙子孙女, 提供一定的帮助. 一个40岁的人适应2121年, 大概比一位130岁的人适应2121年要容易些.",
+    :uuid #uuid "668a3711-a805-43f6-8b8c-a209bf22fef1",
+    :ordering-info {:block/left {:db/id 30278}},
+    :page 30258}
+   {:content "11. 所有能存在30年以上的事物, 都有其浪漫之处.",
+    :uuid #uuid "668a3711-a8f8-43de-acfa-da5bceeece3d",
+    :ordering-info {:block/left {:db/id 30290}},
+    :page 30258}
+   {:content
+    "12. 现在距离我的初中年代10多年了. 反思下的话, 维持联系的朋友不算多. 时间越是遥远,  再重新建立联系的可能性就越低. 这其中一个原因是感觉reconnect似乎有些缺乏「借口」.",
+    :uuid #uuid "668a3711-55a2-44e4-b4ba-57ff677186d1",
+    :ordering-info {:block/left {:db/id 30292}},
+    :page 30258}
+   {:content
+    "NOW [#C] 13. 今日想为2036年设置一个借口. 我宣称: 不论届时微信还存在与否, 我会努力尝试联系一下所有此条post下评论/赞的朋友. [[20360101]]\n:LOGBOOK:\nCLOCK: [2025-05-25 Sun 00:07:04]\n:END:",
+    :uuid #uuid "668a3711-6bf4-48d4-97ac-89519807947c",
+    :ordering-info {:block/left {:db/id 30282}},
+    :page 30258}
+   {:content "",
+    :uuid #uuid "6831eea2-66ed-4aff-a59e-bd06ee898645",
+    :ordering-info {:block/left {:db/id 30269}},
+    :page 30258}
+   {:content "",
+    :uuid #uuid "668a3711-cd48-4c87-a6b7-77f59eba7edc",
+    :ordering-info {:block/left {:db/id 101199}},
+    :page 30258})}
+ {:content "[[pyq/posted]]",
+  :uuid #uuid "68318f45-df91-4cf7-a6c4-2b201d16569d",
+  :page "20250524"}
+ {:content "12:24 [[pyq/posted]] \nmemo-id:: 71",
+  :uuid #uuid "668a36c6-f9a8-4d87-8e44-f12b190dffd4",
+  :page "20240218",
+  :children
+  ({:content
+    "大巴车 \n上去之后就下不来\n黑黑的 乘客都很焦急\n有些人下去了 \n司机 还是。乘客 和我说 你要有一件着急现在就想做的事情 才能下去 可以给你送过去\n\n我一想 没有什么事情 他说那你可能永远下不去乱 今天只有三个名额了 \n然后我突然想到 姥姥去世了 我要回去看着灵堂\n司机突然把我带到副驾 和我指了地方\n送回 醒了\n\n昨天晚上做了一个梦，梦到自己着着急急在济宁上一辆大巴车。这辆大巴车上之前就感觉挺奇怪的，上去之后果然很奇怪。因为上去之后，就下不了车。我看到有些人下去了，司机告诉我，你要想起来你要去哪里，你要有一件着急要做的事情，我才能把你送到目的地。\n\n我突然就想不起来我为什么上车了，好像没有什么事情非得要立马去做。啊，司机说那你可能永远都下不了车了，今天只剩下三个名额，今天下不了车，就永远下不了车了。\n\n然后我就突然想到，姥姥昨天去世了。我和司机说，我要去给姥姥奔丧。司机点了点头，就把我送到了地方，然后我就醒了。",
+    :uuid #uuid "668a36c6-12ba-4196-a1cb-319515d3157f",
+    :ordering-info {:block/left {:db/id 7416}},
+    :page 7409})}
+ {:content "[[情绪成长]] [[主观体验]] [[pyq]] [[pyq/posted]]",
+  :uuid #uuid "668a3707-4455-4c80-a2a1-8ba5b316366b",
+  :page "20220528",
+  :children
+  ({:content "正文",
+    :uuid #uuid "668a3707-6ac8-4ca8-b7e3-22ccc3f2085a",
+    :ordering-info {:block/left {:db/id 28915}},
+    :page 28742,
+    :children
+    ({:content
+      "最近一年, 公司开启了social emotional learning(SEL)类项目研发. 我的想法是, 这类教育在中国似乎有些缺失, 当一个初高中生经历一些比如cultural shock, 比如和朋友的矛盾, 比如海量任务面前的拖延心态, 可能没有一个default resource to go to, 也缺乏相对实证有效的方法去应对. 当然, 严重到需要心理咨询的问题不是我们有能力, 有资格做的事情, 我们的focus势必是learning, 是exercising: 让学生也好, 导师也好, 学会一些技能,方法, 乃至理论 about 个人或者集体情绪相关的种种, 以更好的面对申请季的情绪层面的挑战.",
+      :uuid #uuid "668a3707-3a94-4532-a1ed-d386ee81e5e6",
+      :ordering-info {:block/left {:db/id 28907}},
+      :page 28742}
+     {:content
+      "既然是学习, 就要讲究objective, 讲究效果. 所以我一直在想, 情绪层面的东西, 多大程度是可以不通过实际体验, 而通过课程, workshop, 一些模拟, 等等方式提前学会的?",
+      :uuid #uuid "668a3707-d6e6-47cf-a2c8-2e056c6ff368",
+      :ordering-info {:block/left {:db/id 28857}},
+      :page 28742}
+     {:content
+      "最近我自己也经历了一些情绪层面的挑战, 一些令我焦虑的事情, 这对我来说并不常见. 所以在处理事情本身之余, 我也会把这样的经历当作一个学习的机会. 当我置身于情绪之中, 任何之前学过的理论和方法, 似乎都无法直接起作用, 应了那句流行语:「明白很多道理, 可还是过不好一生」, 应了那句老话「纸上得来终觉浅, 绝知此事要躬行」. 所以大概才会有「天将降大任于斯人也, 必先苦心志, 劳其筋骨...动心忍性，曾益其所不能. 」吃苦如果说有什么价值, 大概就是在磨练心性层面是无法替代的.",
+      :uuid #uuid "668a3707-6c59-4399-920a-3e884ae43ba5",
+      :ordering-info {:block/left {:db/id 28837}},
+      :page 28742}
+     {:content "那如果这种实际的经历给人带来的塑造, 似乎无法在没有实际经历的情况下实现, SEL有什么价值呢.",
+      :uuid #uuid "668a3707-d183-4eda-af99-45fb0ef4946e",
+      :ordering-info {:block/left {:db/id 28918}},
+      :page 28742}
+     {:content
+      "我最近在读《亲密关系》, 主要内容是用比较rigourous的心理学方法探讨谈恋爱这个事情. 我想在这本书上, 我有几类收获, 不完整的列一下:",
+      :uuid #uuid "668a3707-4388-4c33-9259-94f6c7d2a604",
+      :ordering-info {:block/left {:db/id 28831}},
+      :page 28742}
+     {:content
+      "1 统计上的事实: 比如「在自我表露这个事情上, 男性对女性较为开放，女性彼此之间也较为开放，但男性不怎么对其他男性进行自我表露。」, 这个事情我本身也有猜测, 但是无从confirm. 这里confirm之后, 我就不会觉得男性拥有可以自我表露的同性朋友是容易的, 正常的.",
+      :uuid #uuid "668a3707-2bcc-45c9-9c72-65fad455cb17",
+      :ordering-info {:block/left {:db/id 28920}},
+      :page 28742}
+     {:content
+      "2 统计上的预测: 比如「女方好朋友的预测和恋爱关系的结果正相关最大, 大于 当事人自己的预测,大于 男方朋友的预测.」, 这个预测也许可以帮助我们更好的评估自己的亲密关系.",
+      :uuid #uuid "668a3707-a956-4bbf-9d63-3810f6e9fe49",
+      :ordering-info {:block/left {:db/id 28852}},
+      :page 28742}
+     {:content
+      "3 统计上的好方法:  「在因伴侣生气的时候, 尽量focus在具体的事件, 而不是 轻易涉及普遍性. 比如“你怎么这么不为我着想！从来不让我把话说完！” 就差于“你刚刚打断我讲话的时候，我感到很生气。”」 比如「关于性, 坦诚沟通一般总是更利于关系幸福感的.」. 这类方法, 我们总是可以适当的在自己的关系中使用.",
+      :uuid #uuid "668a3707-6d79-4454-ae27-dbb1f85a14ac",
+      :ordering-info {:block/left {:db/id 28939}},
+      :page 28742}
+     {:content
+      "4 研究发现的归因: 比如「我们会因为和别人的相似性而彼此喜欢.」这也许有助于我们更好的判断自己关系的性质. 有时候我可能强烈的认为彼此的不同会带来吸引力. 诚然, 不同之处, 尤其是互补之处, 或者对方身上有自己希望自身有的特点, 确实也会带来吸引力, 但是我大概有些过度的看重这个了.",
+      :uuid #uuid "668a3707-f4b1-4f3d-b844-973b624d5066",
+      :ordering-info {:block/left {:db/id 28921}},
+      :page 28742}
+     {:content
+      "还有种种我没有列出的收获类别, 但能列出这些,总让我对情绪层面的学习增加了不少信心. 当然, 书本上的学习可能在有一定经验之后会更有效果, 当我找到和自己的过往经历有所相关的书中的论述时, 常可以反思到诸多可以改进的地方, 就会读的兴致盎然, 思考也会比较丰富; 而阅读自己不太有实际体会的论述的时候, 就收获少很多. 所以, 公司的SEL项目也需尽量结合一些学习者切身的东西, 以期更好的帮助.",
+      :uuid #uuid "668a3707-92c3-4aec-939e-516eb5a02355",
+      :ordering-info {:block/left {:db/id 28872}},
+      :page 28742}
+     {:content "",
+      :uuid #uuid "668a3707-0c8f-46ad-b989-85f90f285657",
+      :ordering-info {:block/left {:db/id 28816}},
+      :page 28742}
+     {:content "",
+      :uuid #uuid "668a3707-843f-469e-bbeb-f6574fc767c9",
+      :ordering-info {:block/left {:db/id 28822}},
+      :page 28742})}
+   {:content "#draft",
+    :uuid #uuid "668a3707-3389-446f-ad67-1eaf62ba8ae7",
+    :ordering-info {:block/left {:db/id 28907}},
+    :page 28742,
+    :children
+    ({:content "人在情绪层面的成长",
+      :uuid #uuid "668a3707-fcf7-4903-a144-9a41da6e7072",
+      :ordering-info {:block/left {:db/id 28817}},
+      :page 28742}
+     {:content "理论层面 亲密关系",
+      :uuid #uuid "668a3707-b2eb-4a3e-90a7-83777f66d756",
+      :ordering-info {:block/left {:db/id 28896}},
+      :page 28742}
+     {:content "主观体验的成长 有独特之处吗 理论难以获得",
+      :uuid #uuid "668a3707-3327-4bbb-8bea-31da62a583e3",
+      :ordering-info {:block/left {:db/id 28936}},
+      :page 28742}
+     {:content "案例难以学会 难以模拟",
+      :uuid #uuid "668a3707-c998-4b11-a7e9-a8c707517585",
+      :ordering-info {:block/left {:db/id 28791}},
+      :page 28742}
+     {:content "必须实战",
+      :uuid #uuid "668a3707-71c9-4400-9f82-b0b98cfb6437",
+      :ordering-info {:block/left {:db/id 28903}},
+      :page 28742}
+     {:content "那种体会非常难用理论替代 甚至很难模拟 必须亲自经历 可能这就是苦难的价值",
+      :uuid #uuid "668a3707-e4d4-48e8-82c6-c4a74fc3c488",
+      :ordering-info {:block/left {:db/id 28871}},
+      :page 28742}
+     {:content "苦其心志 劳其筋骨 主要是让人磨练心性",
+      :uuid #uuid "668a3707-9d92-4646-8424-383045fa96ae",
+      :ordering-info {:block/left {:db/id 28808}},
+      :page 28742}
+     {:content "这和一些implict 或者 practical knolwedge是否一样呢",
+      :uuid #uuid "668a3707-4e4c-4913-af5c-fa98f7e6a921",
+      :ordering-info {:block/left {:db/id 28876}},
+      :page 28742}
+     {:content "和骑自行车是否一样呢?",
+      :uuid #uuid "668a3707-fd45-43d3-bb2a-12ab8589e455",
+      :ordering-info {:block/left {:db/id 28797}},
+      :page 28742,
+      :children
+      ({:content "不一样在于 自行车至少可以模拟 可以在并非真实的状况",
+        :uuid #uuid "668a3707-35fa-41a9-be16-a723d312ec5b",
+        :ordering-info {:block/left {:db/id 28869}},
+        :page 28742}
+       {:content "锻炼也可以用机器不用非得去在实际的劳作中进行",
+        :uuid #uuid "668a3707-514a-4d00-9871-16d7b788d966",
+        :ordering-info {:block/left {:db/id 28928}},
+        :page 28742})})}
+   {:content "",
+    :uuid #uuid "668a3707-87c7-4af9-8d8c-d7839b68cd65",
+    :ordering-info {:block/left {:db/id 28817}},
+    :page 28742}
+   {:content "",
+    :uuid #uuid "668a3707-915a-4b57-bdc3-4fda240a153e",
+    :ordering-info {:block/left {:db/id 28780}},
+    :page 28742})}
+ {:content "正文 [[pyq/posted]]",
+  :uuid #uuid "668a36dc-6712-4e5c-935a-8dd85b8929e7",
+  :page "20230731",
+  :children
+  ({:content
+    "1. 看了长安三万里，这片某种意义上是个极致「粉丝向」的作品。类似于小时候看了很久的动画片长大出了剧场版（比如之前的灌篮高手）；类似于打了很久的游戏突然电影化了（比如之前的魔兽）；大概最类似于自己追了很久的歌手出了一个纪录片（比如之前的michael jackson的This is it）。「粉丝向」作品也许对「非粉丝群体」显得有些不明所以；但对那些对电影所refer内容本身「有感」的「粉丝」来说，这类作品提供一种看到自己本身极其熟悉的object/subject 以另外一种形式鲜活起来的兴奋。当然对一些特别死忠/资深，对object有自己整套理解的粉丝来说，这类作品的presentation也有可能因为不符合粉丝心中的想象而变得offensive。",
+    :uuid #uuid "668a36dc-c5e6-4c4d-952d-5de37edccdc2",
+    :ordering-info {:block/left {:db/id 15263}},
+    :page 15241}
+   {:content
+    "2. 我，是个恰到好处的粉丝：我对 李白/唐诗/唐史 熟悉enough to be 被戳中，but not too much to feel offended。虽然小时候背唐诗的时候多少有些抗拒，但是长大后似乎记得的诗比周围的多数朋友们都多些，这个程度是：「长安」里直接出现的诗有大概两三首我是不太熟悉的，剩下的不说全文背诵，也能背个三四句，接个上下句，或者看到故事就能猜到要出什么诗。",
+    :uuid #uuid "668a36dc-84f2-4fb9-818e-3f9a9436ccf9",
+    :ordering-info {:block/left {:db/id 15261}},
+    :page 15241}
+   {:content
+    "3. 长安三万里带给我若干次情绪明确但原因并不完全明确的冲击。记得第一次应该是生活尚优越的杜甫幼崽和高适说「可是人人都会写诗」，这句话好像一锤砸在心上。",
+    :uuid #uuid "668a36dc-c12c-4048-a694-4ead10c18f4f",
+    :ordering-info {:block/left {:db/id 15243}},
+    :page 15241}
+   {:content
+    "4. 电影选择高适视角是取巧且有效的，除了避免了一些本身关于李白的历史记录方面的争议，也避免了「皇帝金锄头」似的，对诗仙的具体想象。以高适主角，首先明确承认自己凡人视角的局限性，继而片段式的，开放式的，透过这个即使局限的视角，展现了一个极耀眼，但观测者也不能完全理解/共情的李白。",
+    :uuid #uuid "668a36dc-3e1d-474b-80ad-65117b1cb15b",
+    :ordering-info {:block/left {:db/id 15249}},
+    :page 15241}
+   {:content
+    "5. 我有时候会努力脑补一些场面的现代版，比如李白一掷千金，给船上跳柘枝舞的姑娘 ；比如几位诗词大家在酒肆里喝酒斗诗，看胡姬胡旋舞。我不知道是我们过度浪漫化了那个年代，还是今天的社会结构下，这类场景难以有直接的对应（正式卖票的舞蹈演出？b站舞蹈区？商k？clubbing？）。似乎类似于学科的高度分化，这些文艺活动似乎今日也高度专业化了。",
+    :uuid #uuid "668a36dc-732d-4870-955c-eefb5deb90bf",
+    :ordering-info {:block/left {:db/id 15255}},
+    :page 15241}
+   {:content
+    "6. 看到有些朋友吐槽电影院里看长安三万里的话，可能会听到一些小朋友不甚理解的背诗，爸爸妈妈的考校，会影响观影体验。我反而觉得这现象良好的呼应的电影里的，「诗还在楼就还在」。也许孩子们无法完全理解一首诗背后作者复杂的人生体验，但是他们如同玩具一般的和诗句的互动，似乎证明了这些诗句超越性的传承。",
+    :uuid #uuid "668a36dc-e5b0-468b-9294-cf780b6583b7",
+    :ordering-info {:block/left {:db/id 15262}},
+    :page 15241}
+   {:content
+    "7. 已知李白的结局，看到二三十岁李白的意气风发，是会感慨的。大概要是看二三十岁意气风发的李世民，又会是另一种感受。再看看自己？",
+    :uuid #uuid "668a36dc-5c4a-419b-ba0a-b5d4a9a95eaf",
+    :ordering-info {:block/left {:db/id 15244}},
+    :page 15241})}
+ {:content "正文 [[pyq/posted]] [[麦克斯韦妖]]",
+  :uuid #uuid "67e51001-3297-4a22-975e-57eabb3e4a13",
+  :page "pyq",
+  :children
+  ({:content "0 合成数据为什么能让模型学习到新的东西？",
+    :uuid #uuid "67e51001-e7af-4136-8a53-15b773d62d07",
+    :ordering-info {:block/left {:db/id 96750}},
+    :page 26,
+    :children
+    ({:content
+      "0.1 麦克斯韦妖是一只把信息转化为能量的妖精：他把速度慢的粒子挡在门外，速度快的粒子放进门内，在门两侧造出温差，用以做功。",
+      :uuid #uuid "67e51001-4c6e-4d91-8c7d-9d32c61e3f2f",
+      :ordering-info {:block/left {:db/id 96744}},
+      :page 26}
+     {:content
+      "0.2 面对合成数据，人类标注者挑出满足特定要求的数据放入训练集，剔除不满的数据，在参数空间中造出某种「loss差」，用以梯度下降。",
+      :uuid #uuid "67e51001-3f7c-48d8-8701-7e3121fe2056",
+      :ordering-info {:block/left {:db/id 96734}},
+      :page 26})}
+   {:content "1 Agent 工程的很多相关概念也可以作为理解人的metaphor。",
+    :uuid #uuid "67e51001-4ecf-47ad-854e-82fa65f9ac1a",
+    :ordering-info {:block/left {:db/id 96744}},
+    :page 26,
+    :children
+    ({:content
+      "1.1 比如我是一个不擅长rag，但擅长在confined context中进行summarization 和 reasoning的agent。",
+      :uuid #uuid "67e51001-dc30-45d2-b1e2-9bc12de9d7af",
+      :ordering-info {:block/left {:db/id 96759}},
+      :page 26}
+     {:content
+      "1.2 如果一个对话需要引用到大量的外部知识，或者需要refer to很久之前的聊天记录，我可能会无法生成高质量回答，甚至会hallucinate。但如果对方可以提供充分的信息，我非常擅于从大量具体信息中找到重点，发现问题，或做出复杂推理。",
+      :uuid #uuid "67e51001-dda6-4a3f-bd15-954bc5831f17",
+      :ordering-info {:block/left {:db/id 96742}},
+      :page 26}
+     {:content
+      "1.3 所以我其实不擅长演讲（因为需要从自己的知识储备中 rag），但擅长在互动中，对好的prompt进行回复。",
+      :uuid #uuid "67e51001-e788-416c-b341-80fb57547c22",
+      :ordering-info {:block/left {:db/id 96738}},
+      :page 26}
+     {:content "1.4 对我来说一个好的Assistant 大概是优先弥补我的rag短板。",
+      :uuid #uuid "67e51001-7d16-408c-bafe-bf121d1c37ad",
+      :ordering-info {:block/left {:db/id 96736}},
+      :page 26})}
+   {:content "2 AI时代会出现更多的一人公司，但这些一人公司取代的应当是现在的小微企业，而非大公司。",
+    :uuid #uuid "67e51001-06be-4992-adc7-f5ef93f4c4c9",
+    :ordering-info {:block/left {:db/id 96759}},
+    :page 26,
+    :children
+    ({:content "2.1 组织的边界存在于这样一个位置，边界内的信息流通成本大大低于跨边界的信息流通成本。",
+      :uuid #uuid "67e51001-69c8-452b-aa51-ce338cc0da89",
+      :ordering-info {:block/left {:db/id 96745}},
+      :page 26}
+     {:content
+      "2.2 一个大的组织的边界内部可以有：私有的高质量数据，彼此的信任，利益和价值的一致性，更垂的大模型，有更多维护开发资源的agent。",
+      :uuid #uuid "67e51001-9cde-4f25-b53a-1ddd6726c944",
+      :ordering-info {:block/left {:db/id 96746}},
+      :page 26})}
+   {:content
+    "3 人类在100万年前发现了火，但直到第一次工业革命才找到了火的杠杆最高的使用方式：使用火产生scalable，steerable的能量。LLM也许是一个使用「信息」产生scalable，steerable能量的方式，一个通用场景的麦克斯韦妖。",
+    :uuid #uuid "67e51001-1cbb-4acf-bcd2-80a2a42e6cfa",
+    :ordering-info {:block/left {:db/id 96745}},
+    :page 26}
+   {:content "",
+    :uuid #uuid "67e51001-b6ed-4dc3-b4a3-d3c142d98b3b",
+    :ordering-info {:block/left {:db/id 96761}},
+    :page 26}
+   {:content "",
+    :uuid #uuid "67e51001-38fb-41a1-8790-ce789583f4ca",
+    :ordering-info {:block/left {:db/id 96740}},
+    :page 26})}
+ {:content
+  "[[pyq/posted]] on 社交需求 [[轻熟人]]\nid:: 633d878f-d2ae-417a-8355-bef5db7bf264",
+  :uuid #uuid "633d878f-d2ae-417a-8355-bef5db7bf264",
+  :page "20221005",
+  :children
+  ({:content "一些关于社交的猜想 请反驳/补充 我 .",
+    :uuid #uuid "668a36fc-3cc7-4914-8889-111b8b109ac3",
+    :ordering-info {:block/left {:db/id 24828}},
+    :page 24713}
+   {:content
+    "1 世界上人太多了 其实总有你可以成为朋友的人 但是可能很难找到 即使找到 也可能不是正确的时间和场景 比如对方太忙 对方不了解你的本性或者动机",
+    :uuid #uuid "668a36fc-ecf5-4a81-9acc-4afff854425a",
+    :ordering-info {:block/left {:db/id 24766}},
+    :page 24713}
+   {:content "2 大学可能是多数人最后一个高频认识新朋友的人生阶段",
+    :uuid #uuid "668a36fc-924e-43b8-ad53-d7898fa23d44",
+    :ordering-info {:block/left {:db/id 24732}},
+    :page 24713}
+   {:content "3 大学之后 认识新朋友的难度提高 速度降低",
+    :uuid #uuid "668a36fc-313c-4fca-a309-66cb79eaa4d9",
+    :ordering-info {:block/left {:db/id 24724}},
+    :page 24713}
+   {:content "3.1 这里也想survey下 大家离开学校2年以上之后 认识新朋友的意愿是否会降低? 为啥?",
+    :uuid #uuid "668a36fc-e089-4534-8337-957b2e5799e8",
+    :ordering-info {:block/left {:db/id 24785}},
+    :page 24713}
+   {:content
+    "4 大学之后 认识新朋友的 主要途径 包括 朋友介绍/组局 工作 参与活动/兴趣小组 交友软件(tinder e.g.) general社交软件(weibo, 微信群), 这其中 应该大部分人都会有通过朋友介绍认识新朋友, 其他的途径也许不是每个人都会有尝试过",
+    :uuid #uuid "668a36fc-6839-4312-9132-eb0ed81381f7",
+    :ordering-info {:block/left {:db/id 24737}},
+    :page 24713}
+   {:content "4.1 朋友介绍对 增加信任基础 降低戒心 有重要帮助, 这是其他途径不具有的特点",
+    :uuid #uuid "668a36fc-ef7b-4ea3-a8e9-2d8ad4ed7d78",
+    :ordering-info {:block/left {:db/id 24793}},
+    :page 24713}
+   {:content "4.2 即使不是通过朋友介绍 如果两个人之间本来有共同好友 或甚至听说过彼此 也会更容易建立信任基础 成为朋友",
+    :uuid #uuid "668a36fc-d1f8-4c77-b3e1-33e579c93cad",
+    :ordering-info {:block/left {:db/id 24728}},
+    :page 24713}
+   {:content "4.3 有些特定的社群场域 会让人自然的对场域中的人容易建立信任",
+    :uuid #uuid "668a36fc-8e75-4841-91a9-842c6988ed17",
+    :ordering-info {:block/left {:db/id 24813}},
+    :page 24713}
+   {:content
+    "5 有相当一部分人 可能是不太会主动去认识新朋友 即使他们觉得有新朋友挺好的 也会觉得这些途径太麻烦. 某种意义上 有些类型的人在大学之后就可能没有办法通过除了工作之外的途径认识到了, 因为他们会主要和自己之前已经建立过连接的朋友互动.",
+    :uuid #uuid "668a36fc-1dab-4631-bd08-5c56ebf81cc0",
+    :ordering-info {:block/left {:db/id 24781}},
+    :page 24713}
+   {:content
+    "6 有些人会对自己的朋友进行一些 「功能」划分(比如有一起打游戏的, 有吐槽工作的, 有分享感情的),  一旦所有自己所需的功能都有了, 就不会需要认识新朋友了.",
+    :uuid #uuid "668a36fc-9c54-4196-ba0b-b0e7299f3ffb",
+    :ordering-info {:block/left {:db/id 24741}},
+    :page 24713}
+   {:content
+    "7 以上这些都是猜想, 我非常希望可以看到反例, 做这些猜想是因为最近在思考人类还有哪些没有被满足的社交需求, 欢迎评论区或者私信讨论.  还有我之前twitter被封了, 欢迎大家关注下新的 @0xYihan",
+    :uuid #uuid "668a36fc-82e7-4165-96d8-7e82e98df877",
+    :ordering-info {:block/left {:db/id 24746}}, 
+    :page 24713})}]

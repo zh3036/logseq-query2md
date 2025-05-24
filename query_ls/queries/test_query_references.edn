@@ -1,0 +1,4 @@
+[:find (pull ?b [*])
+ :where
+ [?t :block/name "test query"]  ; Find the page/tag with name "test query"
+ [?b :block/refs ?t]]           ; Find blocks that reference it 

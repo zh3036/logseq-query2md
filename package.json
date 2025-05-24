@@ -1,0 +1,49 @@
+{
+  "name": "logseq-query-to-markdown",
+  "version": "1.0.0",
+  "description": "A command-line tool to extract data from Logseq using DataScript queries and convert results to well-formatted markdown",
+  "main": "bin/logseq-query.js",
+  "type": "module",
+  "bin": {
+    "logseq-query": "./bin/logseq-query.js",
+    "lq": "./bin/logseq-query.js"
+  },
+  "scripts": {
+    "install-deps": "cd tools && npm install",
+    "test": "node test/test-queries.js",
+    "setup": "npm run install-deps && ./scripts/setup.sh"
+  },
+  "keywords": [
+    "logseq",
+    "dataScript",
+    "markdown",
+    "query",
+    "note-taking",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/logseq-query-to-markdown.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@logseq/nbb-logseq": "^1.2.173",
+    "commander": "^11.1.0",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ]
+} 

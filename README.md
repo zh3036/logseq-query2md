@@ -13,28 +13,28 @@ This script automates the process of extracting data from Logseq using DataScrip
 ## Usage
 
 ```bash
-./query_to_markdown.sh <query_file> [output_name]
+src/shell/query_to_markdown.sh <query_file> [output_name]
 ```
 
 ### Examples
 
 ```bash
 # Use automatic naming (creates pyq_posted_references_query_analysis.md)
-./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn
+src/shell/query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn
 
 # Use custom name (creates my_analysis.md)
-./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn my_analysis
+src/shell/query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn my_analysis
 
 # Show help and available queries
-./query_to_markdown.sh
+src/shell/query_to_markdown.sh
 ```
 
 ## Output Files
 
 The script creates two files:
 
-1. **EDN file**: `query_ls/results/{name}_ordered.edn` - Raw extracted data with proper ordering
-2. **Markdown file**: `{name}_analysis.md` - Human-readable formatted analysis
+1. **EDN file**: `data/queries/results/{name}_ordered.edn` - Raw extracted data with proper ordering
+2. **Markdown file**: `analysis/reports/{name}_analysis.md` - Human-readable formatted analysis
 
 ## Pipeline Steps
 

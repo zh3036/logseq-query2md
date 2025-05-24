@@ -1,0 +1,4 @@
+[:find (pull ?b [*])
+ :where
+ [?t :block/name "PAGE_NAME"]  ; Replace PAGE_NAME with target page
+ [?b :block/refs ?t]]          ; Find blocks that reference it 
