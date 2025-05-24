@@ -1,0 +1,14 @@
+# Ignore all files in analysis/reports directory
+analysis/reports/*
+
+# Ignore all files in data/processed directory
+data/processed/*
+
+# Ignore all files in data/raw directory
+data/raw/*
+
+# Optional: Keep directory structure by not ignoring .gitkeep files
+# Uncomment these lines if you want to preserve empty directories
+# !analysis/reports/.gitkeep
+# !data/processed/.gitkeep
+# !data/raw/.gitkeep 
