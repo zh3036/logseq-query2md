@@ -1,9 +1,4 @@
-[:find (pull ?b [:db/id 
-                 :block/content
-                 :block/uuid
-                 {:block/page [:block/original-name :db/id]}
-                 :block/children
-                ])
+[:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
  :where
- [?r :block/name "pyq/posted"]      
- [?b :block/refs ?r]]
+  [?r :block/name "pyq/posted"]
+  [?b :block/refs ?r]]

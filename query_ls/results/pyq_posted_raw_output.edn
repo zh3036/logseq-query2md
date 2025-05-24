@@ -3,17 +3,12 @@ Looking for graph path...
 Graph path: /Users/yihan/.logseq/graphs/logseq_local_++Users++yihan++LocalYihan++yihan_main_LOGSEQ.transit
 Successfully loaded graph database
 Found query file: queries/pyq_posted_references_query.edn
-Query string: [:find (pull ?b [:db/id 
-                 :block/content
-                 :block/uuid
-                 {:block/page [:block/original-name :db/id]}
-                 :block/children
-                ])
+Query string: [:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
  :where
- [?r :block/name "pyq/posted"]      
- [?b :block/refs ?r]]
+  [?r :block/name "pyq/posted"]
+  [?b :block/refs ?r]]
 
-Parsed query: [:find (pull ?b [:db/id :block/content :block/uuid #:block{:page [:block/original-name :db/id]} :block/children]) :where [?r :block/name "pyq/posted"] [?b :block/refs ?r]]
+Parsed query: [:find (pull ?b [:db/id :block/content :block/uuid #:block{:page [:block/original-name :db/id]}]) :where [?r :block/name "pyq/posted"] [?b :block/refs ?r]]
 Executing query...
 Query results:
 ([{:block/content "[[pyq]] [[paideia/股权]] [[pyq/posted]]",
