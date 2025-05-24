@@ -1,155 +1,89 @@
-# Logseq Block Extractor
+# Query to Markdown Pipeline
 
-A toolkit for extracting and structuring Logseq blocks and their children based on page references.
-
-## Overview
-
-This project provides tools to:
-
-1. Find all blocks in a Logseq graph that reference a specific page/tag (e.g., `[[pyq/posted]]`)
-2. Extract the content, UUID, and page of each block
-3. Recursively fetch all child blocks, maintaining the hierarchy
-4. Output a clean, structured EDN format for further processing
+This script automates the process of extracting data from Logseq using DataScript queries and converting the results to well-formatted markdown.
 
 ## Features
 
-- Query blocks by reference tag (e.g., `[[pyq/posted]]`, `[[无限游戏]]`)
-- Preserve parent-child relationships in the extracted data
-- Support for multiple implementation methods (Babashka or nbb-logseq)
-- Detailed progress reporting during extraction
-- Error handling with helpful messages
+✅ **Ordered Extraction**: Uses the enhanced `extract_recursive_ordered.cljs` to maintain proper block ordering  
+✅ **Automatic Conversion**: Converts results to markdown with table of contents and hierarchical structure  
+✅ **Error Handling**: Graceful error handling with informative messages  
+✅ **Flexible Naming**: Auto-generates output names or uses custom names  
+✅ **Help System**: Shows usage and lists available queries  
 
-## Implementation Approaches
-
-We've developed two different implementations to extract and structure Logseq data:
-
-### 1. Babashka Script (`extract_and_group_posted.clj`)
-
-This approach uses a Babashka script that:
-- Processes an initial query output from Logseq
-- Makes shell calls to the `lq` script for each child block query
-- Recursively builds the nested structure
-
-**Usage:**
-```bash
-./extract_and_group_posted.clj <graph_name> <input_edn_file> <output_edn_file>
-```
-
-**Workflow:**
-1. Run the Logseq query to find blocks with specific references: 
-   ```bash
-   ./query_ls/lq <graph_name> <query_file> > <output_file>
-   ```
-2. Process the results and fetch children:
-   ```bash
-   ./extract_and_group_posted.clj <graph_name> <output_from_step_1> <final_output_file>
-   ```
-
-### 2. Optimized nbb-logseq Implementation (`extract_recursive.cljs`)
-
-This improved approach uses ClojureScript with nbb-logseq to:
-- Load the Logseq graph database only once
-- Run all queries within the same process
-- Recursively fetch and structure blocks more efficiently
-
-**Usage:**
-```bash
-./extract_recursive <graph_name> <query_file> <output_file>
-```
-
-**Advantages:**
-- Much faster processing (no process spawning for each child query)
-- Only loads the Logseq graph database once
-- Better error handling with detailed messages
-- Progress reporting during execution
-
-## Query Format
-
-Queries should be written in EDN format and follow the DataScript query syntax. Example:
-
-```clojure
-[:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
- :where
-  [?r :block/name "pyq/posted"]
-  [?b :block/refs ?r]]
-```
-
-## Output Format
-
-The output is a vector of maps, where each map represents a block and its children:
-
-```clojure
-[{:content "Block content here",
-  :uuid #uuid "668a36c7-89db-4779-8c42-52b5de011369",
-  :page "page-name",
-  :children [{:content "Child block content",
-              :uuid #uuid "child-uuid",
-              :page "page-name",
-              :children [...]}]}
- {...}]
-```
-
-## Markdown Conversion
-
-For better readability, you can convert the structured EDN output to markdown format using the included nbb script.
-
-### Features
-
-- **Table of Contents**: Automatically generated from top-level blocks with clickable links
-- **Hierarchical Structure**: Top-level blocks become markdown headers, children become nested lists
-- **Title Extraction**: Automatically generates meaningful titles from content 
-- **Content Escaping**: Properly escapes markdown special characters
-- **Nested Lists**: Child blocks are converted to markdown lists with proper nesting (- and * bullets)
-
-### Usage
+## Usage
 
 ```bash
-# Convert EDN to readable markdown
-nbb convert_to_markdown.cljs -- <input-edn-file> <output-markdown-file>
-
-# Example
-nbb convert_to_markdown.cljs -- query_ls/results/pyq_posted_optimized_output.edn pyq_analysis_readable.md
+./query_to_markdown.sh <query_file> [output_name]
 ```
 
-### Requirements
+### Examples
 
-- Node.js
-- nbb (install with `npm install -g nbb`)
-
-### Output Example
-
-The markdown conversion creates a hierarchical document with:
-- Table of contents with numbered list and clickable links
-- Top-level blocks as markdown headers (# Block Title)
-- Child blocks as nested markdown lists (- and * bullets)
-- Properly formatted content with escaped special characters
-- Anchor IDs for table of contents navigation
-
-## Examples
-
-### Finding blocks referencing `[[无限游戏]]`:
-
-1. Create a query file:
-```clojure
-[:find (pull ?b [:db/id :block/content :block/uuid {:block/page [:block/original-name :db/id]}])
- :where
-  [?r :block/name "无限游戏"]
-  [?b :block/refs ?r]]
-```
-
-2. Run the extraction:
 ```bash
-./extract_recursive yihan_main_LOGSEQ query_ls/queries/wuxian_game_query.edn query_ls/results/wuxian_game_output.edn
+# Use automatic naming (creates pyq_posted_references_query_analysis.md)
+./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn
+
+# Use custom name (creates my_analysis.md)
+./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn my_analysis
+
+# Show help and available queries
+./query_to_markdown.sh
 ```
 
-## Recommendations
+## Output Files
 
-- The nbb-logseq implementation (`extract_recursive`) is recommended for better performance and simpler workflow
-- For very large graphs or complex queries, consider using more specific queries to limit the result set
+The script creates two files:
 
-## Dependencies
+1. **EDN file**: `query_ls/results/{name}_ordered.edn` - Raw extracted data with proper ordering
+2. **Markdown file**: `{name}_analysis.md` - Human-readable formatted analysis
 
-- Logseq graph database
-- Babashka (for the Babashka implementation)
-- nbb-logseq (for the optimized implementation)
-- Node.js and nbb (for markdown conversion: `npm install -g nbb`)
+## Pipeline Steps
+
+1. **🔍 Ordered Extraction**: Runs DataScript query with proper block ordering
+2. **📝 Markdown Conversion**: Converts hierarchical data to formatted markdown
+3. **✅ Validation**: Checks that both steps completed successfully
+
+## Features of Generated Markdown
+
+- **Table of Contents** with clickable anchors
+- **Hierarchical bullet lists** preserving parent-child relationships  
+- **Proper markdown escaping** of special characters
+- **Clean formatting** with appropriate spacing
+- **Numbered sequences** exactly as they appear in Logseq
+
+## Requirements
+
+- `nbb-logseq` (for running ClojureScript queries)
+- `nbb` (for markdown conversion)
+- Logseq graph accessible at the default location
+
+## Error Handling
+
+The script will:
+- Check if the query file exists
+- Validate successful extraction
+- Validate successful markdown conversion
+- Provide informative error messages
+- Exit with appropriate codes
+
+## Example Output Structure
+
+```markdown
+# PyQ Posted Content Analysis
+
+## Table of Contents
+1. [Block Title](#block-1)
+2. [Another Block](#block-2)
+
+---
+
+# Block Title {#block-1}
+Content here...
+- Child block 1
+- Child block 2
+  * Nested child
+
+# Another Block {#block-2}
+More content...
+```
+
+Happy querying! 🚀 
