@@ -1,0 +1,13 @@
+{
+  "name": "logseq-query-simple",
+  "version": "0.1.0",
+  "description": "Simple Logseq query runner",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "lq-simple": "index.mjs"
+  },
+  "dependencies": {
+    "@logseq/nbb-logseq": "^1.2.173"
+  }
+}

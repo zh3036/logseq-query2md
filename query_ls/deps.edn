@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps {org.clojure/clojurescript {:mvn/version "1.11.60"}
+        datascript/datascript {:mvn/version "1.3.15"}}}
