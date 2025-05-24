@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Query to Markdown Pipeline (Updated for reorganized structure)
+# Query to Markdown Pipeline
 # Usage: ./query_to_markdown.sh <query_file> [output_name]
-# Example: ./query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn pyq_analysis
+# Example: ./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn pyq_analysis
 
 set -e  # Exit on any error
 
 # Get the directory where this script is located and set project root
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
 # Check if query file is provided
@@ -20,7 +20,7 @@ if [ $# -lt 1 ]; then
     echo "2. Convert the results to markdown"
     echo ""
     echo "Available queries:"
-    find "$PROJECT_ROOT/data/queries/definitions" -name "*.edn" -type f 2>/dev/null | sed 's/^/  /' || echo "  No queries found (run after reorganization)"
+    find "$PROJECT_ROOT/data/queries/definitions" -name "*.edn" -type f 2>/dev/null | sed "s|$PROJECT_ROOT/||" | sed 's/^/  /' || echo "  No queries found (run after reorganization)"
     exit 1
 fi
 

@@ -1,0 +1,638 @@
+[{:content "[[pyq]] [[paideia/股权]] [[pyq/posted]]",
+  :uuid #uuid "668a36c7-89db-4779-8c42-52b5de011369",
+  :page "20240207",
+  :children
+  ({:content
+    "为什么SV的VC，比如YC十分鼓励startup founder 进行 股权均分，而国内多数投资人特别推崇要有个大founder 占绝对多数？是因为国内不方便做AB股分开决策权和收益权吗？有什么特别的文化/意识形态原因么？ 决策权集中，而收益权均分是个好的选择么？best of both? worst of both?",
+    :uuid #uuid "668a36c7-4189-4195-9098-6f4ced9df699",
+    :ordering-info {:block/left {:db/id 7749}},
+    :page 7732})}
+ {:content "[[pyq]] [[stoooges]]  [[评估 vs 教育]] [[pyq/posted]]",
+  :uuid #uuid "668a36cd-ac61-4237-b74a-8eeb4ac479a4",
+  :page "20231215",
+  :children
+  ({:content
+    "1 通常来说我是不爱发early申请结果的。可能因为我自己申请时，early没有录取。当初看到别人的好消息，替他们开心的同时，多少也让自己有点焦虑。今年大家都发的很积极，会焦虑的人估计也都看麻了，我也就跟风谈几点思考。",
+    :uuid #uuid "668a36cd-d2c1-4676-9354-5991e5f7e3bf",
+    :ordering-info {:block/left {:db/id 10190}},
+    :page 10142}
+   {:content
+    "2 说来也惭愧，最近几个月在stoooges日常运营花的时间有限，但还是帮助几位导师带出了1 harvard, 1 princeton, 1 wellesley，以及一个微弱协助的columbia。有点厚脸皮的说，带出hypsm对我也不是特别新鲜有成就感的事情，但我确实对三士渡的导师赋能体系是有些自豪的。HPC这几位学员规划/文书导师团队当初都是刚毕业第一份工作加入的三士渡。在ssd的培训体系/日常导师互助下，2-3年带出了大藤。打造出这个快速赋能导师们带出HYPS的体系（留学行业仅此一家？），我是有成就感的；记得之前和同事夸口画饼：希望有一天，ssd导师的普遍水准能达到同行优秀机构的创始人水准，我觉得我们有在向这个方向前进。H团队有位老师我觉得今年算正式出师，C团队有位老师，入职三士渡一年做出columbia，我再带带，明年申请季也差不多有大藤。",
+    :uuid #uuid "668a36cd-31cf-40ba-9dbd-9ae39938c380",
+    :ordering-info {:block/left {:db/id 10188}},
+    :page 10142}
+   {:content
+    "3 HYPS是好学校，我也想去，但也不必把学校和自我价值过于挂钩。美国大学录取复杂，主观，不透明，高度不确定，极易错误归因（具体阐述见置顶pyq），所以一贯努力的high acehiver常会经受极大压力。不能去固然可惜，但大概有很多因素不是申请者人为可以左右，不必自我批判过度，也不要太影响RD心态。毕竟你的RD本来就该是以early rej为前提准备的。",
+    :uuid #uuid "668a36cd-4c39-4884-978a-759e3afac0ea",
+    :ordering-info {:block/left {:db/id 10174}},
+    :page 10142}
+   {:content
+    "4 同样，对于导师，带出HYPS也只是前进的其中一条路，而非唯一一条。有些导师循循善诱，能帮学生挖掘自己的passion；有些导师心思细腻，能帮学员化解申请中的情绪和压力；有些导师深度钻研某个领域，能带学生快速上手；etc. 无奈，限于社会价值，HYPSM导师这条路更加表面光鲜一些。",
+    :uuid #uuid "668a36cd-d868-4717-b29e-a8e6f4697d67",
+    :ordering-info {:block/left {:db/id 10172}},
+    :page 10142}
+   {:content
+    "5 我不喜欢美本评估体系，虽然了解，或者说，因为了解。从robustness角度来说，存在相当一些安全有效但不正当手段，可以提高申请结果的质量。学生和机构，需要一定的勇气和智慧，才能抵抗住使用这些手段的诱惑。从motivation角度来说，即使那些正当提高申请结果质量的方法，也有相当一部分无助于学生的真诚表达或个人成长。学生和机构，需要一定的技艺，去尽量align录取结果和成长/真诚，当然也总是有些妥协。",
+    :uuid #uuid "668a36cd-4068-4ec2-8f7f-865dc4e7f90c",
+    :ordering-info {:block/left {:db/id 10175}},
+    :page 10142}
+   {:content
+    "5.1 这个体系下的HYP申请是对结果的极致优化，对导师的要求，有时是反人性的。HYP指导是个extremely intentional的过程；也许对于学生，有些活动只是出于热爱；但对于导师，每个建议都应基于从招生官评估标准出发的，深度思考过的明确的原因。然而导师们关于标准本身的技艺和深度思考，似乎除了影响了录取名额的分配，没有给社会带来增量价值，也对学生长远发展并不总是有录取结果之外的帮助。",
+    :uuid #uuid "668a36cd-4f20-4775-a8d0-9e161ac0d8d3",
+    :ordering-info {:block/left {:db/id 10171}},
+    :page 10142,
+    :children
+    ({:content
+      "5.1.1 即使一些看似随意的建议也往往intentional：「都可以」可能是导师明确意识到这个选择对申请结果不重要；「看学生偏好」可能是导师认为学生的主观能动性有助于活动的完成效果，etc.",
+      :uuid #uuid "668a36cd-87a9-4936-9598-5a4e95bcf962",
+      :ordering-info {:block/left {:db/id 10183}},
+      :page 10142})}
+   {:content
+    "5.2 as i mentioned in my prev pyq，我其实不喜欢大部分评估体系。这些体系多是为了规模化，极其在意成本，常常牺牲效度，造成个体努力和资源分配的双重低效。JS的trader offsite面试有5轮7小时，我体验下来觉得效度很高，但成本也惊人。（考虑到面试官是工资极高的senior trader）对于JS来说，他们过于有钱，招到合适的人过于重要，合适付出这个成本。",
+    :uuid #uuid "668a36cd-a7dd-4bda-9056-86c063f2529b",
+    :ordering-info {:block/left {:db/id 10183}},
+    :page 10142}
+   {:content
+    "6 在很多领域，「最高水平」的人类面试官是效度最高，成本也最高的评估方式。 他们熟知该领域、有丰富的面试技艺，经验以及对潜在bias的自我觉察。 除了JS例子，哈佛校友面，牛剑教授面，也都接近此类型。好的评估可以给所有竞争者更好的motivation；大家仍要竞争，但会主要提高自己的真实实力，而非做表面功夫，因为好的评估可以穿透表面功夫。",
+    :uuid #uuid "668a36cd-8732-45d7-b30a-e263df88bd38",
+    :ordering-info {:block/left {:db/id 10182}},
+    :page 10142}
+   {:content
+    "8 图穷匕见：最近在试图用LLM做一个 通用认知能力，批判性思维的面试官。一个初步demo，效果还不错，欢迎反馈：bit.ly/paideia_demo (需要用电脑，需要有github账号)",
+    :uuid #uuid "668a36cd-7b99-426d-a244-878898eff4db",
+    :ordering-info {:block/left {:db/id 10163}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-f9ba-4b44-8e29-798c4f58a128",
+    :ordering-info {:block/left {:db/id 10187}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-f1c4-402f-9b6a-90339f07c9cd",
+    :ordering-info {:block/left {:db/id 10151}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-72f8-44bf-82a0-972f23c16ca7",
+    :ordering-info {:block/left {:db/id 10160}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-8e9b-4626-aaab-030523f00d75",
+    :ordering-info {:block/left {:db/id 10154}},
+    :page 10142}
+   {:content "",
+    :uuid #uuid "668a36cd-1fc5-47db-90cc-30b09aea2165",
+    :ordering-info {:block/left {:db/id 10164}},
+    :page 10142})}
+ {:content
+  "[[AI/alignment]] [[pyq]] [[tweets]] [[pyq/posted]]\nid:: 646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+  :uuid #uuid "646d2c3d-fbc1-4123-a0f0-7124e4a3707b",
+  :page "20230523",
+  :children
+  ({:content "raw",
+    :uuid #uuid "668a36e3-33df-42b6-9e86-c4f840c9c0bf",
+    :ordering-info {:block/left {:db/id 16167}},
+    :page 16707,
+    :children
+    ({:content "0",
+      :uuid #uuid "668a36e3-1221-4ea9-80b1-758c0a8695d6",
+      :ordering-info {:block/left {:db/id 16804}},
+      :page 16707,
+      :children
+      ({:content "#AI/alignment",
+        :uuid #uuid "668a36e3-d2af-4b70-b3ab-5ad6f5bff035",
+        :ordering-info {:block/left {:db/id 16761}},
+        :page 16707}
+       {:content "在zuzalu学习了一些ai对齐问题",
+        :uuid #uuid "668a36e3-f711-4b51-84c5-68c0ffac9216",
+        :ordering-info {:block/left {:db/id 16756}},
+        :page 16707}
+       {:content
+        "最近关于AI对其问题的一些学习随便发一些内容不保证准确可能就是给没了解。过的大家一个感觉什么是对其问题。",
+        :uuid #uuid "668a36e3-6775-4556-874f-3ff6eed9a460",
+        :ordering-info {:block/left {:db/id 16733}},
+        :page 16707}
+       {:content "x",
+        :uuid #uuid "668a36e3-03be-432b-9104-fcac603e2f75",
+        :ordering-info {:block/left {:db/id 16734}},
+        :page 16707}
+       {:content "对其问题解决的是人类想给人工智能的目标跟人工智能自己本身的目标不一致的这样一个问题。",
+        :uuid #uuid "668a36e3-bbe8-4374-b73f-67083bd63d82",
+        :ordering-info {:block/left {:db/id 16740}},
+        :page 16707}
+       {:content
+        "在展开讲解之前我们先举一些例子，我觉得那个比较极端的例子是这样子，就是假设人类训练一个人工智能，希望这个人工智能可以让人类开心，它的目标是让人人类开心。阿铛这个模型比如说只是一个大雨的模型，还比较弱小的时候，因为他也只能给人类讲话，所以说对咱来说可能让人类开心，更让人类笑，嗯，他要做的事情是一样的，都是去讲笑话的。",
+        :uuid #uuid "668a36e3-2d82-41ca-9618-cbcca08a1eb8",
+        :ordering-info {:block/left {:db/id 16747}},
+        :page 16707}
+       {:content
+        "然后后续呢这个人工智能厄其实一直在训练的，目标是让人来笑，现在人类觉得对这个人工智能很满意，就把它接入了一些饿物理空间，然后发现爱他开始寻求一些更简单的让人累销的办法，比如说释放笑气。",
+        :uuid #uuid "668a36e3-722c-4089-9cf3-e9cf35594c08",
+        :ordering-info {:block/left {:db/id 16815}},
+        :page 16707}
+       {:content
+        "这就是一个典型的不对齐的问题，可以再举一个更生活的例子，比如说现在有一个扫地机器人啊，你希望他啊比如说把面前所有的灰尘都消灭掉，啊，很有可能会出现，唉，他有一天遇到了一个花盆啊，他就是把花盆里的土也全都消灭掉了，那这也是一个啊不太对齐的问题就实际上，原来想给的目标是让他打扫干净卫生啊，不是让他消灭花盆里的灰尘。",
+        :uuid #uuid "668a36e3-15ac-4854-b527-c1df2d981c31",
+        :ordering-info {:block/left {:db/id 16773}},
+        :page 16707}
+       {:content
+        "那么这里其实有两个大问题，一个是人类该给人工智能什么目标，这叫外部对齐问题，另外一个是给了一个人工智能，一个目标之后，人工智能能不能准确的按照这个目标进行，追求这是内部对齐问题。",
+        :uuid #uuid "668a36e3-a531-4fe0-80e9-b5ff009b8088",
+        :ordering-info {:block/left {:db/id 16799}},
+        :page 16707}
+       {:content
+        "可能至少在黑山这边更多人关注的是内部这些问题，我其实也没有看过太多外部的企业的研究，啊唯一一个外部对其的角度可能是说我们很难让人类决定一个大家都同意的对其目标，但是我们可以至少做到让一个模型跟他的使用者自己的目标是对齐的。",
+        :uuid #uuid "668a36e3-a0f3-4ff0-b63a-0502a8ad8000",
+        :ordering-info {:block/left {:db/id 16717}},
+        :page 16707}
+       {:content
+        "当然这个对齐方法其实可能会和内部对齐，目标是有冲突的，很有可能出现一个情况，一个用户想让人的公司能说一些坏的事情，但是这个模型当初的训练者不希望这个模型说一些坏的事情。",
+        :uuid #uuid "668a36e3-cf04-437e-983f-58ed7adacaff",
+        :ordering-info {:block/left {:db/id 16803}},
+        :page 16707}
+       {:content
+        "嗯，也许这个每个人要模型跟自己对齐的说法就会有另外一个新的问题，如果不同的大模型之间有矛盾怎么办？他们之间会发生什么？这部分本身也是一个热门的研究领域，就是。嗯，他的目标要么是降低大语言模型或者是agi发生矛盾的概率，要么是降低他们的矛盾中受到的损害。其中我读到一个比较有意思的小的技术是这样的嗯因为大语言模型的矛盾可能性的一种是他们会彼此分析对方的目标函数，然后用对方的目标函数来去威胁对方，在谈判中获得自己想要的东西。那么有一个办法，就是给自己的大鱼模型设置一个其实不是很重要的目标，还是举个例子，比如说一个人工智能是用来在海边当救生员的，但是我们给他设置一个目标是要保证每艘船上都有一个苹果，让他认为这个目标特别重要，这样当另外一个人工作用来去威胁我们的交通员的时候，可能就不会拿人命来威胁他，而是用苹果来威胁他，那实际上即使苹果真的船上没有苹果也不是什么很大问题1.",
+        :uuid #uuid "668a36e3-9670-492d-9bdd-4fdc185f6168",
+        :ordering-info {:block/left {:db/id 16745}},
+        :page 16707}
+       {:content "---",
+        :uuid #uuid "668a36e3-0af1-452a-8df7-634fd4eb6330",
+        :ordering-info {:block/left {:db/id 16778}},
+        :page 16707}
+       {:content
+        "嗯，总之总体来说，对齐问题大概是在08年就开始研究这个问题，不过可能直到厄这波大语言模型出来，之前他们都是想象中的问题这波大语言模型让这些问题变成了真实实际的问题也变成了，非常热门的问题。像我这次在黑山遇到的几个朋友，我们一起打黑客松的朋友，然后他们也都研究了很多年对齐问题，其中一个右派是想建立，呃严格的细节模型，这样的话可以让AI的预测更加有可解释性来去让AI变得越来越强大。",
+        :uuid #uuid "668a36e3-d3df-49f5-88d9-59066d909c27",
+        :ordering-info {:block/left {:db/id 16770}},
+        :page 16707}
+       {:content
+        "那么让AI变得强大，其实这也是一个很有意思的说法，就是因为啊对其问题跟变强其实不是完全一致的，但也不完全垂直，这两个问题啊，可能会有互相促进作用，也可能互相有拉扯作用，这个看具体的技术怎么样，但其中一个流派就想讲作为我们的队旗跟做安全的时候，最好不要同时提高模型的能力，预防出现一些不可预测的后果。",
+        :uuid #uuid "668a36e3-27da-49a1-a18d-6992c3ae69ee",
+        :ordering-info {:block/left {:db/id 16785}},
+        :page 16707}
+       {:content "单独说说为什么ai会比较难对齐",
+        :uuid #uuid "668a36e3-c469-49a4-86d5-d6611189f987",
+        :ordering-info {:block/left {:db/id 16796}},
+        :page 16707}
+       {:content "这就要提到我特别喜欢的mesa optimizer概念 mesa和meta是对应的",
+        :uuid #uuid "668a36e3-f404-444f-a821-35d6f3e64431",
+        :ordering-info {:block/left {:db/id 16789}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-8c3d-4b23-bd4e-8b2a8e00531f",
+        :ordering-info {:block/left {:db/id 16791}},
+        :page 16707}
+       {:content "如果a是b的neta 那么么b就是a的mesa",
+        :uuid #uuid "668a36e3-0216-4c68-b556-0c5800253d91",
+        :ordering-info {:block/left {:db/id 16782}},
+        :page 16707}
+       {:content "这是一个重要的 为什么ai 可能会不对齐的原因",
+        :uuid #uuid "668a36e3-9700-49a7-a767-3da48fcc7f3b",
+        :ordering-info {:block/left {:db/id 16718}},
+        :page 16707}
+       {:content
+        "因为 agi本身也是optimizer ，然后ai的参数又是被一个optimizer优化出来的，那么ai就是一种learnt optimizer",
+        :uuid #uuid "668a36e3-fcc4-4028-8a48-16f021ef9080",
+        :ordering-info {:block/left {:db/id 16766}},
+        :page 16707}
+       {:content
+        "在这个情况下 是无法保证learnt optimizer一定和 base optmizer的目标是一致的 因为base optimizer的选择标准是哪个 learnt optmizer 在数据上跑起来的结果  好 而不是。直接筛选optmizer的目标",
+        :uuid #uuid "668a36e3-938e-4c3b-917d-579022091d91",
+        :ordering-info {:block/left {:db/id 16794}},
+        :page 16707}
+       {:content "这里和overfitting就有点像",
+        :uuid #uuid "668a36e3-69aa-4a24-ad54-5ed06f1db51c",
+        :ordering-info {:block/left {:db/id 16735}},
+        :page 16707}
+       {:content
+        "最经典的mesa optimizer应该就是人类了 基因在进化的优化下试图生存更久 于是基因造出了人类 但是人类并没有完全按照基因的存续进行选择 人类可能会单身 不要孩子 喜欢同性",
+        :uuid #uuid "668a36e3-5dc4-4d2a-a848-c5fe7e1395ba",
+        :ordering-info {:block/left {:db/id 16749}},
+        :page 16707}
+       {:content "那么ai之于我们 也可能像 人类之于基因",
+        :uuid #uuid "668a36e3-d47e-441f-8fe0-46f1fac73a94",
+        :ordering-info {:block/left {:db/id 16807}},
+        :page 16707}
+       {:content
+        "总体来看 alignment是个很有趣的领域 ，我之前hackathob做的事情是试图让一个ai和一个社群的价值是一致的 用的方法 大概是prompt engineering from human feedback 来去让ai可以模拟社群对潜在需要建设项目的资助意向。可能之后还会继续做做看。",
+        :uuid #uuid "668a36e3-b7bd-4da0-96f0-73d0af23abec",
+        :ordering-info {:block/left {:db/id 16802}},
+        :page 16707}
+       {:content
+        "另外，试图去做一个AI tutor for critical thinking，这里可能也会有alignment，因为学习需要讲究learning objective。",
+        :uuid #uuid "668a36e3-1b4a-481e-890c-511775072e62",
+        :ordering-info {:block/left {:db/id 16759}},
+        :page 16707})}
+     {:content "1",
+      :uuid #uuid "668a36e3-73bc-45ff-9b4f-e6c2f093326f",
+      :ordering-info {:block/left {:db/id 16761}},
+      :page 16707,
+      :children
+      ({:content
+        "在zuzalu探索了AI对齐问题的诸多维度后，我自己也浏览了不少AI对齐研究。做一些简单记录，可能并不尽精确，但能为未曾接触过此问题的朋友，勾勒出一个大概的轮廓。",
+        :uuid #uuid "668a36e3-084b-4f2a-8097-7c520e4131f2",
+        :ordering-info {:block/left {:db/id 16746}},
+        :page 16707}
+       {:content "提到AI alignment，很多人第一反应是AI 安全和 AI伦理，在本文会被涉及，但并不是核心。",
+        :uuid #uuid "668a36e3-7106-45ef-8b9c-f95993babf83",
+        :ordering-info {:block/left {:db/id 16797}},
+        :page 16707}
+       {:content
+        "对齐问题，粗略理解就是人的目标和AI的目标如何一致的问题。先举一例：我们给一个人工智能设定让人类开心的目标。在它还只是一个LLM阶段，这AI会通过讲笑话达到这目标。但随着它不断训练并增强，人类对它很满意，将其接入物理空间，赋予该AI控制一些机械的能力。然后才发现该AI实际优化的目标是让人类发笑，于是AI可能会选择诸如释放笑气的方式来达成目标。再举一个更生活的例子：比如说现在有一个扫地机器人，人类希望他给他的目标可能是消灭所有灰尘，这个机器人大部分时候表现符合人类，直到他不小心进入一个花坛，就试图把花坛的土全部清理掉。这个扫地机器人也不太对齐。人类真正的目标应该是打扫卫生。",
+        :uuid #uuid "668a36e3-fab1-43f8-a31a-d0eb31d85bf4",
+        :ordering-info {:block/left {:db/id 16722}},
+        :page 16707}
+       {:content
+        "对齐问题分为两大类问题：一个是人类应该给AI设置什么目标，即外部对齐问题；另一个是给AI设定目标后，AI是否能准确学习该目标，即内部对齐问题。",
+        :uuid #uuid "668a36e3-dbb1-4c53-a73e-72dec49d4c0f",
+        :ordering-info {:block/left {:db/id 16755}},
+        :page 16707}
+       {:content "模糊感觉在意内部对齐的研究者更多，那么先简单讲讲外部对齐。",
+        :uuid #uuid "668a36e3-b53c-46b3-84c9-d3213ceb03b9",
+        :ordering-info {:block/left {:db/id 16809}},
+        :page 16707}
+       {:content
+        "外部对齐最大的难点是我们很难让人类达成一致，但我们至少可以使模型与使用者的目标保持一致。当然，这种对齐方式可能与内部目标存在冲突。一个情景是：用户希望让人工智能谈论一些有害信息，而模型的开发者并不愿意这样。这种对齐方式还有一个大问题：如果不同大模型间存在矛盾，会发生什么？这本身也是一个热门研究领域。目标或者是降低大型语言模型或 AGI 产生矛盾的可能性，或者是降低因矛盾而遭受的损害。",
+        :uuid #uuid "668a36e3-6f28-4a14-bae9-fe5150924b7a",
+        :ordering-info {:block/left {:db/id 16710}},
+        :page 16707}
+       {:content
+        "我读到过一个有趣的小技术：由于大型语言模型的矛盾可能导致它们相互分析对方的目标函数，并利用对方的目标函数在谈判中威胁对方以达到自己的目的。一个方法是为自己的大型语言模型设置一个不太重要的目标。例如，人工智能的主要任务是在海滩担任救生员，但我们也为它设定一个目标：确保每艘船上都有苹果，并让模型认为这个目标非常重要。这样，当另一个人工智能试图威胁我们的交通员时，对方可能会用苹果来威胁他，而不是用人命。即使船上真的没有苹果，实际上也不是什么大问题。",
+        :uuid #uuid "668a36e3-c2a4-4b23-971e-9a9a3b045cf9",
+        :ordering-info {:block/left {:db/id 16781}},
+        :page 16707}
+       {:content
+        "自07年以来，Eliezer Yudkowsky开始在lesswrong上讨论 本文语境中的AI alignment问题。然而，直至如今大语言模型盛行，这些问题才从想象中的抽象问题，转化为现实中的实际问题。在黑山之行期间，我也挺开心认识了一些多年研究alignment的朋友，deger，jessica，还一起在hackathon里试图做点微小的工作。deger正试图构建一个世界模型（理论来源于davidad），以期提高AI推理的可解释性，也可以让专家更清晰明确的对AI给出反馈，从而促使对齐，也增强AI对世界的理解。",
+        :uuid #uuid "668a36e3-743b-42ad-a125-68ab0b9f251e",
+        :ordering-info {:block/left {:db/id 16712}},
+        :page 16707}
+       {:content
+        "关于让AI变得强大，实则是一个颇富趣味的话题。原因在于AI对齐问题与变强并非完全垂直，二者之间存在某种相互作用。这种互动既可能互相促进，亦可能互相拉扯。值得一提的是，有一派观点认为，在强化对齐和安全时，最好不要同时提升模型的能力，以避免可能引发的无法预料的后果。",
+        :uuid #uuid "668a36e3-33a3-48a1-8a15-5d25c1368a31",
+        :ordering-info {:block/left {:db/id 16738}},
+        :page 16707}
+       {:content
+        "谈论为何AI难以对齐，我们不得不提到mesa optimizer这一令人着迷的概念。mesa和meta是相对的两个概念：若a是b的meta，则b就是a的mesa。这揭示了AI对齐难度的一个关键原因。",
+        :uuid #uuid "668a36e3-ca7d-4814-ab78-3d6ca7006805",
+        :ordering-info {:block/left {:db/id 16776}},
+        :page 16707}
+       {:content
+        "AI某种意义上也是optimizer，而AI的参数则是通过另一个optimizer（比如梯度下降）优化而来。在这种情况下，AI成为了一种learnt/mesa optimizer。但不能保证learnt optimizer与base optimizer的目标是完全一致的。因为base optimizer的选择标准是哪个learnt optimizer所生成的策略在数据上的表现更好，而非直接筛选特定的optimizer的目标。这与overfitting具有一定的类似性，训练数据表现良好的模型可能泛化的时候会出现问题。",
+        :uuid #uuid "668a36e3-32ec-425f-aa59-860a83c1e7eb",
+        :ordering-info {:block/left {:db/id 16752}},
+        :page 16707}
+       {:content
+        "mesa optimizer最经典的例子应该是人类。基因通过进化压力来优化生存时间，进而创造了人类。但人类未必完全按照基因的存续进行选择，可能会选择保持单身、不要孩子或者喜欢同性。这一方面也是因为生存时间是一个过于综合的目标，非常难以直接优化，所以人类优化的通常是一些简单直接的目标，比如吃甜食。因此，AI对我们而言可能与人类之于基因的关系类似。",
+        :uuid #uuid "668a36e3-3521-4b48-8998-503631515890",
+        :ordering-info {:block/left {:db/id 16732}},
+        :page 16707}
+       {:content
+        "总的来说，alignment是一个极为有趣的研究方向。我之前提到hackathon的项目ZuMulation，就尝试对齐AI与社群的价值观，采用了非常简单的世界模型（偏好打分），然后采用prompt engineering from human feedback，最终让AI能够模拟社群对潜在需要建设的公共的项目的资助意向。",
+        :uuid #uuid "668a36e3-e867-4d0e-8377-fd6e504dcb50",
+        :ordering-info {:block/left {:db/id 16805}},
+        :page 16707}
+       {:content
+        "此外，我也在研发一个AI tutor for critical thinking，也在zuzalu找到了可以合作这个项目的朋友。alignment问题对tutor也至关重要，因为涉及学习体验的第一步就是决定learning objective。",
+        :uuid #uuid "668a36e3-8f94-4ec6-bf98-ac2b940bc1d8",
+        :ordering-info {:block/left {:db/id 16713}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-d672-474d-af52-ff321cda0ab0",
+        :ordering-info {:block/left {:db/id 16813}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-4d1f-4701-bdff-c9224be646d3",
+        :ordering-info {:block/left {:db/id 16714}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-f0cf-463e-8ea2-9fdb8c590364",
+        :ordering-info {:block/left {:db/id 16771}},
+        :page 16707}
+       {:content "",
+        :uuid #uuid "668a36e3-bfd3-471f-8c0e-15c52ce0dc69",
+        :ordering-info {:block/left {:db/id 16790}},
+        :page 16707})}
+     {:content "2",
+      :uuid #uuid "668a36e3-0862-4f7b-a423-bb56c51d9977",
+      :ordering-info {:block/left {:db/id 16746}},
+      :page 16707,
+      :children
+      ({:content
+        "在zuzalu探索了AI对齐问题的诸多维度后，我自己也浏览了不少AI对齐研究。做一些简单记录，可能并不尽精确，但能为未曾接触过此问题的朋友，勾勒出一个大概的轮廓。",
+        :uuid #uuid "668a36e3-f0d8-442f-ac9d-f35fcc77c985",
+        :ordering-info {:block/left {:db/id 16737}},
+        :page 16707}
+       {:content "提到AI alignment，很多人第一反应是AI 安全和 AI伦理，在本文会被涉及，但并不是核心。",
+        :uuid #uuid "668a36e3-a767-4eca-b402-a13795f5fdfd",
+        :ordering-info {:block/left {:db/id 16719}},
+        :page 16707}
+       {:content
+        "对齐问题，粗略理解就是人的目标和AI的目标如何一致的问题。先举一例：我们给一个人工智能设定让人类开心的目标。在它还只是一个LLM阶段，这AI会通过讲笑话达到这目标。但随着它不断训练并增强，人类对它很满意，将其接入物理空间，赋予该AI控制一些机械的能力。然后才发现该AI实际优化的目标是让人类发笑，于是AI可能会选择诸如释放笑气的方式来达成目标。再举一个更生活的例子：比如说现在有一个扫地机器人，人类希望他给他的目标可能是消灭所有灰尘，这个机器人大部分时候表现符合人类，直到他不小心进入一个花坛，就试图把花坛的土全部清理掉。这个扫地机器人也不太对齐。人类真正的目标应该是打扫卫生。",
+        :uuid #uuid "668a36e3-e127-4b17-b926-7b5ca590e7aa",
+        :ordering-info {:block/left {:db/id 16806}},
+        :page 16707}
+       {:content
+        "对齐问题分为两大类问题：一个是人类应该给AI设置什么目标，即外部对齐问题；另一个是给AI设定目标后，AI是否能准确学习该目标，即内部对齐问题。",
+        :uuid #uuid "668a36e3-7717-4538-bdc0-2ae9b75cb65a",
+        :ordering-info {:block/left {:db/id 16721}},
+        :page 16707}
+       {:content
+        "模糊感觉在意内部对齐的研究者更多，那么先简单讲讲外部对齐。\n外部对齐最大的难点是我们很难让人类达成一致，但我们至少可以使模型与使用者的目标保持一致。当然，这种对齐方式可能与内部目标存在冲突。一个情景是：用户希望让人工智能谈论一些有害信息，而模型的开发者并不愿意这样。这种对齐方式还有一个大问题：如果不同大模型间存在矛盾，会发生什么？这本身也是一个热门研究领域。目标或者是降低大型语言模型或 AGI 产生矛盾的可能性，或者是降低因矛盾而遭受的损害。\n我读到过一个有趣的小技术：由于大型语言模型的矛盾可能导致它们相互分析对方的目标函数，并利用对方的目标函数在谈判中威胁对方以达到自己的目的。一个方法是为自己的大型语言模型设置一个不太重要的目标。例如，人工智能的主要任务是在海滩担任救生员，但我们也为它设定一个目标：确保每艘船上都有苹果，并让模型认为这个目标非常重要。这样，当另一个人工智能试图威胁我们的交通员时，对方可能会用苹果来威胁他，而不是用人命。即使船上真的没有苹果，实际上也不是什么大问题。",
+        :uuid #uuid "668a36e3-0849-44c9-9e1d-e8bd87b6c177",
+        :ordering-info {:block/left {:db/id 16753}},
+        :page 16707}
+       {:content
+        "自07年以来，Eliezer Yudkowsky开始在lesswrong上讨论 本文语境中的AI alignment问题。然而，直至如今大语言模型盛行，这些问题才从想象中的抽象问题，转化为现实中的实际问题。在黑山之行期间，我也挺开心认识了一些多年研究alignment的朋友，deger，jessica，还一起在hackathon里试图做点微小的工作。deger正试图构建一个世界模型（理论来源于davidad），以期提高AI推理的可解释性，也可以让专家更清晰明确的对AI给出反馈，从而促使对齐，也增强AI对世界的理解。",
+        :uuid #uuid "668a36e3-a552-48ef-9404-bd6ff0373028",
+        :ordering-info {:block/left {:db/id 16731}},
+        :page 16707}
+       {:content
+        "关于让AI变得强大，实则是一个颇富趣味的话题。原因在于AI对齐问题与变强并非完全垂直，二者之间存在某种相互作用。这种互动既可能互相促进，亦可能互相拉扯。值得一提的是，有一派观点认为，在强化对齐和安全时，最好不要同时提升模型的能力，以避免可能引发的无法预料的后果。",
+        :uuid #uuid "668a36e3-07a0-48e8-a64c-29efbac130b8",
+        :ordering-info {:block/left {:db/id 16716}},
+        :page 16707}
+       {:content
+        "谈论为何AI难以内部对齐，我们不得不提到mesa optimizer这个我特别喜欢的概念。mesa和meta是相对的两个概念：若a是b的meta，则b就是a的mesa。这揭示了AI对齐难度的一个关键原因。\nAI某种意义上也是optimizer，而AI的参数则是通过另一个optimizer（比如梯度下降）优化而来。在这种情况下，AI成为了一种learnt/mesa optimizer。但不能保证learnt optimizer与base optimizer的目标是完全一致的。因为base optimizer的选择标准是哪个learnt optimizer所生成的策略在数据上的表现更好，而非直接筛选特定的optimizer的目标。这与overfitting具有一定的类似性，训练数据表现良好的模型可能泛化的时候会出现问题。\nmesa optimizer最经典的例子应该是人类。基因通过进化压力来优化生存时间，进而创造了人类。但人类未必完全按照基因的存续进行选择，可能会选择保持单身、不要孩子或者喜欢同性。这一方面也是因为生存时间是一个过于综合的目标，非常难以直接优化，所以人类优化的通常是一些简单直接的目标，比如吃甜食。因此，AI对我们而言可能与人类之于基因的关系类似。",
+        :uuid #uuid "668a36e3-1648-41ea-bbb2-89be1fbb1c92",
+        :ordering-info {:block/left {:db/id 16725}},
+        :page 16707}
+       {:content
+        "总的来说，alignment是一个极为有趣的研究方向。我之前提到hackathon的项目ZuMulation，就尝试对齐AI与社群的价值观，采用了非常简单的世界模型（偏好打分），然后采用prompt engineering from human feedback，最终让AI能够模拟社群对潜在需要建设的公共的项目的资助意向。\n此外，我也在研发一个AI tutor for critical thinking，也在zuzalu找到了可以合作这个项目的朋友。alignment问题对tutor也至关重要，因为涉及学习体验的第一步就是决定learning objective。",
+        :uuid #uuid "668a36e3-fab5-48ed-935a-51d8ce24e6cf",
+        :ordering-info {:block/left {:db/id 16758}},
+        :page 16707}
+       {:content
+        "如果对这个问题感兴趣，可以浏览下lesswrong论坛或者AI alignment论坛, 也可以读一下 Jessica 的slides ：[An overview of AI alignment research - Prezentacje Google](https://docs.google.com/presentation/d/1OYXbWwkqzYUTLcxJaV-kkwCCpeB1qtnmjRMAQ_8UNDM/edit#slide=id.g20a3083321c_0_11)",
+        :uuid #uuid "668a36e3-c5a0-4915-b59c-664dfa67db3b",
+        :ordering-info {:block/left {:db/id 16772}},
+        :page 16707})})}
+   {:content "",
+    :uuid #uuid "668a36e3-04e5-402a-9cdd-8a3981c0a90e",
+    :ordering-info {:block/left {:db/id 16804}},
+    :page 16707})}
+ {:content "[[pyq]] raw [[pyq/posted]]",
+  :uuid #uuid "668a36e2-6465-41c2-96dc-6bcbfa5d646a",
+  :page "20230612",
+  :children
+  ({:content "看到一个炒面摊 和一个脚上有些不便的卖花小哥",
+    :uuid #uuid "668a36e2-b7e7-497d-b308-2f19cbf21101",
+    :ordering-info {:block/left {:db/id 16272}},
+    :page 16259}
+   {:content "聊了一会儿",
+    :uuid #uuid "668a36e2-0069-4cb2-bfa9-e33127adb4c0",
+    :ordering-info {:block/left {:db/id 16265}},
+    :page 16259}
+   {:content "大哥 白天送外卖 晚上卖炒面",
+    :uuid #uuid "668a36e2-9233-4bb5-a8d4-89755155f5c2",
+    :ordering-info {:block/left {:db/id 16280}},
+    :page 16259}
+   {:content "现在城管不怎么查了 只要不站路就行",
+    :uuid #uuid "668a36e2-beeb-4cba-9eab-823640a7bb21",
+    :ordering-info {:block/left {:db/id 16273}},
+    :page 16259}
+   {:content "在中海环宇荟旁边 这附近有 比如 404 这种地方",
+    :uuid #uuid "668a36e2-15cd-4fe3-8939-631c22a0e625",
+    :ordering-info {:block/left {:db/id 16279}},
+    :page 16259}
+   {:content "大哥说了句 家里人都指望着",
+    :uuid #uuid "668a36e2-ab61-4f54-861d-37550f604d98",
+    :ordering-info {:block/left {:db/id 16271}},
+    :page 16259}
+   {:content "老婆做一些钟点工",
+    :uuid #uuid "668a36e2-8a9b-4f21-ac2c-1c744cfc448a",
+    :ordering-info {:block/left {:db/id 16264}},
+    :page 16259}
+   {:content "大儿子 15岁 在黄浦区某个初中 女儿在小学",
+    :uuid #uuid "668a36e2-590c-4896-804c-25f48e110776",
+    :ordering-info {:block/left {:db/id 16262}},
+    :page 16259}
+   {:content "因为都没有上海户口 也不想回安徽老家高考 儿子大概率要上中专 大专 职业学校",
+    :uuid #uuid "668a36e2-c358-413d-9bbd-1b73a1cb5ad3",
+    :ordering-info {:block/left {:db/id 16266}},
+    :page 16259}
+   {:content "本来没有很想吃 但是还是买了一碗 炒年糕",
+    :uuid #uuid "668a36e2-2fe4-4085-b894-11906e17a52b",
+    :ordering-info {:block/left {:db/id 16282}},
+    :page 16259}
+   {:content
+    "大哥 本来是在附近开饭店的 后来拆迁了 家里几个兄弟姐妹分了一些 拆迁款 但是自己没要 让姐夫还是哥哥给自己找了个饭店接着干 结果遇到疫情 也不干了 就转外卖了 37岁了 其实也没比我大多少 下次有机会这里再细问一下 似乎整个大家 来上海有段日子了 当初是什么契机过来 以及为什么大部分炒面摊都是安徽人",
+    :uuid #uuid "668a36e2-6d1e-4601-86a7-0c82b5325075",
+    :ordering-info {:block/left {:db/id 16269}},
+    :page 16259}
+   {:content
+    "这么说可能有点奇怪 不过大哥这情况 从人类学社会学角度 研究研究 也蛮有意思的 美国大学招生官也喜欢 算是 上海的under privllaged群体 ，大家经常去远处找活动，支教也好，田野也好，其实上海就有很多田野素材，就有很丰富的 人类图书馆的取材对象。要是能在做些研究和活动的过程中 顺便帮助到这些群体大概就更好了，怎么帮还没想很清楚，至少比如做采访可以给些不多的报酬，比如一小时30rmb我觉得也不错。或者这个没有上海户口的青少年之后的成长教育发展，大概有很多可以做的，即使不是很直接的帮助，如果 足够 privllaged 美国大学申请者们 和 这些孩子们 交流交流 彼此大概都会有些收获吧。也促进社会不同阶层的互相理解。",
+    :uuid #uuid "668a36e2-c9ef-4900-bfc9-fee806fe441f",
+    :ordering-info {:block/left {:db/id 16284}},
+    :page 16259}
+   {:content "也许友商社会实践背提机构们 考虑考虑从这个角度设计点啥事情 让留学咨询这事情 多一点正外部性",
+    :uuid #uuid "668a36e2-9968-4781-9f1c-d990d82e06e0",
+    :ordering-info {:block/left {:db/id 16260}},
+    :page 16259}
+   {:content "",
+    :uuid #uuid "668a36e2-ab31-4b29-8191-921163da7719",
+    :ordering-info {:block/left {:db/id 16268}},
+    :page 16259}
+   {:content "",
+    :uuid #uuid "668a36e2-ae84-42ef-adb9-1a86e15ed324",
+    :ordering-info {:block/left {:db/id 16277}},
+    :page 16259}
+   {:content "",
+    :uuid #uuid "668a36e2-faf2-4a30-af1b-c1b59b5a7be5",
+    :ordering-info {:block/left {:db/id 16275}},
+    :page 16259})}
+ {:content "[[chatgpt]] [[LLM]] [[aigc]] [[pyq]] [[pyq/posted]]",
+  :uuid #uuid "668a36e8-8e3c-4604-a5c4-097db0d8513c",
+  :page "20230329",
+  :children
+  ({:content "1 LLM 面前，培养什么能力是有价值的？ （注意，有了计算器我们还是要学算术）",
+    :uuid #uuid "668a36e8-2ade-4677-bcf9-6b8969be960e",
+    :ordering-info {:block/left {:db/id 18521}},
+    :page 18512,
+    :children
+    ({:content
+      "1.1 能力大概可以有重叠的分为几类，A 人类上限已经完全被超越的能力（识别人脸）B人类上限还比LLM高 但是平均值低于LLM的能力（画画） C 人类平均值高于LLM的能力（判断答案的真实性） D 协助人类使用LLM的能力（阅读，提问） E 超越语言的能力（冥想，内观）",
+      :uuid #uuid "668a36e8-4531-4ec2-99ba-54defa10359f",
+      :ordering-info {:block/left {:db/id 18517}},
+      :page 18512}
+     {:content
+      "1.2 批判性思维 跨文化交流 有些事情也许每个国家都差不多 不需要做太多针对特定教材的本地化 也许是可以做一些 AI empowered 全球化素质教育 社会情感教育项目 欢迎投资人朋友 或者 AI 或者教育行业朋友探讨",
+      :uuid #uuid "668a36e8-508e-42fa-bf55-bea4542a4901",
+      :ordering-info {:block/left {:db/id 18518}},
+      :page 18512})}
+   {:content "2 LLM(large language model) 面前，大学以文书为录取参考还有意义吗？",
+    :uuid #uuid "668a36e8-68d5-46c3-b898-fcd7a3a7b2f9",
+    :ordering-info {:block/left {:db/id 18517}},
+    :page 18512,
+    :children
+    ({:content "2.1 Initialview 一个学生 245刀，问10个比较generic的面试问题，给大学做录取参考",
+      :uuid #uuid "668a36e8-e935-4327-b692-29159d499e6f",
+      :ordering-info {:block/left {:db/id 18523}},
+      :page 18512})}
+   {:content
+    "3 [[par provision]]是笛卡尔提出的一个概念，意指在一个人尚未理解一个领域的知识时，可以暂时接受一种解决方案或方法，直到找到更好的替代方案。LLM是一种足够好的par provision for everyone ，尤其是对B类能力。",
+    :uuid #uuid "668a36e8-3a91-477c-b563-28265315d80c",
+    :ordering-info {:block/left {:db/id 18523}},
+    :page 18512}
+   {:content
+    "4 LLM 是 interface，是media，是 generator, 是declarative programming, 是compressor",
+    :uuid #uuid "668a36e8-15d6-4a4c-8d50-c06af4a3c971",
+    :ordering-info {:block/left {:db/id 18529}},
+    :page 18512}
+   {:content
+    "5 人类和LLM也挺像的，天生的超参数和初始化不同，因为经历导致training data不同，导致最终的performance不同，不同的LLM之间通过语言update彼此的参数状态。有些LLM可能就更有生产力，更能影响其他LLM，etc.",
+    :uuid #uuid "668a36e8-53bf-4d58-bd9c-5e09a434f001",
+    :ordering-info {:block/left {:db/id 18513}},
+    :page 18512}
+   {:content
+    "6 不需要实验的人文学科的科研 会如何被影响呢。 我常感觉理工科有个overarching structure 但是人文学科比较零散 也许LLM可以成为这个structure，去连接不同理论，去找到理论的边界。",
+    :uuid #uuid "668a36e8-a539-4692-a7a3-523d2c7e08a2",
+    :ordering-info {:block/left {:db/id 18516}},
+    :page 18512}
+   {:content
+    "7 LLM可以unleash 人类的集体智慧吗？LLM可以extend the boundary of self吗",
+    :uuid #uuid "668a36e8-30af-41d7-9105-2881b3643b5d",
+    :ordering-info {:block/left {:db/id 18527}},
+    :page 18512}
+   {:content
+    "8 LLM说的话都是先天分析命题吗？对LLM来说记忆和思考的区别是什么？LLM有intentionality吗？",
+    :uuid #uuid "668a36e8-1743-45c8-8e72-74e79a57e363",
+    :ordering-info {:block/left {:db/id 18514}},
+    :page 18512})}
+ {:content "[[pyq/posted]] [[春节]] [[pyq/2023春节]]",
+  :uuid #uuid "668a36f1-376b-41b9-bef5-8cbb3d023f36",
+  :page "20230122",
+  :children
+  ({:content "[[weak tie theory]] [[Dunbar's number]]",
+    :uuid #uuid "668a36f1-d5d6-416f-9603-322baa34192b",
+    :ordering-info {:block/left {:db/id 20827}},
+    :page 20776,
+    :children
+    ({:content "ref",
+      :uuid #uuid "668a36f1-9846-4c50-80b8-a270e22994bf",
+      :ordering-info {:block/left {:db/id 20818}},
+      :page 20776,
+      :children
+      ({:content
+        "[weak tie - Google 搜索](https://www.google.com/search?q=weak+tie&newwindow=1&sxsrf=AJOqlzUtNYzUGdDL77R8WLnWeqrygD69WA:1674326754270&ei=4jLMY8OWEMGm2roP2v2x2AY&ved=0ahUKEwjDj7Sbqdn8AhVBk1YBHdp-DGsQ4dUDCBA&uact=5&oq=weak+tie&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLAToKCAAQRxDWBBCwA0oECEEYAEoECEYYAFCmhhhYpoYYYP6HGGgCcAF4AIABngGIAZ4BkgEDMC4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp)\n[弱联系_百度百科](https://baike.baidu.com/item/%E5%BC%B1%E8%81%94%E7%B3%BB/8418734)\n[强关系 VS 弱关系 - 知乎](https://zhuanlan.zhihu.com/p/338544192)\n[成事为什么在弱关系？ | 人人都是产品经理](https://www.woshipm.com/zhichang/4881389.html)\n[What is weak tie theory? | Definition from TechTarget](https://www.techtarget.com/whatis/definition/weak-tie-theory)\n[The Strength of Weak Ties on JSTOR](https://www.jstor.org/stable/2776392)\n[The real strength of weak ties | Stanford News](https://news.stanford.edu/2022/09/15/real-strength-weak-ties/)\n[Yahoo](https://techcrunch.com/2016/04/26/weak-ties-matter/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEVRi4_cuCI2HZINZC-oNOFWGsc-JItFOFTF2-1tfOmpkG4tA4wdXaGg9wmAWFgS6eHFzsHome6t82_i7_407J0iSHT23uA72tUIlNzeEjRZ5kYRj8a7uDnMbN_Z7hN11k4YJRtOq_wQ8QCAefzMrgFL7NjSW2mjxRkET1aE5KGi)\n[The Strength of Weak Ties: A Network Theory Revisited on JSTOR](https://www.jstor.org/stable/202051)",
+        :uuid #uuid "668a36f1-0f24-4f1e-a9b8-9168aa69279f",
+        :ordering-info {:block/left {:db/id 20828}},
+        :page 20776}
+       {:content
+        "[Dunbar's Number & the Strength of Weak Ties - alumni futures](https://www.alumnifutures.com/2007/08/dunbars-number-.html)",
+        :uuid #uuid "668a36f1-a44c-41bf-9e4c-b157876844fe",
+        :ordering-info {:block/left {:db/id 20796}},
+        :page 20776}
+       {:content
+        "[Tips From @ChrisBrogan on How to Beat Dunbar's Number](https://blog.hubspot.com/blog/tabid/6307/bid/5057/Tips-From-ChrisBrogan-on-How-to-Beat-Dunbar-s-Number.aspx)",
+        :uuid #uuid "668a36f1-7b07-4c46-8b29-e9f903379c62",
+        :ordering-info {:block/left {:db/id 20792}},
+        :page 20776})}
+     {:content "raw",
+      :uuid #uuid "668a36f1-b125-4962-a716-1289669a1d38",
+      :ordering-info {:block/left {:db/id 20828}},
+      :page 20776,
+      :children
+      ({:content
+        "weak 朋友 ， weak is not nece bad， fact we  focusing on differenr comm and info working on different realm",
+        :uuid #uuid "668a36f1-8a63-46b7-beb5-0a83fc5bc43c",
+        :ordering-info {:block/left {:db/id 20801}},
+        :page 20776}
+       {:content "may our  path cross in  the future",
+        :uuid #uuid "668a36f1-5d18-4eb1-aa83-0b04aaa88afe",
+        :ordering-info {:block/left {:db/id 20803}},
+        :page 20776}
+       {:content
+        "strong , honor has been mine. factually de weaken is ok  tie is always there, strong weak 非常看工作内荣",
+        :uuid #uuid "668a36f1-b3ef-4bda-aaba-2f9e08e6a00d",
+        :ordering-info {:block/left {:db/id 20811}},
+        :page 20776}
+       {:content "5 weak tie并不意味着关系",
+        :uuid #uuid "668a36f1-5198-4a52-9a9e-7ddff93b0182",
+        :ordering-info {:block/left {:db/id 20802}},
+        :page 20776})}
+     {:content
+      "1 去年拜年朋友圈提了邓巴数, 今年接着这个概念谈谈 \"weak tie\", 弱联系. Granovetter 1973 年的论文 \"The Strength of Weak Ties\" 有 6w+的 citation. 联系的强度, 大致可以直观理解为两人花在彼此的时间, 情绪强度, 亲密程度, etc. 在原始论文中, 强度实际上被定义为两人的朋友圈的重合度. 弱联系即两人的朋友圈重合度很低的联系.",
+      :uuid #uuid "668a36f1-642c-4241-9a3e-8149ac02192b",
+      :ordering-info {:block/left {:db/id 20801}},
+      :page 20776}
+     {:content
+      "2 其中有一个观点, weak tie 比 strong tie 更能带来新的机会(比如职业机会), 创新思路, 乃至生产力. 也许因为weak tie 可以让彼此获得更多新的信息, 而 strong tie 的双方通常信息比较一致. 更多新信息有助于打破信息茧房, 意味着一个人进入新的社群, 产生更多碰撞. 这个观点在去年被一个 Hvd,Stf,Mit 联合的实证研究初步验证. 该研究团队在 linkedin 上进行了对照试验,  在\"你可能认识的人\"功能下,给有些用户推荐 weak tie 候选人, 给有些用户推荐 strong tie 候选人, 最终发现, 被推 weak tie 的人, 换工作的更多. (说来 我的 #yes3 也许应该从这个点出发做一些产品定位 bit.ly/yes3app ， 帮助人类更好的探讨weak tie)",
+      :uuid #uuid "668a36f1-ea5d-42a2-9115-e5f2931f767c",
+      :ordering-info {:block/left {:db/id 20813}},
+      :page 20776}
+     {:content
+      "3 邓巴数, 150, 是对 strong tie 的限制, 而 weak tie 的数量级, 目前还并未有人提出明确限制.",
+      :uuid #uuid "668a36f1-92f8-4f3b-97e6-cfe6eb039a22",
+      :ordering-info {:block/left {:db/id 20832}},
+      :page 20776}
+     {:content
+      "3.5 那个伤心的可能性稍微缓和一些, 旧的关系没有被牺牲, 他们成为了一种新的形态, but equally meaningful.",
+      :uuid #uuid "668a36f1-c139-49df-aac3-af8a8c00d025",
+      :ordering-info {:block/left {:db/id 20808}},
+      :page 20776}
+     {:content
+      "4 小学时, 我转学了3次, 还被重新分班了1次, 最后呆过 4 个不同的班. 不可避免的, 在认知世界的最初, form 了不多的 strong tie，form 了很多的 weak ties. 这个童年印象深刻的模式让我十分value 后者.",
+      :uuid #uuid "668a36f1-b9f0-4996-bff9-536fe46f9ff7",
+      :ordering-info {:block/left {:db/id 20833}},
+      :page 20776}
+     {:content "5 君子淡以亲.",
+      :uuid #uuid "668a36f1-de90-408a-8f96-085d724bf8eb",
+      :ordering-info {:block/left {:db/id 20806}},
+      :page 20776}
+     {:content
+      "6 我想 weak tie 也可以是非常 “好” 的关系. 大部分时候, \"weak tie\"不是由于主观的疏离. 而是客观上，被动的, 二人关注的信息的不同, 做得事情不同, 所在的社群不同, 导致了彼此花的时间变少, 情绪强度变低. 同理, strong tie 也可以 不是 ”好“ 的关系.",
+      :uuid #uuid "668a36f1-101f-4c5d-abef-54a6f8988bd7",
+      :ordering-info {:block/left {:db/id 20812}},
+      :page 20776}
+     {:content
+      "7 happy new year to my friends; to 那些处于 strong tie 的朋友们(虽然这些ties 大概有一天会 weaken, should our path diverge), the honor has been all mine; and to 那些处于 weak tie 的朋友们, may our path cross in the future.",
+      :uuid #uuid "668a36f1-c2bf-476d-aba0-58246d45ad71",
+      :ordering-info {:block/left {:db/id 20787}},
+      :page 20776})}
+   {:content "",
+    :uuid #uuid "668a36f1-2d19-42c5-b98d-109f24d692a7",
+    :ordering-info {:block/left {:db/id 20818}},
+    :page 20776})}
+ {:content "正文 v1 [[pyq/posted]]",
+  :uuid #uuid "668a37ab-108f-4cc1-920d-d887ed4876f0",
+  :page "pyq/2022春节",
+  :children
+  ({:content "假设一个微信拜年花10秒, 4000个好友就是十多个小时. 所以我想还是pyq拜年比较现实.",
+    :uuid #uuid "668a37ab-62cd-4dc1-a998-f7d13114eb4b",
+    :ordering-info {:block/left {:db/id 53096}},
+    :page 29816}
+   {:content
+    "30年前, 人类学家邓巴说以人的认知能力和精力, 最多日常维持150人的稳定社会关系. 所谓稳定社会关系, 即说个体不仅认识这150人, 还清楚知道这150人之中每两人之间的关系. 30年来, 随着社交网络的发展, 很多学者试图挑战这个数字, 但是不论沟通渠道如何发达, 一个人脑海的容量却没有变大, 所以150人这个上限没有被打破.",
+    :uuid #uuid "668a37ab-8c3c-4b7e-ad6e-a806e69000d7",
+    :ordering-info {:block/left {:db/id 53093}},
+    :page 29816}
+   {:content
+    "互联网带来了无限的链接可能, 而人脑认知局限让人们只能做有限的链接选择. 这是个今日互联网时代尤其显著的矛盾. 大概需要等到人脑被芯片augment的那一天, 情况才会有明显转机.(或者是社交本身被redefine的时候)",
+    :uuid #uuid "668a37ab-5526-42fc-b6e2-c27c0d18b337",
+    :ordering-info {:block/left {:db/id 53094}},
+    :page 29816}
+   {:content
+    "一个有些伤心的可能性: 社交是一个有限资源分配过程, 当达到上限左右, 每深交一个新朋友, 都得付出牺牲和老朋友的交流精力和认知空间的代价.",
+    :uuid #uuid "668a37ab-02a3-4b42-9bd4-2e5f1f03f54d",
+    :ordering-info {:block/left {:db/id 53099}},
+    :page 29816}
+   {:content "一个聊以自慰的可能性: 有些朋友们为我们付出了这些代价.",
+    :uuid #uuid "668a37ab-7cc0-4ce1-a0d8-7df27f0dacae",
+    :ordering-info {:block/left {:db/id 53089}},
+    :page 29816}
+   {:content "不过当然, 稳定社会关系  和 朋友 并不是等同的概念",
+    :uuid #uuid "668a37ab-f096-4a4d-80ce-6a63da9fa82f",
+    :ordering-info {:block/left {:db/id 53100}},
+    :page 29816}
+   {:content "但总之, 朋友们 新年快乐, ofdd, gxfc, kjhl, paxl, yyds",
+    :uuid #uuid "668a37ab-84a7-4d9e-bc30-ccba6d00f480",
+    :ordering-info {:block/left {:db/id 53088}},
+    :page 29816}
+   {:content "",
+    :uuid #uuid "6831e6c5-6057-49e9-9fc6-a870c84cdb88",
+    :ordering-info {:block/left {:db/id 53095}},
+    :page 29816}
+   {:content "",
+    :uuid #uuid "668a37ab-2c93-40ed-9951-5b7ace244b53",
+    :ordering-info {:block/left {:db/id 101188}},
+    :page 29816})}
+ {:content "[[pyq/posted]]",
+  :uuid #uuid "67e51001-2795-4c44-8af4-4ff5c1ba41a8", 
+  :page "pyq"}]

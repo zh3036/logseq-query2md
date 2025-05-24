@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Simple wrapper script for the Logseq query tool (Updated for reorganized structure)
+# Simple wrapper script for the Logseq query tool
 # Usage: ./lq GRAPH_NAME QUERY_FILE
 
 # Get the directory where this script is located
@@ -8,4 +8,4 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # Run the query using npx directly
 cd "$SCRIPT_DIR"
-npx @logseq/nbb-logseq "../src/clojure/logseq/simple_query.cljs" "$@" 
+npx @logseq/nbb-logseq ./src/simple_query.cljs "$@"

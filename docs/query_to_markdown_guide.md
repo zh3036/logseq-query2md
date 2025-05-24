@@ -9,49 +9,38 @@ This script automates the process of extracting data from Logseq using DataScrip
 ✅ **Error Handling**: Graceful error handling with informative messages  
 ✅ **Flexible Naming**: Auto-generates output names or uses custom names  
 ✅ **Help System**: Shows usage and lists available queries  
-✅ **Updated Paths**: Works with the reorganized directory structure
 
 ## Usage
 
 ```bash
-./src/shell/query_to_markdown.sh <query_file> [output_name]
+./query_to_markdown.sh <query_file> [output_name]
 ```
 
 ### Examples
 
 ```bash
-# Use automatic naming (creates pyq_posted_references_query_analysis.md in analysis/reports/)
-./src/shell/query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn
+# Use automatic naming (creates pyq_posted_references_query_analysis.md)
+./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn
 
-# Use custom name (creates my_analysis.md in analysis/reports/)
-./src/shell/query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn my_analysis
+# Use custom name (creates my_analysis.md)
+./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn my_analysis
 
 # Show help and available queries
-./src/shell/query_to_markdown.sh
+./query_to_markdown.sh
 ```
 
 ## Output Files
 
-The script creates two files in the organized directory structure:
+The script creates two files:
 
-1. **EDN file**: `data/queries/results/{name}_ordered.edn` - Raw extracted data with proper ordering
-2. **Markdown file**: `analysis/reports/{name}_analysis.md` - Human-readable formatted analysis
+1. **EDN file**: `query_ls/results/{name}_ordered.edn` - Raw extracted data with proper ordering
+2. **Markdown file**: `{name}_analysis.md` - Human-readable formatted analysis
 
 ## Pipeline Steps
 
-1. **🔍 Ordered Extraction**: Runs DataScript query with proper block ordering from `tools/` directory
-2. **📝 Markdown Conversion**: Converts hierarchical data to formatted markdown using `src/clojure/convert_to_markdown.cljs`
+1. **🔍 Ordered Extraction**: Runs DataScript query with proper block ordering
+2. **📝 Markdown Conversion**: Converts hierarchical data to formatted markdown
 3. **✅ Validation**: Checks that both steps completed successfully
-
-## Directory Structure Integration
-
-The script works seamlessly with the reorganized structure:
-
-- **Queries**: Located in `data/queries/definitions/`
-- **Results**: Stored in `data/queries/results/`
-- **Analysis**: Final markdown reports in `analysis/reports/`
-- **Source**: ClojureScript modules in `src/clojure/logseq/`
-- **Tools**: Logseq tools and dependencies in `tools/`
 
 ## Features of Generated Markdown
 
@@ -63,10 +52,9 @@ The script works seamlessly with the reorganized structure:
 
 ## Requirements
 
-- `@logseq/nbb-logseq` (for running ClojureScript queries)
+- `nbb-logseq` (for running ClojureScript queries)
 - `nbb` (for markdown conversion)
 - Logseq graph accessible at the default location
-- Proper directory structure after reorganization
 
 ## Error Handling
 
@@ -76,21 +64,6 @@ The script will:
 - Validate successful markdown conversion
 - Provide informative error messages
 - Exit with appropriate codes
-- Create necessary directories automatically
-
-## Migration from Old Structure
-
-If you're updating from the old structure:
-
-**Old usage:**
-```bash
-./query_to_markdown.sh query_ls/queries/pyq_posted_references_query.edn
-```
-
-**New usage:**
-```bash
-./src/shell/query_to_markdown.sh data/queries/definitions/pyq_posted_references_query.edn
-```
 
 ## Example Output Structure
 
@@ -111,18 +84,6 @@ Content here...
 
 # Another Block {#block-2}
 More content...
-```
-
-## Other Extraction Tools
-
-For direct extraction without markdown conversion:
-
-```bash
-# Use the extract_recursive wrapper
-./src/shell/extract_recursive GRAPH_NAME QUERY_FILE OUTPUT_FILE
-
-# Use the lq tool for simple queries
-./tools/lq GRAPH_NAME QUERY_FILE
 ```
 
 Happy querying! 🚀 
