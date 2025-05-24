@@ -1,16 +1,3 @@
-Trying to run query on graph: yihan_main_LOGSEQ
-Looking for graph path...
-Graph path: /Users/yihan/.logseq/graphs/logseq_local_++Users++yihan++LocalYihan++yihan_main_LOGSEQ.transit
-Successfully loaded graph database
-Found query file: ./queries/pyq_references.edn
-Query string: [:find (pull ?b [*])
- :where
- [?t :block/name "pyq"]  ; Find the page/tag with name "pyq"
- [?b :block/refs ?t]]    ; Find blocks that reference it
-
-Parsed query: [:find (pull ?b [*]) :where [?t :block/name "pyq"] [?b :block/refs ?t]]
-Executing query...
-Query results:
 ([{:block/uuid #uuid "668a36f0-b1da-479c-b888-fcd2c1dd6b91",
    :block/left {:db/id 20524},
    :block/refs [{:db/id 26}],
