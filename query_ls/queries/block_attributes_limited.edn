@@ -1,0 +1,5 @@
+[:find (pull ?b [*])
+ :where
+ [?b :block/content ?content]
+ [?b :block/parent ?parent]
+ [(< ?b 100)]] 

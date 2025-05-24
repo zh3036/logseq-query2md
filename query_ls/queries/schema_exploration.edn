@@ -1,0 +1,6 @@
+[:find ?attr
+ :where
+ [_ ?attr _]
+ [(keyword? ?attr)]
+ [(namespace ?attr) ?ns]
+ [(= ?ns "block")]] 

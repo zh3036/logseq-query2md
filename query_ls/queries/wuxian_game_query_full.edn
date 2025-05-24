@@ -1,0 +1,4 @@
+[:find (pull ?b [*])
+ :where
+  [?r :block/name "无限游戏"]
+  [?b :block/refs ?r]] 

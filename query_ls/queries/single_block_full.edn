@@ -1,0 +1,4 @@
+[:find (pull ?b [*])
+ :where
+ [?b :block/content "test"]
+ [(= ?b 4431)]] 
