@@ -60,12 +60,6 @@
                                  (str "Block from " page) 
                                  title)) "\n\n"
                           
-                          ;; Add metadata
-                          (when page
-                            (str "**Page:** " page "\n\n"))
-                          (when uuid
-                            (str "**UUID:** `" uuid "`\n\n"))
-                          
                           ;; Add content
                           (when-not (str/blank? content)
                             (str (format-content content level) "\n\n"))

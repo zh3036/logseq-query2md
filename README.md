@@ -97,7 +97,6 @@ For better readability, you can convert the structured EDN output to markdown fo
 
 - **Hierarchical Structure**: Uses markdown headers (# ## ### ####) to show block hierarchy
 - **Title Extraction**: Automatically generates meaningful titles from content 
-- **Metadata Preservation**: Includes page names and UUIDs for reference
 - **Content Escaping**: Properly escapes markdown special characters
 - **Readable Formatting**: Indented children blocks for better readability
 
@@ -121,7 +120,6 @@ nbb convert_to_markdown.cljs -- query_ls/results/pyq_posted_optimized_output.edn
 The markdown conversion creates a hierarchical document with:
 - Main title and introduction
 - Block headers based on content or page name
-- Metadata sections showing page and UUID
 - Properly formatted content with escaped special characters
 - Recursive children sections maintaining the original hierarchy
 

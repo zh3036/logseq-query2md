@@ -12,20 +12,18 @@ Successfully used [nbb](https://github.com/babashka/nbb) to convert the Logseq E
    - Preserves parent-child relationships using markdown headers
    - Escapes markdown special characters
    - Extracts meaningful titles from content
-   - Includes metadata (UUID, page references)
 
 2. **Generated structured output** (`pyq_analysis_readable.md`) with:
-   - 1,073 lines of organized content
+   - 637 lines of organized content
    - Proper markdown hierarchy (# ## ### #### levels)
    - Preserved Chinese content
-   - Clean formatting with metadata
+   - Clean formatting
    - Hierarchical structure showing parent-child relationships
 
 ## Key Features of the Conversion
 
 - **Hierarchical Structure**: Uses markdown headers (# ## ### ####) to show block hierarchy
 - **Title Extraction**: Automatically generates titles from content (first 50 characters)
-- **Metadata Preservation**: Includes page names and UUIDs for reference
 - **Content Escaping**: Properly escapes markdown special characters
 - **Readable Format**: Indented children blocks for better readability
 
@@ -52,7 +50,6 @@ The input EDN contains Logseq blocks with:
 The markdown output includes:
 - Main title: "PyQ Posted Content Analysis"
 - Block headers based on content or page name
-- Metadata sections showing page and UUID
 - Escaped content with proper formatting
 - Recursive children sections
 
@@ -70,4 +67,4 @@ The markdown output includes:
 2. `pyq_analysis_readable.md` - The final readable output
 3. `CONVERSION_SUMMARY.md` - This summary document
 
-The conversion successfully transforms the structured Logseq data into a readable format while preserving the hierarchical relationships and metadata from the original blocks. 
+The conversion successfully transforms the structured Logseq data into a readable format while preserving the hierarchical relationships from the original blocks. 
